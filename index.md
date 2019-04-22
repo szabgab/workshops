@@ -73,3 +73,4 @@ Just to name a few.
 * 2018.03.21 16:00-18:30 [Introduction to Ansible](https://www.meetup.com/Code-Mavens/events/246910297/) - [slides](https://code-maven.com/ws2)
 * 2018.02.27 15:30-18:00 Getting started with Linux inside Windows - [Linux as a virtual environment](https://www.meetup.com/Code-Mavens/events/246815054/) - [slides](https://code-maven.com/ws1) - [exercises](https://code-maven.com/exercise-linux-as-a-virtual-environment-nginx)
 
+<script src="/workshops.js"></script>
