@@ -8,32 +8,8 @@ Some of workshops were also lead by [Yonit Gruber-Hazani](https://www.linkedin.c
 
 ## Schedule
 
-* Fixtures and Test Doubles in Pytest (e.g. Mocking)
-
-Writing tests is a great way to improve the quality of your application,
-but in a complex application that depends on various 3rd party APIs it
-can be quite hard.
-
-Pytest makes it easier.
-
-In this workshop will have a quick view on what are fixtures and how to use
-them in Pytest.
-
-We'll also look at Mocks, Spies, Stubs, Fakes, and Dummies that are all various types
-of Test Doubles. We'll see a number of use-cases and implementations.
-
-You will get various cases where you'll need to use the above ideas and tools to test the code.
-
-* Getting Started with Cloud programming in Digital Ocean
-
-[Digital Ocean](http://code-maven.com/digitalocean) started out as low cost and very simple VPS provider
-and then grew at a terrific pace. Today it already provides a number of additional services that you
-get from various Cloud providers.
-
-In this workshop you'll learn and practice how to get started with some of the services Digital Ocean provides.
-
-You'll need to have an international Credit Card with you as for the registration you'll need to provide it.
-
+* [Fixtures and Test Doubles in Pytest (e.g. Mocking)](fixtures-and-test-doubles-in-python)
+* [Getting Started with Digital Ocean](getting-started-with-digital-ocean)
 * ... More to come.
 
 ## Follow us at:
