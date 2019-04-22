@@ -6,6 +6,9 @@ Some of workshops were also lead by [Yonit Gruber-Hazani](https://www.linkedin.c
 
 ## Schedule
 
+* Mocking while testing in Python
+* Getting Started with Cloud programming in Digital Ocean
+
 * ... More to come.
 
 ## Follow us at:
