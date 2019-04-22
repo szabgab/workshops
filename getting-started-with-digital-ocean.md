@@ -7,7 +7,9 @@ In this workshop you'll learn and practice how to get started with some of the s
 You'll need to have an international Credit Card with you as for the registration you'll need to provide it.
 
 This is a hands-on workshop. You must bring your computer to be able to do the task.
-It does not need to have anything special on it just Python, some editor you like, and a Git client.
+It does not need to have anything special on it.
+
+The workshop is lead by Gabor Szabo who also maintains the Code Maven https://code-maven.com/ web site and teaches training courses https://hostlocal.com/ in many different subjects.
 
 <link href="/workshops.css" rel="stylesheet">
 <script src="/workshops.js"></script>

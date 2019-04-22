@@ -10,6 +10,8 @@ Some of workshops were also lead by [Yonit Gruber-Hazani](https://www.linkedin.c
 
 * [Fixtures and Test Doubles in Pytest (e.g. Mocking)](fixtures-and-test-doubles-in-python)
 * [Getting Started with Digital Ocean](getting-started-with-digital-ocean)
+* [Creating Jenkins pipeline without any coding](creating-jenkins-pipelines-without-any-coding)
+* [Jenkins pipeline exclusively with Groovy code](jenkins-pipeline-with-groovy-code)
 * ... More to come.
 
 ## Follow us at:
