@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-url: http://workshops.code-maven.com/
 title: "Code-Maven Workshops"
+description: Tell me and I forget. Teach me and I remember. Involve me and I learn.
 show_downloads: false
 github:
    is_project_page: false
