@@ -13,21 +13,23 @@ Some of workshops were also lead by [Yonit Gruber-Hazani](https://www.linkedin.c
 ## Ideas
 
 These are just ideas. They might change. They might get abandoned. You are more that welcome to comment on them
-via the [GitHub repository](https://github.com/szabgab/workshops/) of this page.
+suggest new ones via the [GitHub repository](https://github.com/szabgab/workshops/) of this page or in
+a private e-mail to gabor at szabgab.com.
 
 * [Getting Started with Digital Ocean](getting-started-with-digital-ocean)
 * [Creating Jenkins pipeline without any coding](creating-jenkins-pipelines-without-any-coding)
 * [Jenkins pipeline exclusively with Groovy code](jenkins-pipeline-with-groovy-code)
 * [Creating web presence with GitHub pages](creating-web-presence-with-github-pages)
+* [Image manipulation with Python PIL and Pillow](image-manipulation-with-python-pil-pillow)
 * ... More to come.
 
 ## Follow us at:
 
 * [Meetup](https://www.meetup.com/Code-Mavens/)
 
-## About the DevOps Workshops
+## About the Code-Maven Workshops
 
-Code Maven Workshops are short meetings with a mix or presentations and hands-on exercises to learn tools, technologies, and processes used in the world of Developmen,
+Code Maven Workshops are short meetings with a mix or presentations and hands-on exercises to learn tools, technologies, and processes used in the world of Development,
 Testing, Operations, and DevOps worlds.
 
 The workshops will cover subjects such as
