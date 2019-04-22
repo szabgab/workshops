@@ -9,6 +9,12 @@ Some of workshops were also lead by [Yonit Gruber-Hazani](https://www.linkedin.c
 ## Schedule
 
 * [Fixtures and Test Doubles in Pytest (e.g. Mocking)](fixtures-and-test-doubles-in-python)
+
+## Ideas
+
+These are just ideas. They might change. They might get abandoned. You are more that welcome to comment on them
+via the [GitHub repository](https://github.com/szabgab/workshops/) of this page.
+
 * [Getting Started with Digital Ocean](getting-started-with-digital-ocean)
 * [Creating Jenkins pipeline without any coding](creating-jenkins-pipelines-without-any-coding)
 * [Jenkins pipeline exclusively with Groovy code](jenkins-pipeline-with-groovy-code)

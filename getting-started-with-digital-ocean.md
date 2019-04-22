@@ -1,3 +1,5 @@
+# Getting Started with Digital Ocean
+
 [Digital Ocean](http://code-maven.com/digitalocean) started out as low cost and very simple VPS provider
 and then grew at a terrific pace. Today it already provides a number of additional services that you
 get from various Cloud providers.
