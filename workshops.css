@@ -2,3 +2,8 @@ h1 a {
     color: #FFF;
     text-decoration: none;
 }
+
+h1 a:hover {
+    color: #FFF;
+    text-decoration: none;
+}
