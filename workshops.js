@@ -1,13 +1,13 @@
 function init() {
-    var h1s = document.getElementsByName('h1');
-    console.log(h1s.length);
-    if (h1s.length != 1) {
-        console.error("Number of h1 tags is: " + h1s.length);
+    var elements = document.getElementsByClassName('project-name');
+    console.log(elements.length);
+    if (elements.length != 1) {
+        console.error("Number of elements is: " + elements.length);
     } else {
-        var title = h1s[0].innerHTML;
+        var title = elements[0].innerHTML;
         console.log(title);
-        h1s[0].innerHTML = '<a href="/">' + title + '</a>';
+        elements[0].innerHTML = '<a href="/">' + title + '</a>';
     }
 }
 
-init();
+setTimeout(init, 1000);
