@@ -51,7 +51,7 @@ Just to name a few.
 
 ## Earlier events
 
-* 2018.08.02 16:00-20:00 [Setting up Continuous Integration for GitHub projects](https://www.meetup.com/Code-Mavens/events/246803795/) in [Microsoft StartHub](http://starthub.co.il/) in Tel Aviv
+* 2018.08.02 [Setting up Continuous Integration for GitHub projects](setting-up-continuous-integration-for-github-projects) in [Microsoft StartHub](http://starthub.co.il/) in Tel Aviv
 * 2018.07.18 18:30-21:30 [How to develop software faster and have more stable releases?](https://www.meetup.com/Code-Mavens/events/252083358/) in [40nuggets](https://40nuggets.com/) in Jerusalem
 * 2018.07.05 18:00-22:00 [XP: Pair Programming Workshop](https://www.meetup.com/Code-Mavens/events/249863089/) in [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
 * 2018.06.25 16:00-19:00 [Serverless AWS Lambda](https://www.meetup.com/Code-Mavens/events/246910872/) in [Cellebrite](https://www.cellebrite.com/) in Petach Tikva
