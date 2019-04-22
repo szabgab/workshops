@@ -18,6 +18,7 @@ via the [GitHub repository](https://github.com/szabgab/workshops/) of this page.
 * [Getting Started with Digital Ocean](getting-started-with-digital-ocean)
 * [Creating Jenkins pipeline without any coding](creating-jenkins-pipelines-without-any-coding)
 * [Jenkins pipeline exclusively with Groovy code](jenkins-pipeline-with-groovy-code)
+* [Creating web presence with GitHub pages](creating-web-presence-with-github-pages)
 * ... More to come.
 
 ## Follow us at:
