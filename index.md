@@ -4,6 +4,8 @@ Lead by and [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 
 Some of workshops were also lead by [Yonit Gruber-Hazani](https://www.linkedin.com/in/yonitgruber/)
 
+![Code-Maven Workshops](images/code-maven-workshops-800x450.png)
+
 ## Schedule
 
 * Fixtures and Test Doubles in Pytest (e.g. Mocking)
