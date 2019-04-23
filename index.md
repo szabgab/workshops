@@ -51,6 +51,7 @@ Just to name a few.
 
 ## Earlier events
 
+<div class="event_list">
 * 2018.08.02 [Setting up Continuous Integration for GitHub projects](setting-up-continuous-integration-for-github-projects)
   <br>in [Microsoft StartHub](http://starthub.co.il/) in Tel Aviv
 * 2018.07.18 [How to develop software faster and have more stable releases?](how-to-develop-software-faster-and-have-more-stable-releases-jlm) in [40nuggets](https://40nuggets.com/) in Jerusalem
@@ -67,5 +68,4 @@ Just to name a few.
 * 2018.01.24 [Your First Open Source contribution](your-first-open-source-contribution) in [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
 * 2018.01.16 [Python Pair Programming with TDD](python-pair-programming-with-tdd) in [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
 * 2017.12.19 [Python testing workshop](python-pair-programming-with-tdd) [slides](https://code-maven.com/slides/python-programming/testing-with-pytest) in [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
-
-
+</div>
