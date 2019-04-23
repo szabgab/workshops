@@ -1,6 +1,6 @@
-# Code-Maven Workshops hosts
+# Code-Maven Workshop hosts
 
-## Why would you want to host Meetups?
+## Why would you want to host a Meetups?
 
 * Brand awareness for your company among potential employees.
 * Spreading the information about open positions in your company.
