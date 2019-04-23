@@ -8,7 +8,7 @@ Some of workshops were also lead by [Yonit Gruber-Hazani](https://www.linkedin.c
 
 ## Schedule
 
-* [Fixtures and Test Doubles in Pytest (e.g. Mocking)](fixtures-and-test-doubles-in-python)
+* 2018.05.?? [Fixtures and Test Doubles in Pytest (e.g. Mocking)](fixtures-and-test-doubles-in-python)
 
 ## Ideas
 

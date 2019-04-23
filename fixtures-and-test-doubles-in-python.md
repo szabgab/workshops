@@ -1,5 +1,9 @@
 # Fixtures and Test Doubles in Pytest (e.g. Mocking)
 
+* Date: 2018.05.??
+* [Meetup](https://www.meetup.com/Code-Mavens/events/260824123/)
+* Location: TBD
+
 Writing tests is a great way to improve the quality of your application, but in a complex application that depends on various 3rd party APIs it can be quite hard.
 
 Pytest makes it easier.
