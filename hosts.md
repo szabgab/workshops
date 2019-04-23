@@ -6,6 +6,8 @@
 * Spreading the information about open positions in your company.
 * Added value to your current employees who don't need to go elsewhere for this content.
 
+![Code-Maven Workshops](images/hosted-by-your-company-800x450.png)
+
 ## What we need
 
 We organize workshops that include both presentations and hands on work by the participants. Therefore we need a place with a projector, tables, power slots near the tables, wifi access.
@@ -28,7 +30,7 @@ The actual number of attendees (the people who arrived) was between 15-60. The n
 
 In the meetup announcement we'll include your name and a short description of what you do, something that should make it interesting to developers.
 We can even adjust the image on the given Meetup event to include the name of your company as the host of the event.
-The image that needs to be at least 1200 x 675 pixels is picked up by the various social networks (e.g. LinkedIn) where we announce the workshop.
+The image that needs to be at least 1200 x 675 pixels is picked up by the various social networks (e.g. LinkedIn, Twitter, Facebook) where we announce the workshop.
 
 In our communications we'll include the name of your company where possible.
 
@@ -39,4 +41,3 @@ Before or during the workshop you'll have the opportunity to give a 5 min presen
 
 We usually have some ice-breaking session to help people know each other more. We can work with you to figure out something that has some extra connection to your company.
 
-![Code-Maven Workshops](images/hosted-by-your-company-800x450.png)
