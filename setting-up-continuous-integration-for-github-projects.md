@@ -1,9 +1,9 @@
 # Setting up Continuous Integration for GitHub projects
 
 
-* Date: 2018.08.02 16:00-20:00
+* 2018.08.02 16:00-20:00
 * [Meetup](https://www.meetup.com/Code-Mavens/events/246803795/)
-* Location: [Microsoft StartHub](http://starthub.co.il/) in Tel Aviv
+* [Microsoft StartHub](http://starthub.co.il/) in Tel Aviv
 
 
 Agenda:
