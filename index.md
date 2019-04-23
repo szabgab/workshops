@@ -52,7 +52,7 @@ Just to name a few.
 ## Earlier events
 
 * 2018.08.02 [Setting up Continuous Integration for GitHub projects](setting-up-continuous-integration-for-github-projects)
-  <br class="location">in [Microsoft StartHub](http://starthub.co.il/) in Tel Aviv
+  <br><span class="location"></span>in [Microsoft StartHub](http://starthub.co.il/) in Tel Aviv
 * 2018.07.18 [How to develop software faster and have more stable releases?](how-to-develop-software-faster-and-have-more-stable-releases-jlm) in [40nuggets](https://40nuggets.com/) in Jerusalem
 * 2018.07.05 [XP: Pair Programming Workshop](xp-pair-programming-workshop-1) in [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
 * 2018.06.25 [Serverless AWS Lambda](serverless-aws-lambda) in [Cellebrite](https://www.cellebrite.com/) in Petach Tikva
