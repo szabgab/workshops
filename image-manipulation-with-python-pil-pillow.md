@@ -19,6 +19,3 @@ Some of the tasks you'll accomplish during the workshop.
 * Add a white triangle at the bottom of the image and write some text on it.
 * Draw simple pictures.
 
-
-<link href="/workshops.css" rel="stylesheet">
-<script src="/workshops.js"></script>

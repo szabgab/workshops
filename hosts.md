@@ -33,7 +33,3 @@ Before or during the workshop you'll have the opportunity to give a 5 min presen
 
 We usually have some ice-breaking session to help people know each other more. We can work with you to figure out something that has some extra connection to your company.
 
-
-
-<link href="/workshops.css" rel="stylesheet">
-<script src="/workshops.js"></script>

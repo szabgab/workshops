@@ -30,6 +30,3 @@ Some of the tasks we would like to tackle
 If you'd like to see other subjects covered here, please open a ticket on our
 [GitHub project](https://github.com/szabgab/workshops/)
 
-
-<link href="/workshops.css" rel="stylesheet">
-<script src="/workshops.js"></script>

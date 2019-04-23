@@ -15,6 +15,3 @@ This is a hands-on workshop. You must bring your computer to be able to do the t
 
 The workshop is lead by Gabor Szabo who also maintains the Code Maven web site https://code-maven.com/ and teaches training courses https://hostlocal.com/ in many different subjects related to programming, testing, operations, and DevOps.
 
-
-<link href="/workshops.css" rel="stylesheet">
-<script src="/workshops.js"></script>

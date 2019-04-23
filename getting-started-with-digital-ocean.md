@@ -13,5 +13,3 @@ It does not need to have anything special on it.
 
 The workshop is lead by Gabor Szabo who also maintains the Code Maven https://code-maven.com/ web site and teaches training courses https://hostlocal.com/ in many different subjects.
 
-<link href="/workshops.css" rel="stylesheet">
-<script src="/workshops.js"></script>

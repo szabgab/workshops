@@ -68,6 +68,3 @@ Just to name a few.
 * 2017.12.19 [Python testing workshop](python-pair-programming-with-tdd) [slides](https://code-maven.com/slides/python-programming/testing-with-pytest) in [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
 
 
-
-<link href="/workshops.css" rel="stylesheet">
-<script src="/workshops.js"></script>
