@@ -63,9 +63,9 @@ Just to name a few.
 * 2018.03.21 16:00-18:30 [Introduction to Ansible](https://www.meetup.com/Code-Mavens/events/246910297/) - [slides](https://code-maven.com/ws2) in [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
 * 2018.02.27 15:30-18:00 Getting started with Linux inside Windows - [Linux as a virtual environment](https://www.meetup.com/Code-Mavens/events/246815054/) - [slides](https://code-maven.com/ws1) - [exercises](https://code-maven.com/exercise-linux-as-a-virtual-environment-nginx) in [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
 * 2018.02.28 18:00-22:00 [Mob programming](https://www.meetup.com/Code-Mavens/events/246827710/) in [Yuda](https://modiinapp.com/en/page/4875/yuda-center-for-young-adults) in Modiin
-* 2018.01.24 18:00-22:00 [Your First Open Source contribution](https://www.meetup.com/Code-Mavens/events/246683264/) in [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
-* 2018.01.16 18:00-22:00 [Python Pair Programming with TDD Workshop](https://www.meetup.com/PyWeb-IL/events/246150120/) in [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
-* 2017.12.19 18:00-22:00 [Python testing workshop](https://www.meetup.com/PyWeb-IL/events/245433267/) [slides](https://code-maven.com/slides/python-programming/testing-with-pytest) in [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
+* 2018.01.24 [Your First Open Source contribution](your-first-open-source-contribution) in [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
+* 2018.01.16 [Python Pair Programming with TDD](python-pair-programming-with-tdd) in [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
+* 2017.12.19 [Python testing workshop](python-pair-programming-with-tdd) [slides](https://code-maven.com/slides/python-programming/testing-with-pytest) in [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
 
 
 
