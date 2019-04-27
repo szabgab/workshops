@@ -12,8 +12,8 @@ Some of workshops were also lead by [Yonit Gruber-Hazani](https://www.linkedin.c
 
 ## Ideas
 
-These are just ideas. They might change. They might get abandoned. You are more that welcome to comment on them
-suggest new ones via the [GitHub repository](https://github.com/szabgab/workshops/) of this page or in
+These are just ideas. They might change. They might get abandoned. You are more than welcome to comment on them
+or suggest new ones via the [GitHub repository](https://github.com/szabgab/workshops/) of this page or in
 a private e-mail to gabor at szabgab.com.
 
 * [Getting Started with Digital Ocean](getting-started-with-digital-ocean)
@@ -21,6 +21,7 @@ a private e-mail to gabor at szabgab.com.
 * [Jenkins pipeline exclusively with Groovy code](jenkins-pipeline-with-groovy-code)
 * [Creating web presence with GitHub pages](creating-web-presence-with-github-pages)
 * [Image manipulation with Python PIL - Pillow](image-manipulation-with-python-pil-pillow)
+* [Infrastructure as Code with Terraform](terraform)
 * ... More to come.
 
 ## Follow us at:
