@@ -4,7 +4,7 @@ Lead by and [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 
 ![Code-Maven Workshops](images/code-maven-workshops-800x450.png)
 
-## Follow us at:
+## Regiter to the events at:
 
 * [Code-Mavens at Meetup](https://www.meetup.com/Code-Mavens/)
 
