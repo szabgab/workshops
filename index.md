@@ -2,9 +2,11 @@
 
 Lead by and [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 
-Some of workshops were also lead by [Yonit Gruber-Hazani](https://www.linkedin.com/in/yonitgruber/)
-
 ![Code-Maven Workshops](images/code-maven-workshops-800x450.png)
+
+## Follow us at:
+
+* [Code-Mavens at Meetup](https://www.meetup.com/Code-Mavens/)
 
 ## Schedule
 
@@ -23,10 +25,6 @@ a private e-mail to gabor at szabgab.com.
 * [Image manipulation with Python PIL - Pillow](image-manipulation-with-python-pil-pillow)
 * [Infrastructure as Code with Terraform](terraform)
 * ... More to come.
-
-## Follow us at:
-
-* [Meetup](https://www.meetup.com/Code-Mavens/)
 
 ## About the Code-Maven Workshops
 
@@ -50,6 +48,12 @@ The workshops will cover subjects such as
 
 Just to name a few.
 
+## Courses
+
+In addition to the free workshops Gabor also provides full-length [training courses](https://hostlocal.com/) in these
+subject. Check out the list of currently available courses and let me know if you are interested in either of those or
+something in a related subject.
+
 ## Earlier events
 
 * 2018.08.02 [Setting up Continuous Integration for GitHub projects](setting-up-continuous-integration-for-github-projects)
@@ -67,4 +71,6 @@ Just to name a few.
 * 2018.01.24 [Your First Open Source contribution](your-first-open-source-contribution)
 * 2018.01.16 [Python Pair Programming with TDD](python-pair-programming-with-tdd)
 * 2017.12.19 [Python testing workshop](python-pair-programming-with-tdd)
+
+Some of workshops were also lead by [Yonit Gruber-Hazani](https://www.linkedin.com/in/yonitgruber/)
 
