@@ -19,6 +19,8 @@ or suggest new ones via the [GitHub repository](https://github.com/szabgab/works
 a private e-mail to gabor at szabgab.com.
 
 * [Getting Started with Digital Ocean](getting-started-with-digital-ocean)
+* Getting Started with AWS
+* Getting Started with Google Cloud
 * [Creating Jenkins pipeline without any coding](creating-jenkins-pipelines-without-any-coding)
 * [Jenkins pipeline exclusively with Groovy code](jenkins-pipeline-with-groovy-code)
 * [Creating web presence with GitHub pages](creating-web-presence-with-github-pages)
@@ -29,7 +31,7 @@ a private e-mail to gabor at szabgab.com.
 ## About the Code-Maven Workshops
 
 Code Maven Workshops are short meetings with a mix or presentations and hands-on exercises to learn tools, technologies, and processes used in the world of Development,
-Testing, Operations, and DevOps worlds.
+Testing, Operations, and DevOps.
 
 The workshops will cover subjects such as
 
