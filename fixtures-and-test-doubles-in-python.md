@@ -1,8 +1,8 @@
 # Fixtures and Test Doubles in Pytest (e.g. Mocking)
 
-* Date: 2018.05.??
+* Date: 2018.05.28
 * [Meetup](https://www.meetup.com/Code-Mavens/events/260824123/)
-* Location: TBD
+* Location: Be-All Alon, Yigal Alon 96
 
 Writing tests is a great way to improve the quality of your application, but in a complex application that depends on various 3rd party APIs it can be quite hard.
 
@@ -17,5 +17,5 @@ You will get various cases where you'll need to use the above ideas and tools to
 
 This is a hands-on workshop. You must bring your computer to be able to do the task. It does not need to have anything special on it just Python, some editor you like, and a Git client.
 
-The workshop is lead by Gabor Szabo who also maintains the Code Maven web site https://code-maven.com/ and teaches training courses https://hostlocal.com/ in many different subjects related to programming, testing, operations, and DevOps.
+The workshop is lead by Gabor Szabo who also maintains the [Code Maven](https://code-maven.com/) web site and teaches [training courses](https://hostlocal.com/) in many different subjects related to programming, testing, operations, and DevOps.
 
