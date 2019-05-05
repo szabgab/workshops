@@ -20,9 +20,9 @@ Some of the tasks we would like to tackle
 * Create a second page and link them together
 * Select a theme
 * Set the title of the page
-* Creat a menu for navigation
-* Include our owm CSS to fine-tune the theme
-* Include our onw JavaScript to provide some client-side interaction
+* Create a menu for navigation
+* Include our own CSS to fine-tune the theme
+* Include our own JavaScript to provide some client-side interaction
 * Use a JSON file to provide data for the client-side interaction
 * Include common files in the pages
 

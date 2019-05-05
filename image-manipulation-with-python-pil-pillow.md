@@ -11,7 +11,7 @@ Some of the tasks you'll accomplish during the workshop.
 
 * Create an image with a single color background and text on it that can be posted on social networks to grab the
   attention of people.
-* Add straight lines to existing imagas to mark specific areas.
+* Add straight lines to existing images to mark specific areas.
 * Add rectangulars to image to mark objects.
 * Resize image.
 * Crop image.

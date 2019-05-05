@@ -1,4 +1,4 @@
-# Infrastrucutre as Code with Terraform
+# Infrastructure as Code with Terraform
 
 
 [Terraform](https://www.terraform.io/) is one of the leading technologies used under the title <b>Infrastructure as Code</b>.
@@ -9,7 +9,7 @@
   have negative impact on the rest of your system?
 
 
-In software we are used to use Version Control systems for everythin. Recent years saw the surge of tools that help us
+In software we are used to use Version Control systems for everything. Recent years saw the surge of tools that help us
 track the changes we make to the configurations of our servers. (e.g. Ansible, Chef, Puppet provide solutions for this.)
 
 Terraform helps you track the changes you make to the infrastructure.

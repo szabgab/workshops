@@ -10,7 +10,7 @@ An introduction to DevOps and Agile practices.
 Some companies, even large ones, are much faster than others.
 Some have a much better track record in releasing software with high quality.
 
-In this meeting we are going to discuss what makes the difference. We look into both the theory and the practices. We’ll discuss the organizations, the processes, and the culture that enables some companies to be faster and better than other.
+In this meeting we are going to discuss what makes the difference. We look into both the theory and the practices. We'll discuss the organizations, the processes, and the culture that enables some companies to be faster and better than other.
 
 We will also discuss how teams and organizations can move in this direction. What needs to be done by the management and what can individual engineers contribute.
 

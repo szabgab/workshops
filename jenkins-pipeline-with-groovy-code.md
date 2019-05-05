@@ -1,6 +1,6 @@
 # Jenkins pipeline with Groovy code
 
-Jenkins is the most popular Open source autmation system. It has a traditional mode in which you write stand alons
+Jenkins is the most popular Open source automation system. It has a traditional mode in which you write stand alone
 script in various languages and it has a relatively new pipeline mode.
 
 The pipelines allow you to do a lot of thing by themselves and you can extend them with Groovy script and can also

@@ -18,7 +18,7 @@ You need to provide refreshment for the attendees. Both drinks and food. How fan
 to you, but it should be something to make the attendees feel welcome.  Budget 20-50 NIS / person.
 
 When selecting food, please take in account that there will be people who prefer kosher food and others who might want to have lighter meals. Eg. Fruits, vegetables
-besides the pizzas, sandwicthes, cookies etc.
+besides the pizzas, sandwiches, cookies etc.
 
 It is recommended to provide the drinks as people arrive.
 If you provide cold food it is a good idea to have it available when people arrive.
