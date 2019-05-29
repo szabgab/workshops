@@ -10,7 +10,6 @@ Lead by and [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 
 ## Schedule
 
-* 2018.05.28 [Fixtures and Test Doubles in Pytest (e.g. Mocking)](fixtures-and-test-doubles-in-python)
 
 ## Ideas
 
@@ -58,6 +57,7 @@ something in a related subject.
 
 ## Earlier events
 
+* 2018.05.27 [Fixtures and Test Doubles in Pytest (e.g. Mocking)](fixtures-and-test-doubles-in-python)
 * 2018.08.02 [Setting up Continuous Integration for GitHub projects](setting-up-continuous-integration-for-github-projects)
 * 2018.07.18 [How to develop software faster and have more stable releases?](how-to-develop-software-faster-and-have-more-stable-releases-jlm)
 * 2018.07.05 [XP: Pair Programming Workshop](xp-pair-programming-workshop-1)
