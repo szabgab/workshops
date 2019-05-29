@@ -10,6 +10,7 @@ Lead by and [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 
 ## Schedule
 
+* 2019.06.20  [Getting Started with Google Cloud](getting-started-with-google-cloud)
 
 ## Ideas
 
@@ -19,7 +20,6 @@ a private e-mail to gabor at szabgab.com.
 
 * [Getting Started with Digital Ocean](getting-started-with-digital-ocean)
 * Getting Started with AWS
-* Getting Started with Google Cloud
 * [Creating Jenkins pipeline without any coding](creating-jenkins-pipelines-without-any-coding)
 * [Jenkins pipeline exclusively with Groovy code](jenkins-pipeline-with-groovy-code)
 * [Creating web presence with GitHub pages](creating-web-presence-with-github-pages)
@@ -57,7 +57,7 @@ something in a related subject.
 
 ## Earlier events
 
-* 2018.05.27 [Fixtures and Test Doubles in Pytest (e.g. Mocking)](fixtures-and-test-doubles-in-python)
+* 2019.05.27 [Fixtures and Test Doubles in Pytest (e.g. Mocking)](fixtures-and-test-doubles-in-python)
 * 2018.08.02 [Setting up Continuous Integration for GitHub projects](setting-up-continuous-integration-for-github-projects)
 * 2018.07.18 [How to develop software faster and have more stable releases?](how-to-develop-software-faster-and-have-more-stable-releases-jlm)
 * 2018.07.05 [XP: Pair Programming Workshop](xp-pair-programming-workshop-1)

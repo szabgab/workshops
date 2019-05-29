@@ -1,8 +1,8 @@
 # Fixtures and Test Doubles in Pytest (e.g. Mocking)
 
-* Date: 2018.05.27
+* Date: 2019.05.27 18:00-21:00
 * [Meetup](https://www.meetup.com/Code-Mavens/events/260824123/)
-* Location: [Twiggle](https://twiggle.com/), Yigal Alon 96
+* Location: [Twiggle](https://twiggle.com/), Yigal Alon 96, Tel Aviv
 
 Writing tests is a great way to improve the quality of your application, but in a complex application that depends on various 3rd party APIs it can be quite hard.
 
@@ -19,3 +19,4 @@ This is a hands-on workshop. You must bring your computer to be able to do the t
 
 The workshop is lead by Gabor Szabo who also maintains the [Code Maven](https://code-maven.com/) web site and teaches [training courses](https://hostlocal.com/) in many different subjects related to programming, testing, operations, and DevOps.
 
+[Mocking and Fixtures in Pytest](https://code-maven.com/slides/python-mocking/)
