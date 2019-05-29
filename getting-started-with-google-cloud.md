@@ -1,7 +1,7 @@
 # Getting Started with Google Cloud
 
 * Date: 2019.06.20 18:00-21:00
-* [Meetup]()
+* [Meetup](https://www.meetup.com/Code-Mavens/events/261872508/)
 * Location: [Twiggle](https://twiggle.com/), Yigal Alon 96, Tel Aviv
 
 The [Google cloud](https://cloud.google.com/) is big and it might be intimidating to get started.
@@ -18,6 +18,9 @@ In this workshop we'll do our first step starting by creating an account. We pla
 * Create our own image with some preinstalled software and configuration.
 * Create instance template.
 * Create instance group.
+
+This is a hands-on workshop. It will include presentation and you actually experimenting with it.
+
 
 ## Prerequisite:
 
