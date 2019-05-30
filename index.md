@@ -1,6 +1,6 @@
 # Code-Maven Workshops in Israel
 
-Lead by and [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
+Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 
 ![Code-Maven Workshops](images/code-maven-workshops-800x450.png)
 
@@ -11,6 +11,10 @@ Lead by and [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 ## Schedule
 
 * 2019.06.20  [Getting Started with Google Cloud](getting-started-with-google-cloud)
+
+## Host a workshop
+
+Would you like to [host](host) a Code-Maven workshop?
 
 ## Ideas
 
