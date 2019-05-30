@@ -25,6 +25,7 @@ a private e-mail to gabor at szabgab.com.
 * [Creating web presence with GitHub pages](creating-web-presence-with-github-pages)
 * [Image manipulation with Python PIL - Pillow](image-manipulation-with-python-pil-pillow)
 * [Infrastructure as Code with Terraform](terraform)
+* [ELK - Elasticsearch - Logstash - Kibana stack](elk)
 * ... More to come.
 
 ## About the Code-Maven Workshops
