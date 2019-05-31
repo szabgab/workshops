@@ -18,6 +18,8 @@ In this workshop we'll do our first step starting by creating an account. We pla
 * Create our own image with some preinstalled software and configuration.
 * Create instance template.
 * Create instance group.
+* Private IP vs. Public IP.
+* Fixed public IP.
 
 This is a hands-on workshop. It will include presentation and you actually experimenting with it.
 
