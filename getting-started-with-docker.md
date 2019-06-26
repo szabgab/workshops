@@ -1,7 +1,7 @@
 # Getting started with Docker
 
 * Date: 2019.07.11 18:00-21:00
-* [Meetup](https://www.meetup.com/Code-Mavens/events/)
+* [Meetup](https://www.meetup.com/Code-Mavens/events/262648039)
 * Location: [Twiggle](https://twiggle.com/), Yigal Alon 96, Tel Aviv
 
 
