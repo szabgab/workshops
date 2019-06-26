@@ -10,7 +10,7 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 
 ## Schedule
 
-* 2019.07.11 [Docker](getting-started-with-docker)
+* 2019.07.11 [Getting started with Docker](getting-started-with-docker)
 
 ## Host a workshop
 
