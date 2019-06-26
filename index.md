@@ -10,7 +10,7 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 
 ## Schedule
 
-* 2019.06.20  [Getting Started with Google Cloud](getting-started-with-google-cloud)
+* 2019.07.11 [Docker](getting-started-with-docker)
 
 ## Host a workshop
 
@@ -62,6 +62,7 @@ something in a related subject.
 
 ## Earlier events
 
+* 2019.06.20 [Getting Started with Google Cloud](getting-started-with-google-cloud)
 * 2019.05.27 [Fixtures and Test Doubles in Pytest (e.g. Mocking)](fixtures-and-test-doubles-in-python)
 * 2018.08.02 [Setting up Continuous Integration for GitHub projects](setting-up-continuous-integration-for-github-projects)
 * 2018.07.18 [How to develop software faster and have more stable releases?](how-to-develop-software-faster-and-have-more-stable-releases-jlm)
