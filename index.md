@@ -22,6 +22,7 @@ These are just ideas. They might change. They might get abandoned. You are more 
 or suggest new ones via the [GitHub repository](https://github.com/szabgab/workshops/) of this page or in
 a private e-mail to gabor at szabgab.com.
 
+* [Git advanced commands](git-advanced-commands)
 * [Getting Started with Digital Ocean](getting-started-with-digital-ocean)
 * Getting Started with AWS
 * [Creating Jenkins pipeline without any coding](creating-jenkins-pipelines-without-any-coding)
@@ -40,7 +41,6 @@ Testing, Operations, and DevOps.
 The workshops will cover subjects such as
 
 * Linux CLI
-* Version control (Git)
 * Testing (Unit, Integration, Acceptance)
 * Logging and monitoring (StatsD, ElasticSearch)
 * Configuration management (Ansible, Chef, Puppet)
