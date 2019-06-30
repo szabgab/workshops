@@ -23,6 +23,7 @@ or suggest new ones via the [GitHub repository](https://github.com/szabgab/works
 a private e-mail to gabor at szabgab.com.
 
 * [Git advanced commands](git-advanced-commands)
+* [How Open source projects are developed and how do they maintain quality?](open-source-quality-assurance)
 * [Getting Started with Digital Ocean](getting-started-with-digital-ocean)
 * Getting Started with AWS
 * [Creating Jenkins pipeline without any coding](creating-jenkins-pipelines-without-any-coding)
