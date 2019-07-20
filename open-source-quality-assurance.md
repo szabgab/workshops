@@ -11,3 +11,21 @@ others, the majority do it as volunteers.
 
 These are the main questions we are going to answer in this presentation.
 
+
+Why do people write free and  open source projects in their spare time?
+
+Project types:
+* One person project
+* Multi person projects
+* Corporate released projects
+
+* Language
+* Library
+* Framework
+* Cli tool
+
+* What can a company learn from the open source projects?
+
+* How can you and your company contribute to an open source project?
+
+
