@@ -10,7 +10,7 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 
 ## Schedule
 
-* 2019.07.11 [Getting started with Docker](getting-started-with-docker)
+* 2019.0?.?? [Opening the Linux Shell](opening-the-linux-shell)
 
 ## Host a workshop
 
@@ -22,6 +22,7 @@ These are just ideas. They might change. They might get abandoned. You are more 
 or suggest new ones via the [GitHub repository](https://github.com/szabgab/workshops/) of this page or in
 a private e-mail to gabor at szabgab.com.
 
+* [Regular expressions for fun and profit](regexes-intro)
 * [Git advanced commands](git-advanced-commands)
 * [How Open source projects are developed and how do they maintain quality?](open-source-quality-assurance)
 * [Getting Started with Digital Ocean](getting-started-with-digital-ocean)
@@ -41,7 +42,6 @@ Testing, Operations, and DevOps.
 
 The workshops will cover subjects such as
 
-* Linux CLI
 * Testing (Unit, Integration, Acceptance)
 * Logging and monitoring (StatsD, ElasticSearch)
 * Configuration management (Ansible, Chef, Puppet)
@@ -63,6 +63,8 @@ something in a related subject.
 
 ## Earlier events
 
+* 2019.07.18 [Getting started with Docker](getting-started-with-docker) (rerun of the same event)
+* 2019.07.11 [Getting started with Docker](getting-started-with-docker)
 * 2019.06.20 [Getting Started with Google Cloud](getting-started-with-google-cloud)
 * 2019.05.27 [Fixtures and Test Doubles in Pytest (e.g. Mocking)](fixtures-and-test-doubles-in-python)
 * 2018.08.02 [Setting up Continuous Integration for GitHub projects](setting-up-continuous-integration-for-github-projects)

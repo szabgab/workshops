@@ -4,6 +4,9 @@
 * [Meetup](https://www.meetup.com/Code-Mavens/events/262648039)
 * Location: [Twiggle](https://twiggle.com/), Yigal Alon 96, Tel Aviv
 
+* Date: 2019.07.18 18:00-21:00
+* [Meetup](https://www.meetup.com/Code-Mavens/events/262962501/)
+* Location: [Twiggle](https://twiggle.com/), Yigal Alon 96, Tel Aviv
 
 [Docker](https://www.docker.com/) is the de-facto standard in containerization.
 It allows you to create an environment that can easily be used for development, testing, and deployment
