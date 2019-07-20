@@ -27,3 +27,7 @@ Presentation and mentoring by Gabor Szabo and additional volunteers.
 The workshop has a companion eBook https://leanpub.com/collab-dev-git/
 If you send me an e-mail to "Gabor Szabo gabor@szabgab.com" I'll give you free access to that book.
 
+
+## Other
+
+https://medium.com/@sheetal.pamecha08/https-medium-com-sheetal-pamecha08-one-good-way-to-start-contributing-to-open-source-static-analysers-16543eeeb138
