@@ -1,9 +1,5 @@
 # Python Pair Programming with TDD Workshop
 
-* 2018.01.16 18:00-22:00
-* [Meetup](https://www.meetup.com/PyWeb-IL/events/246150120/)
-* [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
-
 Why work in pairs? Because you already know how to program alone. You can do that as much as you like at work or at home. Let's try something else now.
 
 Objectives

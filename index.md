@@ -10,7 +10,7 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 
 ## Schedule
 
-* 2019.0?.?? [Opening the Linux Shell](opening-the-linux-shell)
+* [Getting started with Golang](getting-started-with-golang) [2019.09.04](https://www.meetup.com/Code-Mavens/events/264153384/)
 
 ## Host a workshop
 
@@ -22,6 +22,7 @@ These are just ideas. They might change. They might get abandoned. You are more 
 or suggest new ones via the [GitHub repository](https://github.com/szabgab/workshops/) of this page or in
 a private e-mail to gabor at szabgab.com.
 
+* [Opening the Linux Shell](opening-the-linux-shell)
 * [Regular expressions for fun and profit](regexes-intro)
 * [Git advanced commands](git-advanced-commands)
 * [How Open source projects are developed and how do they maintain quality?](open-source-quality-assurance)
@@ -82,6 +83,10 @@ something in a related subject.
 * 2018.01.24 [Your First Open Source contribution](your-first-open-source-contribution)
 * 2018.01.16 [Python Pair Programming with TDD](python-pair-programming-with-tdd)
 * 2017.12.19 [Python testing workshop](python-pair-programming-with-tdd)
+    * 2018.01.16 18:00-22:00
+    * [Meetup](https://www.meetup.com/PyWeb-IL/events/246150120/)
+    * [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
+
 
 Some of workshops were also lead by [Yonit Gruber-Hazani](https://www.linkedin.com/in/yonitgruber/)
 
