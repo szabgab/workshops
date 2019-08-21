@@ -36,13 +36,37 @@ something in a related subject.
 * 2019.05.27 [Fixtures and Test Doubles in Pytest (e.g. Mocking)](fixtures-and-test-doubles-in-python)
 * 2018.08.02 [Setting up Continuous Integration for GitHub projects](setting-up-continuous-integration-for-github-projects)
 * 2018.07.18 [How to develop software faster and have more stable releases?](how-to-develop-software-faster-and-have-more-stable-releases-jlm)
+    * 2018.07.18 18:30-21:30
+    * [Meetup](https://www.meetup.com/Code-Mavens/events/252083358/)
+    * [40nuggets](https://40nuggets.com/) in Jerusalem
 * 2018.07.05 [XP: Pair Programming Workshop](xp-pair-programming-workshop-1)
+    * 2018.07.05 18:00-22:00
+    * [Meetup](https://www.meetup.com/Code-Mavens/events/249863089/)
+    * [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
 * 2018.06.25 [Serverless AWS Lambda](serverless-aws-lambda)
+    * 2018.06.25 16:00-19:00
+    * [Meetup](https://www.meetup.com/Code-Mavens/events/246910872/)
+    * [Cellebrite](https://www.cellebrite.com/) in Petach Tikva
 * 2018.05.31 [How to develop software faster and have more stable releases?](how-to-develop-software-faster-and-have-more-stable-releases-tlv-hazerem)
+    * 2018.05.31 16:00-18:00
+    * [Meetup](https://www.meetup.com/Code-Mavens/events/251148675/)
+    * [WeWork HaZerem](https://www.wework.com/buildings/10-hazerem-st--tel-aviv) in Tel Aviv
 * 2018.05.29 [Continuous Integration with Jenkins](continuous-integration-with-jenkins)
-* 2018.05.23 [Mocking in Python as a testing tool](mocking-in-python-as-a-testing-tool) [slides](https://code-maven.com/slides/python-mocking/)
+    * 2018.05.29 16:00-19:00
+    * [Meetup](https://www.meetup.com/Code-Mavens/events/246910783/)
+    * [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
+* 2018.05.23 [Mocking in Python as a testing tool](mocking-in-python-as-a-testing-tool)
+    * 2018.05.23 18:00-19:00
+    * [Meetup](https://www.meetup.com/PyWeb-IL/events/246802670/)
+    * [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
 * 2018.04.30 [Git for beginners part 2](git-for-beginners-part-2)
+    * 2018.04.30 15:00-17:30
+    * [Meetup](https://www.meetup.com/Code-Mavens/events/249897829/)
+    * [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
 * 2018.04.16 [Git for beginners](git-for-beginners-part-1)
+    * 2018.04.16 16:00-18:00
+    * [Meetup](https://www.meetup.com/Code-Mavens/events/246910733/)
+    * [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
 * 2018.03.21 [Introduction to Ansible](introduction-to-ansible)
     * 2018.03.21 16:00-18:30
     * [Meetup](https://www.meetup.com/Code-Mavens/events/246910297/)

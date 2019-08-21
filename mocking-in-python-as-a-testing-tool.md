@@ -1,10 +1,6 @@
 # Mocking in Python as a testing tool
 
-* 2018.05.23 18:00-19:00
-* [Meetup](https://www.meetup.com/PyWeb-IL/events/246802670/)
-* [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
-
-[slides](https://code-maven.com/slides/python-mocking/)
+* [slides](https://code-maven.com/slides/python-mocking/)
 
 Details
 
@@ -15,7 +11,4 @@ How can you test an application that depends on a 3rd party system? Especially, 
 In this meeting we will learn about Mocking in and for testing. After a presentation we'll split up into pairs and then we are going to write tests and use mocking when necessary.
 
 You are expected to bring your own computer with Python installed on it.
-
-Your lead presenter and mentor is Gabor Szabo
-
 

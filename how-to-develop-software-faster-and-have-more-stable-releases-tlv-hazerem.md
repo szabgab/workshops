@@ -1,14 +1,6 @@
 # How to develop software faster and have more stable releases?
 
-* 2018.05.31 16:00-18:00
-* [Meetup](https://www.meetup.com/Code-Mavens/events/251148675/)
-* [WeWork HaZerem](https://www.wework.com/buildings/10-hazerem-st--tel-aviv) in Tel Aviv
-
 An introduction to DevOps and Agile practices.
-
-----------------------
-This location has very limited space. Please only RSVP if you really plan to join the presentation.
-----------------------
 
 Some companies, even large ones are much faster than others.
 Some have a much better track record in releasing software with high quality.

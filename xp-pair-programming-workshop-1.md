@@ -1,9 +1,5 @@
 # XP: Pair Programming Workshop
 
-* 2018.07.05 18:00-22:00
-* [Meetup](https://www.meetup.com/Code-Mavens/events/249863089/)
-* [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
-
 Audience
 --------------
 Both students and experienced developers are welcome!
@@ -54,10 +50,3 @@ More about Pair Programming and this Workshop
 -------------------------------------------------------------------
 https://code-maven.com/pair-programming
 
-Administrative
----------------------
-Parking:
-
-Drinks and Refreshment:
-
-Sponsors: If you can find a sponsor for us we can arrange more food.
