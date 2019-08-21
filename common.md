@@ -10,6 +10,7 @@ For the full list of workshops visit http://workshops.code-maven.com/
 If you are interested in hosting such workshop, get in touch with Gabor.
 
 Speaker / trainer / facilitator: [Gabor Szabo](https://www.linkedin.com/in/szabgab/)
+The workshop is lead by Gabor Szabo who also maintains the [Code Maven](https://code-maven.com/) web site and teaches [training courses](https://hostlocal.com/) in many different subjects related to programming, testing, operations, and DevOps.
 
 Schedule:
 ---------

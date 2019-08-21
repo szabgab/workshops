@@ -1,17 +1,5 @@
 # Setting up Continuous Integration for GitHub projects
 
-
-* 2018.08.02 16:00-20:00
-* [Meetup](https://www.meetup.com/Code-Mavens/events/246803795/)
-* [Microsoft StartHub](http://starthub.co.il/) in Tel Aviv
-
-
-Agenda:
-* 16:00-17:00 mingling
-* 17:00-17:30 introduction
-* 17:30-19:30 coding and discussion including a break
-* 19:30-20:00 retrospective
-
 GitHub is now part of Microsoft so it is especially interesting to have this workshop in the offices of Microsoft.
 
 Nightly builds are that of the past. Today, you need to make sure that every time you share some code with your fellow developers that code works well together with the rest of the system.

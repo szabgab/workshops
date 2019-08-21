@@ -55,10 +55,25 @@ something in a related subject.
 ## Earlier public events
 
 * 2019.07.18 [Getting started with Docker](getting-started-with-docker) (rerun of the same event)
+    * Date: 2019.07.18 18:00-21:00
+    * [Meetup](https://www.meetup.com/Code-Mavens/events/262962501/)
+    * Location: [Twiggle](https://twiggle.com/), Yigal Alon 96, Tel Aviv
 * 2019.07.11 [Getting started with Docker](getting-started-with-docker)
+    * Date: 2019.07.11 18:00-21:00
+    * [Meetup](https://www.meetup.com/Code-Mavens/events/262648039)
+    * Location: [Twiggle](https://twiggle.com/), Yigal Alon 96, Tel Aviv
 * 2019.06.20 [Getting Started with Google Cloud](getting-started-with-google-cloud)
+    * Date: 2019.06.20 18:00-21:00
+    * [Meetup](https://www.meetup.com/Code-Mavens/events/261872508/)
+    * Location: [Twiggle](https://twiggle.com/), Yigal Alon 96, Tel Aviv
 * 2019.05.27 [Fixtures and Test Doubles in Pytest (e.g. Mocking)](fixtures-and-test-doubles-in-python)
+    * Date: 2019.05.27 18:00-21:00
+    * [Meetup](https://www.meetup.com/Code-Mavens/events/260824123/)
+    * Location: [Twiggle](https://twiggle.com/), Yigal Alon 96, Tel Aviv
 * 2018.08.02 [Setting up Continuous Integration for GitHub projects](setting-up-continuous-integration-for-github-projects)
+    * 2018.08.02 16:00-20:00
+    * [Meetup](https://www.meetup.com/Code-Mavens/events/246803795/)
+    * [Microsoft StartHub](http://starthub.co.il/) in Tel Aviv
 * 2018.07.18 [How to develop software faster and have more stable releases?](how-to-develop-software-faster-and-have-more-stable-releases)
     * 2018.07.18 18:30-21:30
     * [Meetup](https://www.meetup.com/Code-Mavens/events/252083358/)
