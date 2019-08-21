@@ -1,10 +1,6 @@
 # Mob programming
 
-* 2018.02.28 18:00-22:00
-* [Meetup](https://www.meetup.com/Code-Mavens/events/246827710/)
-* [Yuda](https://modiinapp.com/en/page/4875/yuda-center-for-young-adults) in Modiin
-
-We will continue to work on the CodeAndTalk web site in the same way we did last time experimenting with mob programming. (See https://en.wikipedia.org/wiki/Mob_programming )
+We will continue to work on the CodeAndTalk web site in the same way we did last time experimenting with mob programming. See also the Wikipedia page about [Mob programming](https://en.wikipedia.org/wiki/Mob_programming)
 
 If you are interested to get involved, you are welcome to join!
 

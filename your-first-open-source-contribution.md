@@ -1,9 +1,5 @@
 # Your First Open Source contribution
 
-* 2018.01.24 18:00-22:00
-* [Meetup](https://www.meetup.com/Code-Mavens/events/246683264/)
-* [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
-
 Why would you want to contribute to an Open Source project? Why is it good for you and/or for the company you work for?
 
 * You use the project, found a bug, fixed it for your purposes, but you don't want to maintain your in-house fork.
@@ -24,8 +20,8 @@ You'll need to bring your own computer and plenty of energy.
 
 Presentation and mentoring by Gabor Szabo and additional volunteers.
 
-The workshop has a companion eBook https://leanpub.com/collab-dev-git/
-If you send me an e-mail to "Gabor Szabo gabor@szabgab.com" I'll give you free access to that book.
+The workshop has a companion eBook called [Collaborative Development using Git and GitHub](https://leanpub.com/collab-dev-git/)
+Participants of the workshop can get a free (digital) copy of the book.
 
 
 ## Other
