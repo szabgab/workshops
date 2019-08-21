@@ -11,6 +11,30 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
     * [Meetup](https://www.meetup.com/Code-Mavens/events/264153384/)
     * [Google Campus for Startups](https://www.campus.co/tel-aviv/en) in Tel Aviv
 
+## Available Workshops
+
+* [How to develop software faster and have more stable releases?](how-to-develop-software-faster-and-have-more-stable-releases)
+
+* [Getting started with Docker](getting-started-with-docker)
+* [Getting Started with Google Cloud](getting-started-with-google-cloud)
+* [Setting up Continuous Integration for GitHub projects](setting-up-continuous-integration-for-github-projects)
+* [XP: Pair Programming Workshop](xp-pair-programming-workshop-1)
+* [Serverless AWS Lambda](serverless-aws-lambda)
+* [Continuous Integration with Jenkins](continuous-integration-with-jenkins)
+* [Git for beginners](git-for-beginners-part-1)
+* [Git for beginners part 2](git-for-beginners-part-2)
+* [Introduction to Ansible](introduction-to-ansible)
+* [Linux as a virtual environment](linux-as-a-virtual-environment)
+* [Mob programming](mob-programming)
+* [Your First Open Source contribution](your-first-open-source-contribution)
+
+* [Getting started with Golang](getting-started-with-golang)
+
+* [Mocking in Python as a testing tool](mocking-in-python-as-a-testing-tool)
+* [Fixtures and Test Doubles in Pytest (e.g. Mocking)](fixtures-and-test-doubles-in-python)
+* [Python Pair Programming with TDD](python-pair-programming-with-tdd)
+* [Python testing workshop](python-testing)
+
 ## Host a workshop
 
 Would you like to [host](host) a Code-Maven workshop?
