@@ -35,7 +35,7 @@ something in a related subject.
 * 2019.06.20 [Getting Started with Google Cloud](getting-started-with-google-cloud)
 * 2019.05.27 [Fixtures and Test Doubles in Pytest (e.g. Mocking)](fixtures-and-test-doubles-in-python)
 * 2018.08.02 [Setting up Continuous Integration for GitHub projects](setting-up-continuous-integration-for-github-projects)
-* 2018.07.18 [How to develop software faster and have more stable releases?](how-to-develop-software-faster-and-have-more-stable-releases-jlm)
+* 2018.07.18 [How to develop software faster and have more stable releases?](how-to-develop-software-faster-and-have-more-stable-releases)
     * 2018.07.18 18:30-21:30
     * [Meetup](https://www.meetup.com/Code-Mavens/events/252083358/)
     * [40nuggets](https://40nuggets.com/) in Jerusalem
@@ -47,7 +47,7 @@ something in a related subject.
     * 2018.06.25 16:00-19:00
     * [Meetup](https://www.meetup.com/Code-Mavens/events/246910872/)
     * [Cellebrite](https://www.cellebrite.com/) in Petach Tikva
-* 2018.05.31 [How to develop software faster and have more stable releases?](how-to-develop-software-faster-and-have-more-stable-releases-tlv-hazerem)
+* 2018.05.31 [How to develop software faster and have more stable releases?](how-to-develop-software-faster-and-have-more-stable-releases)
     * 2018.05.31 16:00-18:00
     * [Meetup](https://www.meetup.com/Code-Mavens/events/251148675/)
     * [WeWork HaZerem](https://www.wework.com/buildings/10-hazerem-st--tel-aviv) in Tel Aviv
