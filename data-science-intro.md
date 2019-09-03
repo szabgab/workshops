@@ -1,6 +1,6 @@
 # Getting Started with Data Science for non-programmers
 
-This workshop will help you get started with Data Sciences even if you have minimal or no programming background.
+This workshop will help you get started with Data Science even if you have minimal or no programming background.
 We'll take a simple data set and see how can we start analyzing it. You will get the tools to start on your journey
 to Data Science.
 
