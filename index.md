@@ -11,6 +11,8 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
     * [Meetup](https://www.meetup.com/Code-Mavens/events/264153384/)
     * [Google Campus for Startups](https://www.campus.co/tel-aviv/en) in Tel Aviv
 
+* ?? [Getting Started with Data Science for non-programmers](data-science-intro)
+
 ## Available Workshops
 
 * [How to develop software faster and have more stable releases?](how-to-develop-software-faster-and-have-more-stable-releases)
