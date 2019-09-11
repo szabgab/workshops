@@ -6,12 +6,10 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 
 ## Schedule of the public events that are usually free to participate in
 
-* 2019.09.04 [Getting started with Golang](getting-started-with-golang)
+* 2019.09.19 [Getting Started with Data Science for non-programmers](data-science-intro)
     * 2019.09.04 17:30-21:30
-    * [Meetup](https://www.meetup.com/Code-Mavens/events/264153384/)
+    * [Meetup](https://www.meetup.com/Code-Mavens/events/264527632/)
     * [Google Campus for Startups](https://www.campus.co/tel-aviv/en) in Tel Aviv
-
-* ?? [Getting Started with Data Science for non-programmers](data-science-intro)
 
 ## Available Workshops
 
@@ -29,9 +27,7 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 * [Linux as a virtual environment](linux-as-a-virtual-environment)
 * [Mob programming](mob-programming)
 * [Your First Open Source contribution](your-first-open-source-contribution)
-
 * [Getting started with Golang](getting-started-with-golang)
-
 * [Mocking in Python as a testing tool](mocking-in-python-as-a-testing-tool)
 * [Fixtures and Test Doubles in Pytest (e.g. Mocking)](fixtures-and-test-doubles-in-python)
 * [Python Pair Programming with TDD](python-pair-programming-with-tdd)
@@ -56,6 +52,10 @@ something in a related subject.
 
 ## Earlier public events
 
+* 2019.09.04 [Getting started with Golang](getting-started-with-golang)
+    * 2019.09.04 17:30-21:30
+    * [Meetup](https://www.meetup.com/Code-Mavens/events/264153384/)
+    * [Google Campus for Startups](https://www.campus.co/tel-aviv/en) in Tel Aviv
 * 2019.07.18 [Getting started with Docker](getting-started-with-docker) (rerun of the same event)
     * Date: 2019.07.18 18:00-21:00
     * [Meetup](https://www.meetup.com/Code-Mavens/events/262962501/)
