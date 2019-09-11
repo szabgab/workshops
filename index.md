@@ -14,7 +14,6 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 ## Available Workshops
 
 * [How to develop software faster and have more stable releases?](how-to-develop-software-faster-and-have-more-stable-releases)
-
 * [Getting started with Docker](getting-started-with-docker)
 * [Getting Started with Google Cloud](getting-started-with-google-cloud)
 * [Setting up Continuous Integration for GitHub projects](setting-up-continuous-integration-for-github-projects)
