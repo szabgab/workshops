@@ -6,10 +6,14 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 
 ## Schedule of the public events that are usually free to participate in
 
-* 2019.09.19 [Getting Started with Data Science for non-programmers](data-science-intro)
+* 2019.10.24 [Your First Open Source contribution](your-first-open-source-contribution)
+    * 2019.10.24 17:30-21:30
+    * [Meetup](https://www.meetup.com/Code-Mavens/events/265472194/)
+    * [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
+* 2019.11.06 [Getting Started with Data Science for non-programmers](data-science-intro)
     * 2019.09.04 17:30-21:30
-    * [Meetup](https://www.meetup.com/Code-Mavens/events/264527632/)
-    * [Google Campus for Startups](https://www.campus.co/tel-aviv/en) in Tel Aviv
+    * [Meetup](https://www.meetup.com/Code-Mavens/events/265049549/)
+    * [In-Vent](http://www3.haifa.muni.il/inventuipub/) in Haifa
 
 ## Available Workshops
 
@@ -38,19 +42,23 @@ Would you like to [host](host) a Code-Maven workshop?
 
 ## About the Code-Maven Workshops
 
-Code Maven Workshops are short, 3-hours meetings with a mix or presentations and hands-on exercises to learn tools, technologies, and processes used in the world of Development,
+Code Maven Workshops are short, 3-4-hours meetings with a mix or presentations and hands-on exercises to learn tools, technologies, and processes used in the world of Development,
 Testing, Operations, and DevOps. They can be provided in-house at your company as a morning or afternoon half-day session.
 Ocassionally they are also run via the [Code-Mavens at Meetup](https://www.meetup.com/Code-Mavens/)  group in which case they can usually be attended free of charge. Below you'll see the dates
 and locations of the previous events.
 
 ## Courses
 
-In addition to the 3-hours long workshops Gabor also provides full-length [training courses](https://hostlocal.com/) in these
+In addition to the 3-4-hours long workshops Gabor also provides full-length [training courses](https://hostlocal.com/) in these
 subject. Check out the list of currently available courses and let me know if you are interested in either of those or
 something in a related subject.
 
 ## Earlier public events
 
+* 2019.09.19 [Getting Started with Data Science for non-programmers](data-science-intro)
+    * 2019.09.04 17:30-21:30
+    * [Meetup](https://www.meetup.com/Code-Mavens/events/264527632/)
+    * [Google Campus for Startups](https://www.campus.co/tel-aviv/en) in Tel Aviv
 * 2019.09.04 [Getting started with Golang](getting-started-with-golang)
     * 2019.09.04 17:30-21:30
     * [Meetup](https://www.meetup.com/Code-Mavens/events/264153384/)
