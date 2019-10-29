@@ -1,6 +1,6 @@
 # Why use pre-recorded presentations?
 
-* They allow each participant to *progress at their own pace*: Double the speed of the video if it is too slow, or go back a few minutes to
+* They allow each participant to _progress at their own pace_: Double the speed of the video if it is too slow, or go back a few minutes to
   rewatch the part that was not clear the first time. All this without being worried that they are bothering the others.
 
 * They allow *people at different levels of knowledge* to attend the workshop. This is especially important with subjects that need
