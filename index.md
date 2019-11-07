@@ -6,14 +6,15 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 
 ## Schedule of the public events that are usually free to participate in
 
-* 2019.11.06 [Getting Started with Data Science for non-programmers](data-science-intro)
-    * 2019.09.04 17:30-21:30
-    * [Meetup](https://www.meetup.com/Code-Mavens/events/265049549/)
-    * [In-Vent](http://www3.haifa.muni.il/inventuipub/) in Haifa
 * 2019.11.07 [Git for beginners part 1-2-3](git-for-beginners-part-1)
     * 2019.11.07 17:30-21:30
     * [Meetup](https://www.meetup.com/Code-Mavens/events/266012206/)
     * [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
+* 2019.11.14 [Learn Python Programming](python-programming)
+    * 2019.11.14 17:30-21:30
+    * [Meetup](https://www.meetup.com/Code-Mavens/events/266284193/)
+    * [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
+
 
 ## Available Workshops
 
@@ -55,6 +56,10 @@ something in a related subject.
 
 ## Earlier public events
 
+* 2019.11.06 [Getting Started with Data Science for non-programmers](data-science-intro)
+    * 2019.09.04 17:30-21:30
+    * [Meetup](https://www.meetup.com/Code-Mavens/events/265049549/)
+    * [In-Vent](http://www3.haifa.muni.il/inventuipub/) in Haifa
 * 2019.10.24 [Your First Open Source contribution](your-first-open-source-contribution)
     * 2019.10.24 17:30-21:30
     * [Meetup](https://www.meetup.com/Code-Mavens/events/265472194/)
