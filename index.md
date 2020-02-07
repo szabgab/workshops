@@ -48,6 +48,32 @@ something in a related subject.
 
 ## Earlier public events
 
+
+* 2020.02.05 Pair Programming in Python
+    * 2020.02.05 17:30-21:30
+    * [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
+* 2020.01.16 Pair Programming in Python
+    * 2020.01.16 17:30-21:30
+    * [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
+* 2020.01.01 [Learn Python Programming](python-programming) and [Git for beginners part 1-2-3](git-for-beginners-part-1)
+    * 2020.01.01 17:30-21:30
+    * [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
+* 2019.12.12 Advanced Python topics: OOP and Exception handling - part of [Learn Python Programming](python-programming)
+    * 2019.12.12 17:30-21:30
+    * [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
+* 2019.12.05 Learn Regular Expressions - part of [Learn Python Programming](python-programming)
+    * 2019.12.05 17:30-21:30
+    * [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
+* 2019.11.28 [Learn Python Programming](python-programming)
+    * 2019.11.28 17:30-21:30
+    * [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
+* 2019.11.21 [Learn Python Programming](python-programming)
+    * 2019.11.21 17:30-21:30
+    * [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
+* 2019.11.21 [Learn Python Programming](python-programming)
+    * 2019.11.21 17:30-21:30
+    * [Meetup](https://www.meetup.com/Code-Mavens/events/266457793/)
+    * [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
 * 2019.11.14 [Learn Python Programming](python-programming)
     * 2019.11.14 17:30-21:30
     * [Meetup](https://www.meetup.com/Code-Mavens/events/266284193/)
