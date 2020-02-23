@@ -4,7 +4,7 @@
 It allows you to create an environment that can easily be used for development, testing, and deployment
 minimizing the chances of problems that stem from the gap between these environments.
 
-It also provides a much smoother path to onboard new developers as they don't have to spend ages understanding and
+It also provides a much smoother path to onboard new engineers (developers, testers, anyone) as they don't have to spend ages understanding and
 setting up their development environment.
 
 
@@ -29,11 +29,15 @@ Remember, this is a workshop with hands-on experience. I'll explain some stuff a
 * docker pull
 * Run several Docker images at once
 * Create an image in the repository (from github)
-* docker-compose
+* Run multi-host applications using `docker-compose`.
 * Linux, OSX, and Windows
 * What are the layers?
 
 ## Prerequisite:
 
-* You need to bring your computer. Preferably with Linux or OSX or with Linux running in a VirtualBox.
+* You need to bring your computer where you can install things.
+* You can go ahead, download and install Docker.
+* [Docker Desktop for Windows](https://docs.docker.com/docker-for-windows/install/)
+* [Docker for Mac](https://docs.docker.com/docker-for-mac/install/)
+* Linux: `sudo apt-get install docker` or `yum install docker`
 
