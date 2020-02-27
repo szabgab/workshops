@@ -17,6 +17,8 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 * [XP: Pair Programming Workshop](xp-pair-programming-workshop-1)
 * [Serverless AWS Lambda](serverless-aws-lambda)
 * [Continuous Integration with Jenkins](continuous-integration-with-jenkins)
+* [Creating Jenkins pipeline without any coding](creating-jenkins-pipelines-without-any-coding)
+* [Jenkins pipeline exclusively with Groovy code](jenkins-pipeline-with-groovy-code)
 * [Git for beginners](git-for-beginners-part-1)
 * [Git for beginners part 2](git-for-beginners-part-2)
 * [Introduction to Ansible](introduction-to-ansible)
@@ -28,6 +30,15 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 * [Fixtures and Test Doubles in Pytest (e.g. Mocking)](fixtures-and-test-doubles-in-python)
 * [Python Pair Programming with TDD](python-pair-programming-with-tdd)
 * [Python testing workshop](python-testing)
+* [Getting started with Redis](getting-started-with-redis)
+* [Opening the Linux Shell](opening-the-linux-shell)
+* [Regular expressions for fun and profit](regexes-intro)
+* [Git advanced commands](git-advanced-commands)
+* [Getting Started with Digital Ocean](getting-started-with-digital-ocean)
+* [Image manipulation with Python PIL - Pillow](image-manipulation-with-python-pil-pillow)
+* [Infrastructure as Code with Terraform](terraform)
+* [Creating web presence with GitHub pages](creating-web-presence-with-github-pages)
+* [How Open source projects are developed and how do they maintain quality?](open-source-quality-assurance)
 
 ## Host a workshop
 
@@ -181,22 +192,8 @@ These are just ideas. They might change. They might get abandoned. You are more 
 or suggest new ones via the [GitHub repository](https://github.com/szabgab/workshops/) of this page or in
 a private e-mail to gabor at szabgab.com.
 
-* [Opening the Linux Shell](opening-the-linux-shell)
-* [Regular expressions for fun and profit](regexes-intro)
-* [Git advanced commands](git-advanced-commands)
-* [How Open source projects are developed and how do they maintain quality?](open-source-quality-assurance)
-* [Getting Started with Digital Ocean](getting-started-with-digital-ocean)
 * Getting Started with AWS
-* [Creating Jenkins pipeline without any coding](creating-jenkins-pipelines-without-any-coding)
-* [Jenkins pipeline exclusively with Groovy code](jenkins-pipeline-with-groovy-code)
-* [Creating web presence with GitHub pages](creating-web-presence-with-github-pages)
-* [Image manipulation with Python PIL - Pillow](image-manipulation-with-python-pil-pillow)
-* [Infrastructure as Code with Terraform](terraform)
 * [ELK - Elasticsearch - Logstash - Kibana stack](elk)
-* ... More to come.
-
-## Subjects
-
 * Testing (Unit, Integration, Acceptance)
 * Logging and monitoring (StatsD, ElasticSearch)
 * Configuration management (Ansible, Chef, Puppet)

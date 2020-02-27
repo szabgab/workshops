@@ -26,7 +26,3 @@ Some of the tasks we would like to tackle
 * Use a JSON file to provide data for the client-side interaction
 * Include common files in the pages
 
-
-If you'd like to see other subjects covered here, please open a ticket on our
-[GitHub project](https://github.com/szabgab/workshops/)
-

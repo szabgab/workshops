@@ -18,7 +18,8 @@ The workshop is lead by Gabor Szabo who also maintains the [Code Maven](https://
 
 ## Prerequisite:
 
-Bring your computer so you can do the exercies.
+* You must be already familiar with the basic commands of git such as
+* status, add, commit, checkout, branch, pull, push, merge
 
-
+* Bring your computer so you can do the exercies.
 

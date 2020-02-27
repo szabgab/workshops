@@ -16,6 +16,7 @@ Some of the tasks you'll accomplish during the workshop.
 * Resize image.
 * Crop image.
 * Blur image.
+* Combine images.
 * Add a white triangle at the bottom of the image and write some text on it.
 * Draw simple pictures.
 

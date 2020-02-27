@@ -34,13 +34,6 @@ What if you have a line like this:
 My phone number is 12345 and my age is: 23
 ```
 
-* How do you extrac the phone number out of this?
+* How do you extract the phone number out of this?
 * How do you extract the age?
-
-
-
-
-
-
-
 

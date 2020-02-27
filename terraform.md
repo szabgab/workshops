@@ -1,6 +1,5 @@
 # Infrastructure as Code with Terraform
 
-
 [Terraform](https://www.terraform.io/) is one of the leading technologies used under the title <b>Infrastructure as Code</b>.
 
 * How can you set up a Google Cloud Instance (or Amazon EC2) from the command line?
