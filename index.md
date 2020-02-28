@@ -30,6 +30,7 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 * [Fixtures and Test Doubles in Pytest (e.g. Mocking)](fixtures-and-test-doubles-in-python)
 * [Python Pair Programming with TDD](python-pair-programming-with-tdd)
 * [Python testing workshop](python-testing)
+* [Python pair programming - iteration vs recursion](python-iteration-vs-recursion)
 * [Getting started with Redis](getting-started-with-redis)
 * [Opening the Linux Shell](opening-the-linux-shell)
 * [Regular expressions for fun and profit](regexes-intro)
@@ -59,7 +60,8 @@ something in a related subject.
 
 ## Earlier public events
 
-
+* [Python pair programming - iteration vs recursion](python-iteration-vs-recursion)
+    * [Meetup](https://www.meetup.com/Code-Mavens/events/269005041/)
 * 2020.02.05 Pair Programming in Python
     * 2020.02.05 17:30-21:30
     * [Google Campus](https://www.campus.co/tel-aviv/en) in Tel Aviv
