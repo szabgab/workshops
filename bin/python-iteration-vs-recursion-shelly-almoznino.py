@@ -32,7 +32,7 @@ def main():
 
     # Code-Maven Workshop
 
-    font_gabor = ImageFont.truetype('Pillow/Tests/fonts/FreeMono.ttf', 30)
+    font_gabor = ImageFont.truetype('Pillow/Tests/fonts/FreeMono.ttf', 40)
     font_title = ImageFont.truetype('Pillow/Tests/fonts/FreeSansBold.ttf', 60)
     font = ImageFont.truetype('Pillow/Tests/fonts/FreeSansBold.ttf', 40)
     draw = ImageDraw.Draw(img)
@@ -51,36 +51,47 @@ def main():
         font=font_title,
     )
 
+    date_right =  500
+    date = "12.03.2020"
+    date_width, date_height = font.getsize(date)
     draw.text(
-        text="12.03.2020",
-        xy=(110, 240),
+        text=date,
+        xy=(date_right-date_width, 240),
         fill=(0, 0, 0),
         font=font,
     )
+    day = "יום ה"[::-1]
+    day_width, day_height = font.getsize(day)
     draw.text(
-        text="יום ה"[::-1],
-        xy=(160, 280),
+        text=day,
+        xy=(date_right-day_width, 280),
         fill=(0, 0, 0),
         font=font,
     )
+    hours = "17:30-21:30"
+    hours_width, hours_height = font.getsize(hours)
     draw.text(
-        text="17:30-21:30",
-        xy=(110, 320),
+        text=hours,
+        xy=(date_right-hours_width, 320),
         fill=(0, 0, 0),
         font=font,
     )
 
-    hebrew = "מרצה אורחת"
+    speaker_right = 550
+    hebrew_speaker = "מרצה אורחת"
+    hebrew_speaker_width, hebrew_speaker_height = font.getsize(hebrew_speaker)
     draw.text(
-        text=hebrew[::-1],
-        xy=(350, 400),
+        text=hebrew_speaker[::-1],
+        xy=(speaker_right-hebrew_speaker_width, 450),
         fill=(0, 0, 0),
         font=font,
     )
-    hebrew = "שלי אלמוזנינו"
+
+    speaker_name = "שלי אלמוזנינו"
+    speaker_name_width, speaker__name_height = font.getsize(speaker_name)
     draw.text(
-        text=hebrew[::-1],
-        xy=(350, 500),
+        text=speaker_name[::-1],
+        xy=(speaker_right-speaker_name_width, 500),
         fill=(0, 0, 0),
         font=font,
     )
@@ -88,22 +99,22 @@ def main():
     hebrew = "תל אביב"
     draw.text(
         text=hebrew[::-1],
-        xy=(750, 500),
+        xy=(750, 250),
         fill=(0, 0, 0),
         font=font,
     )
     hebrew = "גוגל קמפוס"
     draw.text(
         text=hebrew[::-1],
-        xy=(750, 540),
+        xy=(750, 300),
         fill=(0, 0, 0),
         font=font,
     )
 
-    hebrew = "מנחה: גאבור סבו"
+    hebrew = "גאבור סבו"
     draw.text(
         text=hebrew[::-1],
-        xy=(700, 620),
+        xy=(700, 500),
         fill=(0, 0, 0),
         font=font_gabor,
     )
@@ -113,7 +124,7 @@ def main():
     embed_image(img=img, filename='shelly_almoznino.jpg', size=(isize, isize), box=(10, height-isize-10))
     embed_image(img=img, filename='python.png', box=(10, 10), mask=True)
 
-    #img.save(png_filepath)
+    img.save(png_filepath)
     img.show()
 
 
