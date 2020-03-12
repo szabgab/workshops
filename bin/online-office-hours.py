@@ -75,8 +75,9 @@ def main():
     )
 
     draw.text(
-        text="Beating the chicken-egg problem:\nHow to gain experience before getting a job?\n\n- Python Programmer\n- Test/QA Automation Engineer\n- DevOps Engineer",
-        xy=(70, 200),
+        text="Beating the chicken-egg problem:\nHow to gain experience before getting a job?\n\nThis online event is in Hebrew.",
+        #text="Beating the chicken-egg problem:\nHow to gain experience before getting a job?\n\n- Python Programmer\n- Test/QA Automation Engineer\n- DevOps Engineer",
+        xy=(70, 250),
         fill=(0, 0, 0),
         font=font_text,
     )
