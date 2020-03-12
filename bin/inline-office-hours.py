@@ -75,16 +75,16 @@ def main():
     )
 
     draw.text(
-        text="Beating the chicken-egg problem:\nHow to gain experience before getting a job?",
-        xy=(120, 190),
+        text="Beating the chicken-egg problem:\nHow to gain experience before getting a job?\n\n- Python Programmer\n- Test/QA Automation Engineer\n- DevOps Engineer",
+        xy=(70, 200),
         fill=(0, 0, 0),
         font=font_text,
     )
 
 
     add_date(
-        date_right = 500,
-        date_top   = 240,
+        date_right = 250,
+        date_top   = 440,
         font       = font,
         draw       = draw,
         date       = "12.03.2020",
