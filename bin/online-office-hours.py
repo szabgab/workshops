@@ -27,8 +27,8 @@ def add_date(date_right, date_top, font, draw, date, day, hours):
 
 width  = 1200
 height = 675
-# background_color = '#eb8634'
-background_color = '#ebb434'
+background_color = '#eb8634'
+#background_color = '#ebb434'
 
 root = os.path.dirname(os.path.dirname(__file__))
 #print(root)
@@ -88,9 +88,9 @@ def main():
         date_top   = 440,
         font       = font,
         draw       = draw,
-        date       = "12.03.2020",
-        day        = "יום ה"[::-1],
-        hours      = "19:30-20:30",
+        date       = "20.03.2020",
+        day        = "יום ו"[::-1],
+        hours      = "09:00-10:00",
     )
 
     hebrew = "גאבור סבו"
