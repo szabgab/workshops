@@ -74,14 +74,21 @@ def main():
     )
 
     draw.text(
-        text = heb("קורס גו אונליין - פרק ד"),
+        text = heb("תיכנות שיתופית אונליין"),
         xy=(550, 130),
         fill=(0, 0, 0),
         font=font_title,
     )
+    #draw.text(
+    #    text = "Mob and pair programming",
+    #    xy=(50, 130),
+    #    fill=(0, 0, 0),
+    #    font=font_title,
+    #)
+
 
     draw.text(
-        text="Learn and practice the Go programming language.\n\nThis online event is in Hebrew.",
+        text="Learn and practice Mob and Pair programming.\n\nThis online event is in Hebrew.",
         xy=(70, 300),
         fill=(0, 0, 0),
         font=font_text,
@@ -93,22 +100,20 @@ def main():
         date_top   = 460,
         font       = font,
         draw       = draw,
-        date       = "24.04.2020",
-        day        = heb("יום ה"),
-        hours      = "08:30-12:00",
+        date       = "07.04.2020",
+        day        = heb("יום ג"),
+        hours      = "18:30-21:30",
     )
 
-    hebrew = "מרצה:"
     draw.text(
-        text=hebrew[::-1],
+        text=heb("מארח:"),
         xy=(790, 500),
         fill=(0, 0, 0),
         font=font_gabor,
     )
 
-    hebrew = "גאבור סבו"
     draw.text(
-        text=hebrew[::-1],
+        text=heb("גאבור סבו"),
         xy=(700, 550),
         fill=(0, 0, 0),
         font=font_gabor,
@@ -116,7 +121,7 @@ def main():
 
     isize = 250
     embed_image(img=img, filename='gabor2_612x612.jpg', size=(isize, isize), box=(width-isize-10, height-isize-10))
-    embed_image(img=img, filename='golang.png', box=(10, 20), mask=True)
+    #embed_image(img=img, filename='golang.png', box=(10, 20), mask=True)
 
     img.save(png_filepath)
     img.show()
