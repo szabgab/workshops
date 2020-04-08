@@ -100,8 +100,8 @@ def main():
         date_top   = 460,
         font       = font,
         draw       = draw,
-        date       = "07.04.2020",
-        day        = heb("יום ג"),
+        date       = "16.04.2020",
+        day        = heb("יום ה"),
         hours      = "18:30-21:30",
     )
 
