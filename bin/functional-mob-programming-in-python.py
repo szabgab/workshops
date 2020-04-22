@@ -64,6 +64,7 @@ def main():
     font_text = ImageFont.truetype('Pillow/Tests/fonts/FreeMono.ttf', 40)
     font_gabor = ImageFont.truetype('Pillow/Tests/fonts/FreeMono.ttf', 40)
     font_title = ImageFont.truetype('Pillow/Tests/fonts/FreeSansBold.ttf', 60)
+    font_subtitle = ImageFont.truetype('Pillow/Tests/fonts/FreeSansBold.ttf', 40)
     font = ImageFont.truetype('Pillow/Tests/fonts/FreeSansBold.ttf', 40)
     draw = ImageDraw.Draw(img)
     draw.text(
@@ -74,17 +75,26 @@ def main():
     )
 
     draw.text(
-        text = heb("קורס גו אונליין - פרק ה"),
-        xy=(550, 130),
-        fill=(0, 0, 0),
-        font=font_title,
+        text = heb("תכנות פונקציונלית בפייתון"),
+        xy   = (450, 130),
+        fill = (0, 0, 0),
+        font = font_title,
     )
 
     draw.text(
-        text="Learn and practice the Go programming language.\n\nThis online event is in Hebrew.",
-        xy=(70, 300),
-        fill=(0, 0, 0),
-        font=font_text,
+        text = heb("בשיטת תכנות המונים"),
+        xy   = (650, 230),
+        fill = (0, 0, 0),
+        font = font_subtitle,
+    )
+
+
+
+    draw.text(
+        text = "range, map, lambda, filter, reduce, zip\nlist comprehension, lookup tables",
+        xy   = (70, 300),
+        fill = (0, 0, 0),
+        font = font_text,
     )
 
 
@@ -93,8 +103,8 @@ def main():
         date_top   = 460,
         font       = font,
         draw       = draw,
-        date       = "01.05.2020",
-        day        = heb("יום ו"),
+        date       = "30.04.2020",
+        day        = heb("יום ה"),
         hours      = "08:30-12:00",
     )
 
@@ -116,7 +126,7 @@ def main():
 
     isize = 250
     embed_image(img=img, filename='gabor2_612x612.jpg', size=(isize, isize), box=(width-isize-10, height-isize-10))
-    embed_image(img=img, filename='golang.png', box=(10, 20), mask=True)
+    embed_image(img=img, filename='python.png', box=(10, 20), mask=True)
 
     img.save(png_filepath)
     img.show()
