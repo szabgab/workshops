@@ -31,8 +31,8 @@ def add_date(date_right, date_top, font, draw, date, day, hours):
 
 width  = 1200
 height = 675
-background_color = '#eb8634'
-#background_color = '#ebb434'
+#background_color = '#eb8634'
+background_color = '#ebb434'
 #background_color = '#f540dd'
 #background_color = '#67f23d'
 
@@ -74,7 +74,7 @@ def main():
     )
 
     draw.text(
-        text = heb("קורס גו אונליין - פרק ה"),
+        text = heb("קורס גו אונליין - פרק ו"),
         xy=(550, 130),
         fill=(0, 0, 0),
         font=font_title,
@@ -93,7 +93,7 @@ def main():
         date_top   = 460,
         font       = font,
         draw       = draw,
-        date       = "01.05.2020",
+        date       = "08.05.2020",
         day        = heb("יום ו"),
         hours      = "08:30-12:00",
     )
