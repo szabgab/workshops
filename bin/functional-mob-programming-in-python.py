@@ -81,12 +81,12 @@ def main():
         font = font_title,
     )
 
-    draw.text(
-        text = heb("בשיטת תכנות המונים"),
-        xy   = (650, 230),
-        fill = (0, 0, 0),
-        font = font_subtitle,
-    )
+    #draw.text(
+    #    text = heb("בשיטת תכנות המונים"),
+    #    xy   = (650, 230),
+    #    fill = (0, 0, 0),
+    #    font = font_subtitle,
+    #)
 
 
 
