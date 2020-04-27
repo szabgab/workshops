@@ -27,8 +27,8 @@ def add_dates(date_right, date_top, font, draw, dates):
 
 width  = 2160
 height = 1080
-#background_color = '#eb8634'
-background_color = '#ebb434'
+background_color = '#eb8634'
+#background_color = '#ebb434'
 
 root = os.path.dirname(os.path.dirname(__file__))
 #print(root)
@@ -68,22 +68,22 @@ def main():
     )
 
     draw.text(
-        text="Docker for Developers\nand DevOps",
+        text="Testing in Python using Pytest",
         xy=(650, 130),
         fill=(0, 0, 0),
         font=font_title,
     )
 
     draw.text(
-        text = heb("קורס דוקר למפתחים ולאנשי דבאופס"),
-        xy   =(550, 330),
+        text = heb("קורס פייתון טסטינג"),
+        xy   =(1150, 330),
         fill =(0, 0, 0),
         font =font_title,
     )
 
 
     draw.text(
-        text="Learn and practice Docker.\n\nThis online event is in Hebrew.",
+        text="Learn and practice Python and Pytest.\n\nThis online event is in Hebrew.",
         xy=(70, 500),
         fill=(0, 0, 0),
         font=font_text,
@@ -97,15 +97,15 @@ def main():
         draw       = draw,
         dates      = [
             {
-                "date" : "2020.05.03  8:30-12:00",
+                "date" : "2020.05.17  8:30-12:00",
                 "day"  : heb("יום א"),
             },
             {
-                "date" : "2020.05.05  8:30-12:00",
+                "date" : "2020.05.19  8:30-12:00",
                 "day"  : heb("יום ג"),
             },
             {
-                "date" : "2020.05.07  8:30-12:00",
+                "date" : "2020.05.21  8:30-12:00",
                 "day"  : heb("יום ה"),
             },
         ],
@@ -127,7 +127,7 @@ def main():
 
     isize = 500
     embed_image(img=img, filename='gabor2_612x612.jpg', size=(isize, isize), box=(width-isize-30, height-isize-30))
-    embed_image(img=img, filename='docker-moby-logo.png', box=(30, 30), mask=True)
+    embed_image(img=img, filename='python.png', box=(30, 30), mask=True)
 
     img.save(png_filepath)
     img.show()
