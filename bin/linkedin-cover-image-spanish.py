@@ -1,12 +1,10 @@
 import os
 from PIL import Image, ImageDraw, ImageFont
 
-def heb(txt):
-    rev = txt[::-1]
-    return rev
-
 width  = 1128
 height = 191
+#background_color = '#eb8634'
+#background_color = '#ebb434'
 background_color = '#b2ebf2'
 
 root = os.path.dirname(os.path.dirname(__file__))
@@ -23,49 +21,48 @@ def embed_image(img, filename, box, size=None, mask=False):
     else:
        img.paste(emb_img, box=box)
 
-
 def main():
     png_filename = os.path.splitext(os.path.basename(__file__))[0] + '.png'
     png_filepath = os.path.join(root, 'images', png_filename)
+
     img = Image.new('RGB', (width, height), color=background_color)
 
-
-    font_title = ImageFont.truetype('Pillow/Tests/fonts/FreeSansBold.ttf', 50)
+    font_title = ImageFont.truetype('Pillow/Tests/fonts/FreeSansBold.ttf', 80)
     font_text = ImageFont.truetype('Pillow/Tests/fonts/FreeMono.ttf', 40)
     font = ImageFont.truetype('Pillow/Tests/fonts/FreeSansBold.ttf', 40)
     draw = ImageDraw.Draw(img)
-    draw.text(
-        text = "Code-Maven",
-        xy   = (90, 10),
-        fill = (0, 0, 0),
-        font = font_title,
-    )
+#    draw.text(
+#        text='Code-Maven',
+#        xy=(10, 30),
+#        fill=(0, 0, 0),
+#        font=font_title,
+#    )
 
     draw.text(
-        text = heb("מביני קוד"),
-        xy   = (540, 10),
-        fill = (0, 0, 0),
-        font = font_title,
-    )
-
-    draw.text(
-        text = heb("ווידאוים ומאמרים על פיתוח תוכנה"),
-        xy   = (180, 70),
+        text = 'Publicaciones sobre alta tecnología',
+        xy   = (50, 10),
         fill = (0, 0, 0),
         font = font_text,
     )
 
+
     draw.text(
-        text = heb("כפי שגאבור סבו רואה"),
-        xy   = (460, 120),
-        fill = (0, 0, 0),
-        font = font_text,
+        text  = 'En Español con errores gramaticales',
+        xy    = (50, 70),
+        fill  = (0, 0, 0),
+        font  = font_text,
+    )
+
+    draw.text(
+        text  = 'Por Gábor Szabó',
+        xy    = (530, 130),
+        fill  = (0, 0, 0),
+        font  = font_text,
     )
 
 
     isize = 150
     embed_image(img=img, filename='gabor2_612x612.jpg', size=(isize, isize), box=(width-isize-30, height-isize-30))
-
 
     img.save(png_filepath)
     img.show()
