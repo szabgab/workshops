@@ -48,13 +48,13 @@ def main():
     )
 
 
-    add_text(
-        draw = draw,
-        text = "שידור חי ניסיוני",
-        rtl  = True,
-        xy   = (1200, 30),
-        size = 40,
-    )
+#    add_text(
+#        draw = draw,
+#        text = "שידור חי ניסיוני",
+#        rtl  = True,
+#        xy   = (1200, 30),
+#        size = 40,
+#    )
 
     add_text(
         draw = draw,
