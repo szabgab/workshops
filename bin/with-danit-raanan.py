@@ -75,7 +75,7 @@ def main():
 
 
     add_date(
-        date_right = 250,
+        date_right = 550,
         date_top   = 460,
         font       = font,
         draw       = draw,
@@ -84,12 +84,13 @@ def main():
         hours      = "17:30-18:30",
     )
 
-    hebrew = "מרצה:"
-    draw.text(
-        text=hebrew[::-1],
-        xy=(790, 500),
-        fill=(0, 0, 0),
-        font=font_gabor,
+    add_text(
+        draw = draw,
+        text = "מארח",
+        rtl  = True,
+        xy   = (790, 500),
+        fill =(0, 0, 0),
+        size = 30,
     )
 
     hebrew = "גאבור סבו"
@@ -100,9 +101,30 @@ def main():
         font=font_gabor,
     )
 
+    speaker_right = 550
+    text = "אורחת"
+    hebrew_speaker_width, hebrew_speaker_height = font.getsize(text)
+    draw.text(
+        text = heb(text),
+        xy   = (speaker_right-hebrew_speaker_width, 450),
+        fill = (0, 0, 0),
+        font = font,
+    )
+
+    text = "דנית רענן"
+    speaker_name_width, speaker__name_height = font.getsize(text)
+    draw.text(
+        text = heb(text),
+        xy   = (speaker_right-speaker_name_width, 500),
+        fill = (0, 0, 0),
+        font = font,
+    )
+
+
     isize = 250
     embed_image(img=img, filename='gabor2_612x612.jpg', size=(isize, isize), box=(width-isize-10, height-isize-10))
     embed_image(img=img, filename='LI-In-Bug.png', size=(isize, isize), box=(10, 20), mask=True)
+    embed_image(img=img, filename='danit-raanan.jpeg', size=(isize, isize), box=(10, height-isize-10))
 
     img.save(png_filepath)
     img.show()
