@@ -9,7 +9,7 @@ if (len(sys.argv) < 2):
     exit("Usage: {} 'Company name'".format(sys.argv[0]))
 
 
-in_file = 'images/code-maven-workshops-1600x900.png'  # 1600, 900
+in_file = 'img/code-maven-workshops-1600x900.png'  # 1600, 900
 full_file = 'full.png'
 half_file = 'half.png'
 text = sys.argv[1]

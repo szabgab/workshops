@@ -2,7 +2,7 @@
 
 Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 
-![Code-Maven Workshops](images/code-maven-workshops-800x450.png)
+![Code-Maven Workshops](img/code-maven-workshops-800x450.png)
 
 ## Schedule of the public events that are usually free to participate in
 

@@ -6,7 +6,7 @@
 * Spreading the information about open positions in your company.
 * Added value to your current employees who don't need to go elsewhere for this content.
 
-![Code-Maven Workshops](images/hosted-by-your-company-800x450.png)
+![Code-Maven Workshops](img/hosted-by-your-company-800x450.png)
 
 ## What we need
 
