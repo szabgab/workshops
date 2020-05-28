@@ -3,7 +3,7 @@ from PIL import Image, ImageDraw, ImageFont
 from mypil import heb, add_text, add_date
 
 width  = 1280
-height = 620
+height = 720
 
 # background_color = '#eb8634'
 # background_color = '#ebb434'

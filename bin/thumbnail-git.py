@@ -7,7 +7,7 @@ def heb(txt):
 
 
 width  = 1280
-height = 620
+height = 720
 
 # background_color = '#eb8634'
 background_color = '#ebb434'
