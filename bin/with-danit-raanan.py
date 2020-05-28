@@ -4,10 +4,12 @@ from mypil import heb, add_text, add_date
 
 width  = 1200
 height = 675
+isize = 200
 #background_color = '#eb8634'
 background_color = '#ebb434'
 #background_color = '#f540dd'
 #background_color = '#67f23d'
+images_top = height - isize - 10
 
 root = os.path.dirname(os.path.dirname(__file__))
 #print(root)
@@ -50,7 +52,7 @@ def main():
 
     add_text(
         draw = draw,
-        text = "איך להשתמש בלינקדין",
+        text = "מציאת עבודה )חדשה( בהיי-טק",
         rtl  = True,
         xy   = (1100, 130),
         size = 60,
@@ -58,7 +60,7 @@ def main():
 
     add_text(
         draw = draw,
-        text = "כדי למצוא עבודה בהי-טק",
+        text = "שיחה עם דנית רענן אידסס",
         rtl  = True,
         xy   = (1100, 230),
         size = 60,
@@ -66,62 +68,55 @@ def main():
 
     add_text(
         draw = draw,
-        text = "סדנת און-ליין חינם",
-        rtl = True,
+        text = "מגייסת ואשת כח אדם",
+        rtl  = True,
         xy   = (1100, 330),
         size = 60,
     )
 
-
-
     add_date(
-        date_right = 550,
-        date_top   = 460,
+        date_right = 730,
+        date_top   = images_top,
         font       = font,
         draw       = draw,
-        date       = "24.05.2020",
-        day        = heb("יום א"),
-        hours      = "17:30-18:30",
+        date       = "03.06.2020",
+        day        = heb("יום ד"),
+        hours      = "09:00-10:00",
     )
+
 
     add_text(
         draw = draw,
         text = "מארח",
         rtl  = True,
-        xy   = (790, 500),
-        fill =(0, 0, 0),
+        xy   = (width - isize - 20, images_top),
         size = 30,
     )
 
-    hebrew = "גאבור סבו"
-    draw.text(
-        text=hebrew[::-1],
-        xy=(700, 550),
-        fill=(0, 0, 0),
-        font=font_gabor,
+    add_text(
+        draw = draw,
+        text = "גאבור סבו",
+        rtl  = True,
+        xy   = (width - isize - 20, images_top + 50),
+        size = 30,
     )
 
-    speaker_right = 550
-    text = "אורחת"
-    hebrew_speaker_width, hebrew_speaker_height = font.getsize(text)
-    draw.text(
-        text = heb(text),
-        xy   = (speaker_right-hebrew_speaker_width, 450),
-        fill = (0, 0, 0),
-        font = font,
+    add_text(
+        draw = draw,
+        text = "אורחת",
+        rtl  = True,
+        xy   = (445, images_top),
+        size = 30,
     )
 
-    text = "דנית רענן"
-    speaker_name_width, speaker__name_height = font.getsize(text)
-    draw.text(
-        text = heb(text),
-        xy   = (speaker_right-speaker_name_width, 500),
-        fill = (0, 0, 0),
-        font = font,
+    add_text(
+        draw = draw,
+        text = "דנית רענן אידסס",
+        rtl  =  True,
+        xy   = (445, images_top + 50),
+        size = 30,
     )
 
-
-    isize = 250
     embed_image(img=img, filename='gabor2_612x612.jpg', size=(isize, isize), box=(width-isize-10, height-isize-10))
     embed_image(img=img, filename='LI-In-Bug.png', size=(isize, isize), box=(10, 20), mask=True)
     embed_image(img=img, filename='danit-raanan.jpeg', size=(isize, isize), box=(10, height-isize-10))
