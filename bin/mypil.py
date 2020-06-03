@@ -1,4 +1,7 @@
+import os
 from PIL import Image, ImageDraw, ImageFont
+
+root = os.path.dirname(os.path.dirname(__file__))
 
 def heb(txt):
     rev = txt[::-1]
@@ -39,5 +42,15 @@ def add_date(date_right, date_top, font, draw, date, day, hours):
         font=font,
     )
 
+def embed_image(img, filename, box, size=None, mask=False):
+    emb_img_path = os.path.join(root, 'src', filename)
+    emb_img = Image.open(emb_img_path, 'r')
+    #size = (emb_img.size[0] / 2, emb_img.size[1] / 2)
+    if size:
+        emb_img.thumbnail(size)
+    if mask:
+       img.paste(emb_img, box=box, mask=emb_img)
+    else:
+       img.paste(emb_img, box=box)
 
 
