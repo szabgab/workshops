@@ -29,13 +29,13 @@ def main():
 #    )
 
     draw.text(
-        text = 'Screencasts, interviews, articles',
-        xy   = (10, 10),
+        text = 'Tips, ideas, tutorials',
+        xy   = (170, 10),
         fill = (0, 0, 0),
         font = font_text,
     )
     draw.text(
-        text  = 'about software development',
+        text  = 'about Python programming',
         xy    = (250, 70),
         fill  = (0, 0, 0),
         font  = font_text,
@@ -51,6 +51,7 @@ def main():
 
     isize = 150
     embed_image(img=img, filename='gabor2_612x612.jpg', size=(isize, isize), box=(width-isize-30, height-isize-30))
+    embed_image(img=img, filename='python.png', size=(isize, isize), box=(30, height-isize-30), mask=True)
 
     img.save(png_filepath)
     img.show()
