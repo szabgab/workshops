@@ -24,23 +24,24 @@ def main():
         draw = draw,
         text = 'Code Maven',
         rtl  = False,
-        xy   = (630, 30),
+        xy   = ('center', 30),
         size = 60,
     )
     add_text(
         draw = draw,
-        text = 'screencasts, blog posts, code-snippets',
+        #text = 'screencasts, blog posts, code-snippets',
+        text = 'Helping developers create better software',
         rtl  = False,
-        xy   = (330, 130),
-        size = 50,
+        xy   = ('center', 150),
+        size = 40,
     )
 
 
     add_text(
         draw = draw,
-        text = 'Perl, Python, Golang, DevOps, Test Automation',
+        text = 'Test Automation - Continuous Integration - DevOps',
         rtl  = False,
-        xy   = (330, 250),
+        xy   = ('center', 260),
         size = 40,
     )
 

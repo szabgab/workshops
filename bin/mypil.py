@@ -1,5 +1,6 @@
 import os
 from PIL import Image, ImageDraw, ImageFont
+from copy import deepcopy
 
 root = os.path.dirname(os.path.dirname(__file__))
 
@@ -11,10 +12,15 @@ def add_text(draw, text, xy, size, rtl=False, fill=(0, 0, 0)):
     font = ImageFont.truetype('Pillow/Tests/fonts/FreeSansBold.ttf', size)
     my_text = heb(text) if rtl else text
     width, height = font.getsize(my_text)
-    new_xy = (xy[0]-width if rtl else xy[0], xy[1])
+    xy = deepcopy(xy)
+    if xy[0] == 'center':
+        #exit(dir(draw))
+        size = draw.im.size
+        xy = ( (size[0]-width)/2, xy[1])
+    xy = (xy[0]-width if rtl else xy[0], xy[1])
     draw.text(
         text = my_text,
-        xy   = new_xy,
+        xy   = xy,
         fill = fill,
         font = font,
     )
