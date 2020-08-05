@@ -13,4 +13,4 @@ We are going to set up Continuous Integration with Travis and Appveyor. At first
 You will be able to decide the programming language you'll want to use, but in order to get better support for your languages, please post it as a comment on this Meetup.
 
 Bring your own computer.
-For this you will need to know the basics of any of the programming languages supported by Travis-CI. (List is here https://docs.travis-ci.com/user/languages/ ) It would be super awesome if you could comment below the language you are going to use.
+For this you will need to know the basics of any of the [programming languages supported](https://docs.travis-ci.com/user/languages/) by Travis-CI. It would be super awesome if you could comment below the language you are going to use.
