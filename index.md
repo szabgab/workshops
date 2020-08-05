@@ -6,10 +6,6 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 
 ## Schedule of the public events that are usually free to participate in
 
-* 2020.03.12 [Python pair programming - iteration vs recursion](python-iteration-vs-recursion)
-    * 2020.03.12 17:30-21:30
-    * [Meetup](https://www.meetup.com/Code-Mavens/events/269005041/)
-
 * Check out the [Meetup page](https://www.meetup.com/code-mavens/) or see the [earlier public events](history)
 
 ## Available Workshops
