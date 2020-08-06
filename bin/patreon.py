@@ -22,7 +22,7 @@ def main():
 
     add_text(
         draw = draw,
-        text = 'Code Maven',
+        text = 'Code       Maven',
         rtl  = False,
         xy   = ('center', 30),
         size = 60,
@@ -32,7 +32,7 @@ def main():
         #text = 'screencasts, blog posts, code-snippets',
         text = 'Helping developers create better software',
         rtl  = False,
-        xy   = ('center', 150),
+        xy   = ('center', 120),
         size = 40,
     )
 
@@ -41,13 +41,14 @@ def main():
         draw = draw,
         text = 'Test Automation - Continuous Integration - DevOps',
         rtl  = False,
-        xy   = ('center', 260),
+        xy   = ('center', 200),
         size = 40,
     )
 
 
     isize = 150
-    embed_image(img=img, filename='code_maven_440x440.png', size=(isize, isize), box=(30, 30), mask=True)
+    embed_image(img=img, filename='code_maven_440x440.png', size=(70, 70), box=(745, 23), mask=True)
+    embed_image(img=img, filename='perl.png', size=(isize, isize), box=(30, 30), mask=True)
     embed_image(img=img, filename='golang.png', size=(isize, isize), box=(width-isize-30, 30), mask=True)
     embed_image(img=img, filename='tux.png', size=(isize, isize), box=(width-isize-30, height-isize-30), mask=True)
     embed_image(img=img, filename='docker-moby-logo.png', size=(isize, isize), box=(30, height-isize-30), mask=True)
