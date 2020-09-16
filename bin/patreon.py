@@ -49,7 +49,8 @@ def main():
     isize = 150
     embed_image(img=img, filename='code_maven_440x440.png', size=(70, 70), box=(745, 23), mask=True)
     embed_image(img=img, filename='perl.png', size=(isize, isize), box=(30, 30), mask=True)
-    embed_image(img=img, filename='golang.png', size=(isize, isize), box=(width-isize-30, 30), mask=True)
+    embed_image(img=img, filename='tessa.png', size=(isize, isize), box=(width-isize-30, 30), mask=True)
+    #embed_image(img=img, filename='golang.png', size=(isize, isize), box=(width-isize-30, 30), mask=True)
     embed_image(img=img, filename='tux.png', size=(isize, isize), box=(width-isize-30, height-isize-30), mask=True)
     embed_image(img=img, filename='docker-moby-logo.png', size=(isize, isize), box=(30, height-isize-30), mask=True)
 
