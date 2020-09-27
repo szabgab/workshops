@@ -21,56 +21,54 @@ def main():
 
     img = Image.new('RGB', (width, height), color=background_color)
 
-    # Code-Maven Workshop
-
     font_gabor = ImageFont.truetype('Pillow/Tests/fonts/FreeMono.ttf', 40)
     font_title = ImageFont.truetype('Pillow/Tests/fonts/FreeSansBold.ttf', 160)
     font = ImageFont.truetype('Pillow/Tests/fonts/FreeSansBold.ttf', 40)
     draw = ImageDraw.Draw(img)
     add_text(
         draw = draw,
-        text = "Your First Contribution",
+        text = "Learning Perl::Tk",
         rtl  = False,
         size = 80,
-        xy   = (250, 30),
+        xy   = (50, 30),
     )
+
+#    add_text(
+#        draw = draw,
+#        text = "in our own script",
+#        rtl  = False,
+#        size = 80,
+#        xy   = (50, 240),
+#    )
 
     add_text(
         draw = draw,
-        text = "to an Open Source",
-        rtl  = False,
-        size = 60,
-        xy   = (250, 140),
-    )
-
-    add_text(
-        draw = draw,
-        text = "Python project",
+        text = "Keyboard and Mouse events",
         rtl  = False,
         size = 80,
-        xy   = (250, 240),
+        xy   = (50, 200),
     )
 
     add_text(
         draw = draw,
-        text = "in less than",
+        text = "GUI with Perl",
         rtl  = False,
-        size = 60,
-        xy   = (250, 440),
+        size = 80,
+        xy   = (50, 440),
     )
 
-    add_text(
-        draw = draw,
-        text = "14 minutes",
-        rtl  = False,
-        size = 60,
-        xy   = (250, 540),
-    )
+    #add_text(
+    #    draw = draw,
+    #    text = "14 minutes",
+    #    rtl  = False,
+    #    size = 60,
+    #    xy   = (250, 540),
+    #)
 
 
     isize = 350
     embed_image(img=img, filename='gabor2_612x612.jpg', size=(isize, isize), box=(width-isize-10, height-isize-10))
-    embed_image(img=img, filename='python.png', box=(10, 10), mask=True)
+    #embed_image(img=img, filename='tessa.png', box=(10, 10), mask=True)
 
     img.save(png_filepath)
     img.show()
