@@ -41,7 +41,7 @@ def main():
 
     add_text(
         draw = draw,
-        text = "Git for GitHub users",
+        text = "Hacktoberfest",
         rtl  = False,
         xy   = (400, 80),
         size = 70,
@@ -50,7 +50,7 @@ def main():
 
     add_text(
         draw = draw,
-        text = "גיט למשתמשי גיטהאב",
+        text = "הקטוברפסט",
         rtl  = True,
         xy   = (800, 350),
         size = 70,
@@ -67,7 +67,7 @@ def main():
 
     isize = 350
     embed_image(img=img, filename='gabor2_612x612.jpg', size=(isize, isize), box=(width-isize-10, height-isize-10))
-    #embed_image(img=img, filename='digital-ocean-icon-blue.png', box=(30, 500), mask=True)
+    embed_image(img=img, filename='digital-ocean-icon-blue.png', box=(30, 500), mask=True)
     embed_image(img=img, filename='Octocat.png', size=(300, 300), box=(10, 10), mask=True)
 
     img.save(png_filepath)
