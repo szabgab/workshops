@@ -78,7 +78,7 @@ def main():
         date_top   = images_top,
         font       = font,
         draw       = draw,
-        date       = "12.11.2020",
+        date       = "10.12.2020",
         day        = heb("יום ה"),
         hours      = "09:00-11:00",
     )
