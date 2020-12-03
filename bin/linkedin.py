@@ -102,7 +102,7 @@ def main():
 
     isize = 250
     embed_image(img=img, filename='gabor2_612x612.jpg', size=(isize, isize), box=(width-isize-10, height-isize-10))
-    embed_image(img=img, filename='LI-In-Bug.png', size=(isize, isize), box=(10, 20), mask=True)
+    embed_image(img=img, filename='LinkedIn-In.png', size=(isize, isize), box=(10, 20), mask=True)
 
     img.save(png_filepath)
     img.show()
