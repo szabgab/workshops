@@ -59,7 +59,7 @@ def main():
     isize = 350
     embed_image(img=img, filename='gabor2_612x612.jpg', size=(isize, isize), box=(width-isize-10, height-isize-10))
     #embed_image(img=img, filename='python.png', box=(10, 10), mask=True)
-    #embed_image(img=img, filename='Octocat.png', size=(300, 300), box=(10, 10), mask=True)
+    #embed_image(img=img, filename='github-octocat.png', size=(300, 300), box=(10, 10), mask=True)
 
     img.save(png_filepath)
     img.show()

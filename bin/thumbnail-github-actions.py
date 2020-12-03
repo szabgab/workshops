@@ -61,7 +61,7 @@ def main():
     isize = 350
     fsize = 200
     embed_image(img=img, filename='gabor2_612x612.jpg', size=(isize, isize), box=(width-isize-10, height-isize-10))
-    embed_image(img=img, filename='Octocat.png', size=(isize, isize), box=(10, 400), mask=True)
+    embed_image(img=img, filename='github-octocat.png', size=(isize, isize), box=(10, 400), mask=True)
     embed_image(img=img, filename='israel-flag-small.png', size=(fsize, fsize), box=(width-fsize-10, height-isize-fsize+30), mask=False)
 
 
