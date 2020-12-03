@@ -2,4 +2,4 @@
 *.bak
 /.idea/
 __pycache__
-images/*.png
+images/
