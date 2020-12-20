@@ -28,7 +28,7 @@ def create_thumbnail(episode, show=False):
     png_filename = os.path.splitext(os.path.basename(__file__))[0] + f'_{episode:02n}.png'
     #print(png_filename)
 
-    png_filepath = os.path.join(root, 'images', png_filename)
+    png_filepath = os.path.join(root, 'images', 'bootcamp', png_filename)
     #print(png_filepath)
 
     img = Image.new('RGB', (width, height), color=background_color)
