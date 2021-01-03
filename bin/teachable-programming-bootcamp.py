@@ -28,7 +28,8 @@ def add_dates(date_right, date_top, font, draw, dates):
 width  = 1440
 height = 780
 #background_color = '#eb8634'
-background_color = '#ebb434'
+#background_color = '#ebb434'
+background_color = '#DDDDDD'
 
 root = os.path.dirname(os.path.dirname(__file__))
 #print(root)
@@ -61,15 +62,15 @@ def main():
     font = ImageFont.truetype('Pillow/Tests/fonts/FreeSansBold.ttf', 40)
     draw = ImageDraw.Draw(img)
 #    draw.text(
-#        text="Web Application development with",
-#        xy=(650, 130),
+#        text="Python Programming",
+#        xy=(270, 130),
 #        fill=(0, 0, 0),
 #        font=font_title,
 #    )
 #
 #    draw.text(
-#        text="Perl Dancer",
-#        xy=(650, 530),
+#        text="Bootcamp",
+#        xy=(270, 330),
 #        fill=(0, 0, 0),
 #        font=font_title,
 #    )
@@ -112,7 +113,8 @@ def main():
 
     isize = 300
     embed_image(img=img, filename='gabor2_612x612.jpg', size=(isize, isize), box=(width-isize-30, height-isize-30))
-    embed_image(img=img, filename='dancer.png', box=(30, 30), mask=True)
+    embed_image(img=img, filename='python.png', box=(30, 30), mask=True)
+    #embed_image(img=img, filename='dancer.png', box=(30, 30), mask=True)
 
     img.save(png_filepath)
     img.show()
