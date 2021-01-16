@@ -73,21 +73,6 @@ def main():
 #        xy=(250, 270),
 #        fill=(0, 0, 0),
 #        font=font_title,
-#    )
-#    draw.text(
-#        text="without programming background",
-#        xy=(650, 630),
-#        fill=(0, 0, 0),
-#        font=font_title,
-#    )
-
-
-#    draw.text(
-#        text = heb("קורס דוקר למפתחים ולאנשי דבאופס"),
-#        xy   =(550, 330),
-#        fill =(0, 0, 0),
-#        font =font_title,
-#    )
 
 
     draw.text(
