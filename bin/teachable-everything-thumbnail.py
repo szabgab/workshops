@@ -1,30 +1,6 @@
 import os
 from PIL import Image, ImageDraw, ImageFont
 
-def heb(txt):
-    rev = txt[::-1]
-    return rev
-
-
-def add_dates(date_right, date_top, font, draw, dates):
-    for i, this in enumerate(dates):
-        date_width, date_height = font.getsize(this['date'])
-        day_width, day_height = font.getsize(this['day'])
-
-        draw.text(
-            text = this['date'],
-            xy   = (date_right-date_width, date_top),
-            fill = (0, 0, 0),
-            font = font,
-        )
-        draw.text(
-            text = this['day'],
-            xy   = (date_right-date_width-day_width-30, date_top),
-            fill = (0, 0, 0),
-            font = font,
-        )
-        date_top += date_height + 20
-
 width  = 960
 height = 540
 background_color = '#fff'
@@ -60,36 +36,42 @@ def main():
     font = ImageFont.truetype('Pillow/Tests/fonts/FreeSansBold.ttf', 40)
     draw = ImageDraw.Draw(img)
     draw.text(
-        text="The Everything Bundle",
-        xy=(180, 40),
+        text="The Code Maven",
+        xy=(100, 20),
+        fill=(0, 0, 0),
+        font=font_title,
+    )
+    draw.text(
+        text="Everything Bundle",
+        xy=(100, 120),
         fill=(0, 0, 0),
         font=font_title,
     )
 
+#    draw.text(
+#        text="All the",
+#        xy=(220, 200),
+#        fill=(0, 0, 0),
+#        font=font_title,
+#    )
     draw.text(
-        text="All the",
-        xy=(220, 200),
+        text="Perl      Python      Go",
+        xy=(110, 440),
         fill=(0, 0, 0),
         font=font_title,
     )
-    draw.text(
-        text="Perl, Python, and Go",
-        xy=(220, 300),
-        fill=(0, 0, 0),
-        font=font_title,
-    )
-    draw.text(
-        text="courses",
-        xy=(220, 400),
-        fill=(0, 0, 0),
-        font=font_title,
-    )
+#    draw.text(
+#        text="courses",
+#        xy=(110, 450),
+#        fill=(0, 0, 0),
+#        font=font_title,
+#    )
 
 
     isize = 300
-    embed_image(img=img, filename='perl.png',     size=(150, 150), box=(30, 30),  mask=True)
-    embed_image(img=img, filename='golang.png',   size=(150, 150), box=(30, 200), mask=True)
-    embed_image(img=img, filename='python.png',   size=(150, 150), box=(30, 370), mask=True)
+    embed_image(img=img, filename='perl.png',     size=(150, 150), box=(110, 220),  mask=True)
+    embed_image(img=img, filename='python.png',   size=(150, 150), box=(410, 220), mask=True)
+    embed_image(img=img, filename='golang.png',   size=(150, 150), box=(710, 220), mask=True)
 
     img.save(png_filepath)
     img.show()
