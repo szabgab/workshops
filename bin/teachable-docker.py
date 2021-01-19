@@ -34,9 +34,8 @@ def main():
 
     draw = ImageDraw.Draw(img)
 
-
     isize = 300
-    embed_image(img=img, filename='perl-left.png', size=(300, 300), box=(30, 100), mask=True)
+    embed_image(img=img, filename='docker-moby-logo.png', size=(300, 300), box=(30, 500), mask=True)
 
     img.save(png_filepath)
     img.show()
