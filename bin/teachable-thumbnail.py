@@ -33,8 +33,13 @@ from teachable import embed_image, thumbnail
 #    text  = ["Parallel processing", "in Perl", "Improve the speed of your programs.", "Use all of your cores.", "Don't waste time by waiting for I/O."],
 #)
 
-
 thumbnail(
-    left  = 'golang.png',
-    text  = ["Programming in Go", "", "", "", ""],
+    left  = 'perl-left.png',
+    text  = ["Testing in Perl", "", "Feel safe that changes in one place", "don't break other parts of your code.", "Write unit, integration, and regression tests."],
 )
+# "Mock 3rd party libraries and services.",
+
+#thumbnail(
+#    left  = 'golang.png',
+#    text  = ["Programming in Go", "", "", "", ""],
+#)

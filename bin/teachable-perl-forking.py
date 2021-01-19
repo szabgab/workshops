@@ -65,7 +65,8 @@ def main():
 
     isize = 300
     #embed_image(img=img, filename='gabor2_612x612.jpg', size=(isize, isize), box=(width-isize-30, height-isize-30))
-    embed_image(img=img, filename='perl_maven_logo_150x150.png', box=(30, 30), mask=True)
+    #embed_image(img=img, filename='perl_maven_logo_150x150.png', box=(30, 30), mask=True)
+    embed_image(img=img, filename='perl-left.png', size=(300, 300), box=(30, 100), mask=True)
 
     img.save(png_filepath)
     img.show()

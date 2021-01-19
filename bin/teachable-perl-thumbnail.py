@@ -36,16 +36,14 @@ def main():
     font = ImageFont.truetype('Pillow/Tests/fonts/FreeSansBold.ttf', 40)
     draw = ImageDraw.Draw(img)
     draw.text(
-        #text="The Code Maven",
-        text="All or nothing!",
-        xy=(40, 20),
+        text="The Code Maven",
+        xy=(100, 20),
         fill=(0, 0, 0),
         font=font_title,
     )
     draw.text(
-        #text="Everything Bundle 2021 Q1",
-        text="With monthly payment",
-        xy=(40, 120),
+        text="Perl Bundle",
+        xy=(100, 120),
         fill=(0, 0, 0),
         font=font_title,
     )
@@ -57,7 +55,7 @@ def main():
 #        font=font_title,
 #    )
     draw.text(
-        text="Perl      Python      Go",
+        text="All the Perl courses",
         xy=(110, 440),
         fill=(0, 0, 0),
         font=font_title,
@@ -71,9 +69,9 @@ def main():
 
 
     isize = 300
-    embed_image(img=img, filename='perl.png',     size=(150, 150), box=(110, 220),  mask=True)
-    embed_image(img=img, filename='python.png',   size=(150, 150), box=(410, 220), mask=True)
-    embed_image(img=img, filename='golang.png',   size=(150, 150), box=(710, 220), mask=True)
+    embed_image(img=img, filename='perl.png',     size=(150, 150), box=(410, 220),  mask=True)
+    #embed_image(img=img, filename='python.png',   size=(150, 150), box=(410, 220), mask=True)
+    #embed_image(img=img, filename='golang.png',   size=(150, 150), box=(710, 220), mask=True)
 
     img.save(png_filepath)
     img.show()
