@@ -39,13 +39,19 @@ from teachable import embed_image, thumbnail
 #)
 # "Mock 3rd party libraries and services.",
 
+thumbnail(
+    left  = 'perl-left.png',
+    text  = ["Perl Tk", "Creating a Desktop GUI", "", "", ""],
+)
+
+
 #thumbnail(
 #    left  = 'golang.png',
 #    text  = ["Programming in Go", "", "", "", ""],
 #)
 
 
-thumbnail(
-    left  = 'docker-moby-logo.png',
-    text  = ["  Docker", "", "Make it easy to start developing a project.", "Create standardized environments.", "Make it easy to deploy your application."],
-)
+#thumbnail(
+#    left  = 'docker-moby-logo.png',
+#    text  = ["  Docker", "", "Make it easy to start developing a project.", "Create standardized environments.", "Make it easy to deploy your application."],
+#)
