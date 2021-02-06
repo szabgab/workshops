@@ -7,10 +7,10 @@ from mypil import add_text, add_date, embed_image
 width  = 1280
 height = 720
 
-#background_color = '#eb8634'
+background_color = '#eb8634'
 #background_color = '#ebb434'
 #background_color = '#DDDDDD'
-background_color = '#2fa149'
+#background_color = '#2fa149'
 
 root = os.path.dirname(os.path.dirname(__file__))
 #print(root)
