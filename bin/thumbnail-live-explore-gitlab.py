@@ -27,7 +27,7 @@ def main():
     draw = ImageDraw.Draw(img)
     add_text(
         draw = draw,
-        text = "Exploring BDD with Perl - part 4",
+        text = "Exploring GitLab CI",
         rtl  = False,
         size = 80,
         xy   = (50, 30),
@@ -43,7 +43,7 @@ def main():
 
     add_text(
         draw = draw,
-        text = "Using Test::BDD::Cucumber",
+        text = "Trying to imitate Jenkins",
         rtl  = False,
         size = 80,
         xy   = (50, 240),
@@ -68,7 +68,7 @@ def main():
 
     isize = 350
     embed_image(img=img, filename='gabor2_612x612.jpg', size=(isize, isize), box=(10, height-isize-10))
-    embed_image(img=img, filename='perl-left.png', size=(isize, isize), box=(width-isize-10, isize), mask=True)
+    embed_image(img=img, filename='gitlab.jpg', size=(isize, isize), box=(width-isize-10, isize), mask=False)
 
     img.save(png_filepath)
     img.show()
