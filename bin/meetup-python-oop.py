@@ -42,7 +42,7 @@ def main():
 
     add_text(
         draw = draw,
-        text = "טסטינג בפייתון פרק ה",
+        text = "תכנות מונחה עצמים בפייתון",
         rtl  = True,
         xy   = (820, 30),
         size = 60,
@@ -50,26 +50,18 @@ def main():
 
     add_text(
         draw = draw,
-        text = "Using Pytest - Part 5",
+        text = "Python",
         rtl  = False,
-        xy   = (220, 160),
+        xy   = (60, 160),
         size = 60,
     )
 
-    #add_text(
-    #    draw = draw,
-    #    text = "in Docker",
-    #    rtl  = False,
-    #    xy   = (270, 290),
-    #    size = 60,
-    #)
-
     add_text(
         draw = draw,
-        text = "(in Hebrew)",
+        text = "OOP - Object Oriented Programming",
         rtl  = False,
-        xy   = (220, 290),
-        size = 40,
+        xy   = (60, 290),
+        size = 60,
     )
 
 
@@ -78,7 +70,7 @@ def main():
         date_top   = images_top,
         font       = font,
         draw       = draw,
-        date       = "04.03.2021",
+        date       = "25.03.2021",
         day        = heb("יום ה"),
         hours      = "09:00-11:00",
     )
