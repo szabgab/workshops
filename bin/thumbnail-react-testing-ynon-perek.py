@@ -27,27 +27,27 @@ def main():
     draw = ImageDraw.Draw(img)
     add_text(
         draw = draw,
-        text = "Learning automation using",
-        rtl  = False,
+        text = "פרונט-אנד טסטינג עם ראקט",
+        rtl  = True,
         size = 80,
-        xy   = (200, 30),
+        xy   = (1200, 30),
     )
+
+#    add_text(
+#        draw = draw,
+#        text = "(R)?ex",
+#        rtl  = False,
+#        size = 80,
+#        xy   = (200, 200),
+#    )
+
 
     add_text(
         draw = draw,
-        text = "(R)?ex",
-        rtl  = False,
+        text = "גאבור סבו                         ינון פרק",
+        rtl  = True,
         size = 80,
-        xy   = (200, 200),
-    )
-
-
-    add_text(
-        draw = draw,
-        text = "Ferenc Erki              Gabor Szabo",
-        rtl  = False,
-        size = 80,
-        xy   = (10, 420),
+        xy   = (1250, 400),
     )
 #
 #    add_text(
@@ -75,9 +75,8 @@ def main():
     #)
 
 
-    embed_image(img=img, filename='ferenc_erki.jpeg',   size=(200, 200), box=(10, 500))
+    embed_image(img=img, filename='ynon_perek.jpeg',    size=(200, 200), box=(10, 500))
     embed_image(img=img, filename='gabor2_612x612.jpg', size=(200, 200), box=(width-200-10, 500))
-    embed_image(img=img, filename='rex.png', box=(10, 10), mask=True)
 
     img.save(png_filepath)
     img.show()
