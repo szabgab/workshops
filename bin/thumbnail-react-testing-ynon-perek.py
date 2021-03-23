@@ -27,7 +27,7 @@ def main():
     draw = ImageDraw.Draw(img)
     add_text(
         draw = draw,
-        text = "פרונט-אנד טסטינג עם ראקט",
+        text = "פרונט-אנד טסטינג עם ריאקט",
         rtl  = True,
         size = 80,
         xy   = (1200, 30),
