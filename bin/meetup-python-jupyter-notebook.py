@@ -42,7 +42,7 @@ def main():
 
     add_text(
         draw = draw,
-        text = "טסטינג בפייתון פרק ו",
+        text = "תכנות פייתון ביופיטר נוטבוק",
         rtl  = True,
         xy   = (820, 30),
         size = 60,
@@ -50,9 +50,9 @@ def main():
 
     add_text(
         draw = draw,
-        text = "Using Pytest - Part 6",
+        text = "Python with Jupyter Notebook",
         rtl  = False,
-        xy   = (220, 160),
+        xy   = (40, 160),
         size = 60,
     )
 
@@ -78,7 +78,7 @@ def main():
         date_top   = images_top,
         font       = font,
         draw       = draw,
-        date       = "21.04.2021",
+        date       = "28.04.2021",
         day        = heb("יום ד"),
         hours      = "09:00-11:00",
     )

@@ -50,7 +50,7 @@ def main():
 
     add_text(
         draw = draw,
-        text = "Python",
+        text = "Python       (part 2)",
         rtl  = False,
         xy   = (60, 160),
         size = 60,
@@ -70,8 +70,8 @@ def main():
         date_top   = images_top,
         font       = font,
         draw       = draw,
-        date       = "25.03.2021",
-        day        = heb("יום ה"),
+        date       = "07.04.2021",
+        day        = heb("יום ד"),
         hours      = "09:00-11:00",
     )
 
