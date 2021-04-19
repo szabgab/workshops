@@ -27,32 +27,32 @@ def main():
     draw = ImageDraw.Draw(img)
     add_text(
         draw = draw,
-        text = "Live web development",
+        text = "Managing jobs in a PBS",
         rtl  = False,
         size = 80,
-        xy   = (350, 30),
+        xy   = (250, 30),
     )
 
     add_text(
         draw = draw,
-        text = "part 2",
+        text = "cluster using Python",
         rtl  = False,
         size = 80,
-        xy   = (350, 200),
+        xy   = (250, 200),
     )
 
 
     add_text(
         draw = draw,
-        text = "Mark Gardner          Gábor Szabó",
+        text = "Oz Mendelsohn      Gábor Szabó",
         rtl  = False,
         size = 80,
-        xy   = (10, 420),
+        xy   = (30, 420),
     )
 
-    embed_image(img=img, filename='mark_gardner.jpeg',   size=(200, 200), box=(10, 500))
+    embed_image(img=img, filename='oz_mendelshon.jpeg',   size=(200, 200), box=(10, 500))
     embed_image(img=img, filename='gabor2_612x612.jpg', size=(200, 200), box=(width-200-10, 500))
-    embed_image(img=img, filename='mojolicious.png', box=(10, 10), mask=True)
+    embed_image(img=img, filename='python.png', box=(10, 10), mask=True)
 
     img.save(png_filepath)
     img.show()

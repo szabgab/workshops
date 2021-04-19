@@ -27,32 +27,51 @@ def main():
     draw = ImageDraw.Draw(img)
     add_text(
         draw = draw,
-        text = "Live web development",
+        #text = "Exploring BDD with Perl - part 5",
+        text = "Perl      Test::BDD::Cucumber",
         rtl  = False,
         size = 80,
-        xy   = (350, 30),
+        xy   = (50, 30),
     )
+
+#    add_text(
+#        draw = draw,
+#        text = "in our own script",
+#        rtl  = False,
+#        size = 80,
+#        xy   = (50, 240),
+#    )
 
     add_text(
         draw = draw,
-        text = "part 2",
+        #text = "Using Test::BDD::Cucumber",
+        text = "part 5 with Erik Hülsmann",
         rtl  = False,
         size = 80,
-        xy   = (350, 200),
+        xy   = (50, 240),
     )
 
+    #add_text(
+    #    draw = draw,
+    #    text = "in less than",
+    #    rtl  = False,
+    #    size = 60,
+    #    xy   = (250, 440),
+    #)
 
-    add_text(
-        draw = draw,
-        text = "Mark Gardner          Gábor Szabó",
-        rtl  = False,
-        size = 80,
-        xy   = (10, 420),
-    )
+    #add_text(
+    #    draw = draw,
+    #    text = "14 minutes",
+    #    rtl  = False,
+    #    size = 60,
+    #    xy   = (250, 540),
+    #)
 
-    embed_image(img=img, filename='mark_gardner.jpeg',   size=(200, 200), box=(10, 500))
-    embed_image(img=img, filename='gabor2_612x612.jpg', size=(200, 200), box=(width-200-10, 500))
-    embed_image(img=img, filename='mojolicious.png', box=(10, 10), mask=True)
+
+    isize = 350
+    #embed_image(img=img, filename='gabor2_612x612.jpg', size=(isize, isize), box=(10, height-isize-10))
+    embed_image(img=img, filename='erik_hulsmann.jpeg', size=(isize, isize), box=(10, height-250-10))
+    embed_image(img=img, filename='perl-left.png', size=(isize, isize), box=(width-isize-10, isize), mask=True)
 
     img.save(png_filepath)
     img.show()

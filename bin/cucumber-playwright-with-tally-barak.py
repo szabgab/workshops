@@ -27,48 +27,43 @@ def main():
     draw = ImageDraw.Draw(img)
     add_text(
         draw = draw,
-        text = "Exploring BDD with Perl - part 4",
+        text = "Cucumber and",
         rtl  = False,
         size = 80,
-        xy   = (50, 30),
+        xy   = (220, 30),
     )
-
-#    add_text(
-#        draw = draw,
-#        text = "in our own script",
-#        rtl  = False,
-#        size = 80,
-#        xy   = (50, 240),
-#    )
 
     add_text(
         draw = draw,
-        text = "Using Test::BDD::Cucumber",
+        text = "Playwright",
         rtl  = False,
         size = 80,
-        xy   = (50, 240),
+        xy   = (650, 200),
     )
 
-    #add_text(
-    #    draw = draw,
-    #    text = "in less than",
-    #    rtl  = False,
-    #    size = 60,
-    #    xy   = (250, 440),
-    #)
 
-    #add_text(
-    #    draw = draw,
-    #    text = "14 minutes",
-    #    rtl  = False,
-    #    size = 60,
-    #    xy   = (250, 540),
-    #)
+    add_text(
+        draw = draw,
+        text = "with Tally Barak",
+        rtl  = False,
+        size = 80,
+        xy   = (50, 400),
+    )
 
 
-    isize = 350
-    embed_image(img=img, filename='gabor2_612x612.jpg', size=(isize, isize), box=(10, height-isize-10))
-    embed_image(img=img, filename='perl-left.png', size=(isize, isize), box=(width-isize-10, isize), mask=True)
+
+#    add_text(
+#        draw = draw,
+#        text = "Tally Barak          Gábor Szabó",
+#        rtl  = False,
+#        size = 80,
+#        xy   = (10, 420),
+#    )
+
+    embed_image(img=img, filename='tally_barak.png', size=(200, 200), box=(10, 500))
+    embed_image(img=img, filename='gabor2_612x612.jpg', size=(200, 200), box=(width-200-10, 500))
+    embed_image(img=img, filename='cucumber.png', size=(200, 200), box=(10, 10), mask=True)
+    embed_image(img=img, filename='playwright.png', size=(200, 200), box=(1060, 10), mask=True)
 
     img.save(png_filepath)
     img.show()

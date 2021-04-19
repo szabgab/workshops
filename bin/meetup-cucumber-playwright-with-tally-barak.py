@@ -44,27 +44,27 @@ def main():
 
     add_text(
         draw = draw,
-        text = "in TypeScript",
+        text = "in TypeScript with Tally Barak",
         rtl  = False,
         xy   = (20, 140),
         size = 60,
     )
 
-    add_text(
-        draw = draw,
-        text = "With Tally Barak",
-        rtl  = False,
-        xy   = (20, 250),
-        size = 60,
-    )
+#    add_text(
+#        draw = draw,
+#        text = "with Tally Barak",
+#        rtl  = False,
+#        xy   = (20, 250),
+#        size = 60,
+#    )
 
-    add_text(
-        draw = draw,
-        text = "(in Hebrew)",
-        rtl  = False,
-        xy   = (20, 360),
-        size = 60,
-    )
+#    add_text(
+#        draw = draw,
+#        text = "(in English)",
+#        rtl  = False,
+#        xy   = (20, 360),
+#        size = 60,
+#    )
 
 
     add_date(
@@ -79,9 +79,9 @@ def main():
 
     add_text(
         draw = draw,
-        text = "טלי ברק",
-        rtl  = True,
-        xy   = (340, images_top + 50),
+        text = "Tally Barak",
+        rtl  = False,
+        xy   = (40, 400),
         size = 30,
     )
 
@@ -96,9 +96,9 @@ def main():
 #
     add_text(
         draw = draw,
-        text = "גאבור סבו",
-        rtl  = True,
-        xy   = (970, images_top + 50),
+        text = "Gábor Szabó",
+        rtl  = False,
+        xy   = (980, 400),
         size = 30,
     )
 
