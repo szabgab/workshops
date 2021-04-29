@@ -35,7 +35,7 @@ def main():
 
     add_text(
         draw = draw,
-        text = "(R)?ex - part 3",
+        text = "(R)?ex - part 4",
         rtl  = False,
         size = 80,
         xy   = (200, 200),
