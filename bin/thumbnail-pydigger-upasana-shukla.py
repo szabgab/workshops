@@ -27,27 +27,27 @@ def main():
     draw = ImageDraw.Draw(img)
     add_text(
         draw = draw,
-        text = "Fullstack application",
+        text = "Working on PyDigger",
         rtl  = False,
         size = 80,
         xy   = (230, 30),
     )
 
-    add_text(
-        draw = draw,
-        text = "React development - part 2",
-        rtl  = False,
-        size = 80,
-        xy   = (230, 200),
-    )
+#    add_text(
+#        draw = draw,
+#        text = "Front-end: React - part 1",
+#        rtl  = False,
+#        size = 80,
+#        xy   = (230, 200),
+#    )
 
 
     add_text(
         draw = draw,
-        text = "Ivett Ördög              Gábor Szabó",
+        text = "Upasana Shukla    Gábor Szabó",
         rtl  = False,
         size = 80,
-        xy   = (10, 420),
+        xy   = (20, 420),
     )
 #
 #    add_text(
@@ -75,9 +75,9 @@ def main():
     #)
 
 
-    embed_image(img=img, filename='ivett_ordog.jpeg',   size=(200, 200), box=(10, 500))
+    embed_image(img=img, filename='upasana_shukla.jpeg',   size=(200, 200), box=(10, 500))
     embed_image(img=img, filename='gabor2_612x612.jpg', size=(200, 200), box=(width-200-10, 500))
-    embed_image(img=img, filename='reactjs.png', box=(10, 10), mask=True)
+    embed_image(img=img, filename='python.png', box=(10, 10), mask=True)
 
     img.save(png_filepath)
     img.show()
