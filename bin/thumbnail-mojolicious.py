@@ -50,7 +50,7 @@ def main():
         xy   = (10, 420),
     )
 
-    embed_image(img=img, filename='mark_gardner.jpeg',   size=(200, 200), box=(10, 500))
+    embed_image(img=img, filename='mark_gardner.png',   size=(200, 200), box=(10, 500))
     embed_image(img=img, filename='gabor2_612x612.jpg', size=(200, 200), box=(width-200-10, 500))
     embed_image(img=img, filename='mojolicious.png', box=(10, 10), mask=True)
 
