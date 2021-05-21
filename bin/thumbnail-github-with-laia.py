@@ -27,57 +27,32 @@ def main():
     draw = ImageDraw.Draw(img)
     add_text(
         draw = draw,
-        text = "Fullstack application",
+        text = "Crear una página de",
         rtl  = False,
         size = 80,
-        xy   = (230, 30),
+        xy   = (250, 30),
     )
 
     add_text(
         draw = draw,
-        text = "React development - part 2",
+        text = "GitHub",
         rtl  = False,
         size = 80,
-        xy   = (230, 200),
+        xy   = (250, 200),
     )
 
 
     add_text(
         draw = draw,
-        text = "Ivett Ördög              Gábor Szabó",
+        text = "Laia Asensio López                Gábor Szabó",
         rtl  = False,
-        size = 80,
-        xy   = (10, 420),
+        size = 60,
+        xy   = (30, 420),
     )
-#
-#    add_text(
-#        draw = draw,
-#        text = "and Gábor Szabó",
-#        rtl  = False,
-#        size = 80,
-#        xy   = (50, 540),
-#    )
 
-    #add_text(
-    #    draw = draw,
-    #    text = "in less than",
-    #    rtl  = False,
-    #    size = 60,
-    #    xy   = (250, 440),
-    #)
-
-    #add_text(
-    #    draw = draw,
-    #    text = "14 minutes",
-    #    rtl  = False,
-    #    size = 60,
-    #    xy   = (250, 540),
-    #)
-
-
-    embed_image(img=img, filename='ivett_ordog.jpeg',   size=(200, 200), box=(10, 500))
+    embed_image(img=img, filename='laia.jpeg',   size=(200, 200), box=(10, 500))
     embed_image(img=img, filename='gabor2_612x612.jpg', size=(200, 200), box=(width-200-10, 500))
-    embed_image(img=img, filename='reactjs.png', box=(10, 10), mask=True)
+    embed_image(img=img, filename='github-octocat.png', size=(200, 200), box=(10, 10), mask=True)
 
     img.save(png_filepath)
     img.show()
