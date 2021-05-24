@@ -33,13 +33,13 @@ def main():
         xy   = (230, 30),
     )
 
-#    add_text(
-#        draw = draw,
-#        text = "Front-end: React - part 1",
-#        rtl  = False,
-#        size = 80,
-#        xy   = (230, 200),
-#    )
+    add_text(
+        draw = draw,
+        text = "part 2",
+        rtl  = False,
+        size = 80,
+        xy   = (230, 200),
+    )
 
 
     add_text(
