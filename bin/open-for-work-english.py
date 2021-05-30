@@ -6,8 +6,8 @@ width  = 1280
 height = 720
 
 # background_color = '#eb8634'
-#background_color = '#ebb434'
-background_color = '#DDDDDD'
+background_color = '#ebb434'
+#background_color = '#DDDDDD'
 
 root = os.path.dirname(os.path.dirname(__file__))
 #print(root)
@@ -27,57 +27,55 @@ def main():
     draw = ImageDraw.Draw(img)
     add_text(
         draw = draw,
-        text = "Self knowledge application",
+        text = "I am open for my next assignment",
         rtl  = False,
-        size = 80,
-        xy   = (230, 30),
+        size = 70,
+        xy   = (50, 30),
     )
 
     add_text(
         draw = draw,
-        text = "React development - part 5",
+        text = "- Introduce test automation",
         rtl  = False,
-        size = 80,
-        xy   = (230, 200),
+        size = 65,
+        xy   = (50, 170),
     )
+    add_text(
+        draw = draw,
+        text = "- Setup CI system",
+        rtl  = False,
+        size = 65,
+        xy   = (50, 250),
+    )
+
+    add_text(
+        draw = draw,
+        text = "- Modernize code base (Python, Perl)",
+        rtl  = False,
+        size = 65,
+        xy   = (50, 330),
+    )
+
+    add_text(
+        draw = draw,
+        text = "- Create Docker containers",
+        rtl  = False,
+        size = 65,
+        xy   = (50, 410),
+    )
+
 
 
     add_text(
         draw = draw,
-        text = "Ivett Ördög              Gábor Szabó",
+        text = "Gábor Szabó",
         rtl  = False,
-        size = 80,
-        xy   = (10, 420),
+        size = 50,
+        xy   = (750, 620),
     )
-#
-#    add_text(
-#        draw = draw,
-#        text = "and Gábor Szabó",
-#        rtl  = False,
-#        size = 80,
-#        xy   = (50, 540),
-#    )
 
-    #add_text(
-    #    draw = draw,
-    #    text = "in less than",
-    #    rtl  = False,
-    #    size = 60,
-    #    xy   = (250, 440),
-    #)
-
-    #add_text(
-    #    draw = draw,
-    #    text = "14 minutes",
-    #    rtl  = False,
-    #    size = 60,
-    #    xy   = (250, 540),
-    #)
-
-
-    embed_image(img=img, filename='ivett_ordog.jpeg',   size=(200, 200), box=(10, 500))
     embed_image(img=img, filename='gabor2_612x612.jpg', size=(200, 200), box=(width-200-10, 500))
-    embed_image(img=img, filename='reactjs.png', box=(10, 10), mask=True)
+    #embed_image(img=img, filename='mojolicious.png', box=(10, 10), mask=True)
 
     img.save(png_filepath)
     img.show()

@@ -27,27 +27,27 @@ def main():
     draw = ImageDraw.Draw(img)
     add_text(
         draw = draw,
-        text = "Self knowledge application",
+        text = "ספריה לטקסט דו-כיווני ברסט",
         rtl  = False,
         size = 80,
-        xy   = (230, 30),
+        xy   = (200, 30),
     )
+
+#    add_text(
+#        draw = draw,
+#        text = "(R)?ex",
+#        rtl  = False,
+#        size = 80,
+#        xy   = (200, 200),
+#    )
+
 
     add_text(
         draw = draw,
-        text = "React development - part 5",
+        text = "גאבור סבו                         שי ברגר",
         rtl  = False,
         size = 80,
-        xy   = (230, 200),
-    )
-
-
-    add_text(
-        draw = draw,
-        text = "Ivett Ördög              Gábor Szabó",
-        rtl  = False,
-        size = 80,
-        xy   = (10, 420),
+        xy   = (20, 400),
     )
 #
 #    add_text(
@@ -75,9 +75,9 @@ def main():
     #)
 
 
-    embed_image(img=img, filename='ivett_ordog.jpeg',   size=(200, 200), box=(10, 500))
+    embed_image(img=img, filename='shai_berger.jpeg',    size=(200, 200), box=(10, 500))
     embed_image(img=img, filename='gabor2_612x612.jpg', size=(200, 200), box=(width-200-10, 500))
-    embed_image(img=img, filename='reactjs.png', box=(10, 10), mask=True)
+    embed_image(img=img, filename='rust.png', size=(200, 200), box=(10, 10))
 
     img.save(png_filepath)
     img.show()
