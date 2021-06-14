@@ -35,7 +35,7 @@ def main():
 
     add_text(
         draw = draw,
-        text = "React development - part 5",
+        text = "React development - part 7",
         rtl  = False,
         size = 80,
         xy   = (230, 200),

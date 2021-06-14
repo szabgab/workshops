@@ -35,7 +35,7 @@ def main():
 
     add_text(
         draw = draw,
-        text = "Programming",
+        text = "Programming - part 2",
         rtl  = False,
         size = 80,
         xy   = (330, 200),
@@ -43,10 +43,10 @@ def main():
 
     add_text(
         draw = draw,
-        text = "Part 1",
+        text = "puts, print, p!",
         rtl  = False,
         size = 80,
-        xy   = (330, 400),
+        xy   = (30, 400),
     )
 
 
