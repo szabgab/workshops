@@ -35,7 +35,7 @@ def main():
 
     add_text(
         draw = draw,
-        text = "Programming - part 2",
+        text = "Programming - part 1",
         rtl  = False,
         size = 80,
         xy   = (330, 200),
@@ -43,45 +43,19 @@ def main():
 
     add_text(
         draw = draw,
-        text = "puts, print, p!",
+        text = "Installation and Hello World!",
         rtl  = False,
-        size = 80,
+        size = 60,
         xy   = (30, 400),
     )
-
 
     add_text(
         draw = draw,
         text = "    Gábor Szabó",
         rtl  = False,
         size = 60,
-        xy   = (720, 420),
+        xy   = (620, 620),
     )
-#
-#    add_text(
-#        draw = draw,
-#        text = "and Gábor Szabó",
-#        rtl  = False,
-#        size = 80,
-#        xy   = (50, 540),
-#    )
-
-    #add_text(
-    #    draw = draw,
-    #    text = "in less than",
-    #    rtl  = False,
-    #    size = 60,
-    #    xy   = (250, 440),
-    #)
-
-    #add_text(
-    #    draw = draw,
-    #    text = "14 minutes",
-    #    rtl  = False,
-    #    size = 60,
-    #    xy   = (250, 540),
-    #)
-
 
     embed_image(img=img, filename='gabor2_612x612.jpg', size=(200, 200), box=(width-200-10, 500))
     embed_image(img=img, filename='crystal_b.png', size=(200, 200), box=(10, 10), mask=True)
