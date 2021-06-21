@@ -27,27 +27,27 @@ def main():
     draw = ImageDraw.Draw(img)
     add_text(
         draw = draw,
-        text = "Self knowledge application",
+        text = "Web application testing",
         rtl  = False,
-        size = 80,
-        xy   = (230, 30),
+        size = 70,
+        xy   = (240, 30),
     )
 
     add_text(
         draw = draw,
-        text = "React development - part 8",
+        text = "with",
         rtl  = False,
-        size = 80,
-        xy   = (230, 200),
+        size = 70,
+        xy   = (540, 180),
     )
 
 
     add_text(
         draw = draw,
-        text = "Ivett Ördög              Gábor Szabó",
+        text = "Selenium and Python",
         rtl  = False,
         size = 80,
-        xy   = (10, 420),
+        xy   = (240, 330),
     )
 #
 #    add_text(
@@ -75,9 +75,10 @@ def main():
     #)
 
 
-    embed_image(img=img, filename='ivett_ordog.jpeg',   size=(200, 200), box=(10, 500))
+    embed_image(img=img, filename='selenium-green.png', size=(200, 208), box=(10, 10))
+    embed_image(img=img, filename='python.png',         size=(200, 200), box=(width-200-10, 10), mask=True)
+    embed_image(img=img, filename='ynon_perek.jpeg',    size=(200, 200), box=(10, 500))
     embed_image(img=img, filename='gabor2_612x612.jpg', size=(200, 200), box=(width-200-10, 500))
-    embed_image(img=img, filename='reactjs.png', box=(10, 10), mask=True)
 
     img.save(png_filepath)
     img.show()
