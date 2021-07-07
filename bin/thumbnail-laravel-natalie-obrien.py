@@ -59,7 +59,7 @@ def main():
 
     embed_image(img=img, filename='natalie_obrien.jpeg',   size=(200, 200), box=(10, 500))
     embed_image(img=img, filename='gabor2_612x612.jpg', size=(200, 200), box=(width-200-10, 500))
-    embed_image(img=img, filename='laravel.png', size=(200, 200), box=(10, 10), mask=False)
+    #embed_image(img=img, filename='laravel.png', size=(200, 200), box=(10, 10), mask=False)
 
     img.save(png_filepath)
     img.show()
