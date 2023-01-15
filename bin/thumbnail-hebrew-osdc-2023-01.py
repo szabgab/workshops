@@ -24,12 +24,12 @@ def main():
     else:
         end = 1
 
-    for episode in range(1, end+1):
+    for episode in ['1', '2-1', '2-2']: #range(1, end+1):
         create_thumbnail(episode=episode, show=(end==1))
 
 
 def create_thumbnail(episode, show=False):
-    png_filename = os.path.splitext(os.path.basename(__file__))[0] + f'_{episode:02n}.png'
+    png_filename = os.path.splitext(os.path.basename(__file__))[0] + f'_{episode}.png'
     #print(png_filename)
 
     img_dir = os.path.join(root, 'images', 'osdc')
