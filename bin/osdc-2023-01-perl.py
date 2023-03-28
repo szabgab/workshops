@@ -29,7 +29,8 @@ def main():
     #for episode in ['3-1', '3-2']:
     #for episode in ['4-1', '4-2']:
     #for episode in ['5-1', '5-2']:
-    for episode in ['6-1', '6-2']:
+    #for episode in ['6-1', '6-2']:
+    for episode in ['7-1', '7-2']:
         create_thumbnail(episode=episode, show=(end==1))
 
 
