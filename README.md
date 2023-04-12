@@ -1,1 +1,1 @@
-http://workshops.code-maven.com/
+The source of https://workshops.code-maven.com/
