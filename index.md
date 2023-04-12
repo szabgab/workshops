@@ -78,6 +78,8 @@ a private e-mail to gabor at szabgab.com.
 * Microservices Architecture
 * Serverless Architecture
 
+* [GitHub Actions to generate complex static web sites](github-actions-to-generate-complex-static-web-sites)
+
 Just to name a few.
 
 Some of workshops were also lead by [Yonit Gruber-Hazani](https://www.linkedin.com/in/yonitgruber/)
