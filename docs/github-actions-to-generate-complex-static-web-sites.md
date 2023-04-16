@@ -98,3 +98,8 @@
     * There is a [repository with GitHub Action](https://github.com/OSDC-Code-Maven/osdc-site-generator)
     * Using the cache is problematic.
 
+## Videos in Hebrew
+
+* [Part 1](https://youtu.be/Z-w7C9qhBGY)
+* [Part 2](https://youtu.be/5Tu9GeK84wM)
+
