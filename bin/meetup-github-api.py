@@ -70,7 +70,7 @@ def main():
         date_top   = images_top,
         font       = font,
         draw       = draw,
-        date       = "2023.04.30",
+        date       = "2023.05.07",
         day        = "יום א",
         hours      = "18:00-20:00",
     )
