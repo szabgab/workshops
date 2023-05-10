@@ -79,6 +79,7 @@ a private e-mail to gabor at szabgab.com.
 * Serverless Architecture
 
 * [GitHub Actions to generate complex static web sites](github-actions-to-generate-complex-static-web-sites)
+* [GitHub REST AP and GraphQL API](github-rest-api-and-graphql-api)
 
 Just to name a few.
 
