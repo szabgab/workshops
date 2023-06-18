@@ -29,7 +29,7 @@ def main():
     draw = ImageDraw.Draw(img)
     add_text(
         draw = draw,
-        text = heb("בואו נלמד ראסט ביחד - פרק 2"),
+        text = heb("בואו נלמד ראסט ביחד - פרק 3"),
         rtl  = True,
         size = 65,
         xy   = (1250, 30),
@@ -38,7 +38,8 @@ def main():
     add_text(
         draw = draw,
         #text = heb("מה הסידרה הזאת?"),
-        text = heb("התקנה ושלום עולם!"),
+        #text = heb("התקנה ושלום עולם!"),
+        text = heb("יצירת פרויקט בעזרת קרגו"),
         rtl  = True,
         size = 65,
         xy   = (1250, 180),
@@ -46,7 +47,7 @@ def main():
 
     add_text(
         draw = draw,
-        text = "Learning Rust together - part 2",
+        text = "Learning Rust together - part 3",
         rtl  = False,
         size = 64,
         xy   = (20, 420),
@@ -55,7 +56,8 @@ def main():
     add_text(
         draw = draw,
         #text = "What's up with this series?",
-        text = "Installation and Hello World!",
+        #text = "Installation and Hello World!",
+        text = "Creating a project using Cargo",
         rtl  = False,
         size = 65,
         xy   = (20, 580),
