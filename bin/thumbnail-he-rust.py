@@ -29,7 +29,7 @@ def main():
     draw = ImageDraw.Draw(img)
     add_text(
         draw = draw,
-        text = heb("בואו נלמד ראסט ביחד - פרק 4"),
+        text = heb("בואו נלמד ראסט ביחד - פרק 6"),
         rtl  = True,
         size = 65,
         xy   = (1250, 30),
@@ -40,7 +40,9 @@ def main():
         #text = heb("מה הסידרה הזאת?"),
         #text = heb("התקנה ושלום עולם!"),
         #text = heb("יצירת פרויקט בעזרת קרגו"),
-        text = heb("סקריפט לקומילצי והרצה"),
+        #text = heb("סקריפט לקומילצי והרצה"),
+        #text = heb("הערות בראסט"),
+        text = heb("הגדרה והדפסה של משתנים"),
         rtl  = True,
         size = 65,
         xy   = (1250, 180),
@@ -48,7 +50,7 @@ def main():
 
     add_text(
         draw = draw,
-        text = "Learning Rust together - part 4",
+        text = "Learning Rust together - part 6",
         rtl  = False,
         size = 64,
         xy   = (20, 420),
@@ -59,7 +61,9 @@ def main():
         #text = "What's up with this series?",
         #text = "Installation and Hello World!",
         #text = "Creating a project using Cargo",
-        text = "Shell script to compile and run",
+        #text = "Shell script to compile and run",
+        #text = "Comments in Rust",
+        text = "Definition and printing of variables",
         rtl  = False,
         size = 65,
         xy   = (20, 580),
@@ -69,7 +73,7 @@ def main():
     isize = 350
     #embed_image(img=img, filename='gabor2_612x612.jpg', size=(isize, isize), box=(width-isize-10, height-isize-10))
     embed_image(img=img, filename='rust-logo-512x512.png', size=(isize, isize), box=(10, 10), mask=True)
-    embed_image(img=img, filename='code_maven_440x440.png', size=(isize, isize), box=(width-isize-10, 360), mask=True)
+    #embed_image(img=img, filename='code_maven_440x440.png', size=(isize, isize), box=(width-isize-10, 360), mask=True)
 
 
     img.save(png_filepath)
