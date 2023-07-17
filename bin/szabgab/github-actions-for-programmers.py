@@ -1,6 +1,7 @@
 import os
 import sys
 from PIL import Image, ImageDraw, ImageFont
+sys.path.append('bin')
 from mypil import add_text, add_date, embed_image
 
 def heb(txt):
@@ -15,7 +16,7 @@ height = 598
 #background_color = '#ebb434'
 background_color = '#DDDDDD'
 
-root = os.path.dirname(os.path.dirname(__file__))
+root = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
 #print(root)
 
 def main():
