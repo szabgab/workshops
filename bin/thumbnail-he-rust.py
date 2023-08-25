@@ -29,7 +29,7 @@ def main():
     draw = ImageDraw.Draw(img)
     add_text(
         draw = draw,
-        text = heb("בואו נלמד ראסט ביחד - פרק 10"),
+        text = heb("בואו נלמד ראסט ביחד - פרק 11"),
         rtl  = True,
         size = 65,
         xy   = (1250, 30),
@@ -46,7 +46,8 @@ def main():
         #text = heb("טמפלייטים ותרומה לקוד פתוח"),
         #text = heb("המשתנים שלא משתנים"),
         #text = heb("המרת מחרוזת למספר"),
-        text = heb("קבלת קלט מהמקלדת"),
+        #text = heb("קבלת קלט מהמקלדת"),
+        text = heb("שימוש בספריה סטנדרטית"),
         rtl  = True,
         size = 65,
         xy   = (1250, 180),
@@ -54,7 +55,7 @@ def main():
 
     add_text(
         draw = draw,
-        text = "Learning Rust together - part 10",
+        text = "Learning Rust together - part 11",
         rtl  = False,
         size = 64,
         xy   = (20, 420),
@@ -71,7 +72,8 @@ def main():
         #text = "Handlebars and open source contribution",
         #text = "The variables that don't change",
         #text = "Converting string to number",
-        text = "Getting input from the keyboard (STDIN)",
+        #text = "Getting input from the keyboard (STDIN)",
+        text = "Using the standard library",
         rtl  = False,
         size = 65,
         xy   = (20, 580),
