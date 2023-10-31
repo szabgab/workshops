@@ -71,7 +71,7 @@ def main():
         date_top   = images_top,
         font       = font,
         draw       = draw,
-        date       = "2023.10.12",
+        date       = "November 12, 2023",
         day        = "18:00-19:00",
         hours      = "Online - in Hebrew",
     )
