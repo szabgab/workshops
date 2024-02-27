@@ -31,7 +31,7 @@ def main():
     draw = ImageDraw.Draw(img)
     add_text(
         draw = draw,
-        text = heb("קורס ראסט - פרק 5"),
+        text = heb("קורס ראסט - פרק 6"),
         rtl  = True,
         size = 65,
         xy   = (1250, 30),
@@ -43,7 +43,8 @@ def main():
         #text = heb("קפיצה קצרה לקליפי"),
         #text = heb("המרת מחרוזת למספר"),
         #text = heb("פרמטרים בשורת הפקודה"),
-        text = heb("חמישה שיפורים"),
+        #text = heb("חמישה שיפורים"),
+        text = heb("מספרים וטיפוסים"),
         rtl  = True,
         size = 65,
         xy   = (1250, 180),
@@ -51,7 +52,7 @@ def main():
 
     add_text(
         draw = draw,
-        text = "Rust Course - part 5",
+        text = "Rust Course - part 6",
         rtl  = False,
         size = 64,
         xy   = (20, 420),
@@ -63,7 +64,8 @@ def main():
         #text = "A short jump to Clippy",
         #text = "Convert a string to a number",
         #text = "Command line parameters - args",
-        text = "Turbofish, use, -q, fmt, absolute_paths",
+        #text = "Turbofish, use, -q, fmt, absolute_paths",
+        text = "Numbers and types of numbers",
         rtl  = False,
         size = 65,
         xy   = (20, 580),
