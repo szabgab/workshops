@@ -31,8 +31,8 @@ def main():
     draw = ImageDraw.Draw(img)
     add_text(
         draw = draw,
-        #text = heb("קורס ראסט - פרק 10"),
-        text = heb("למה להשתמש בראסט?"),
+        text = heb("קורס ראסט - פרק 11"),
+        #text = heb("למה להשתמש בראסט?"),
         rtl  = True,
         size = 65,
         xy   = (1250, 30),
@@ -50,7 +50,8 @@ def main():
         #text = heb("לספור מופעים במערך"),
         #text = heb("פונקציה גנרית של מערכים"),
         #text = heb("פרמטרים על שורת הפקודות"),
-        text = heb("הסיבות הכלכליות"),
+        #text = heb("הסיבות הכלכליות"),
+        text = heb("קריאת תוכן של קובץ"),
         rtl  = True,
         size = 65,
         xy   = (1250, 180),
@@ -58,8 +59,8 @@ def main():
 
     add_text(
         draw = draw,
-        #text = "Rust Course - part 10",
-        text = "Why use Rust?",
+        text = "Rust Course - part 11",
+        #text = "Why use Rust?",
         rtl  = False,
         size = 64,
         xy   = (20, 420),
@@ -77,7 +78,8 @@ def main():
         #text = "Count instances in an array",
         #text = "Arbitrary length of array of any type",
         #text = "Get parameters on the command line",
-        text = "The economic reasons",
+        #text = "The economic reasons",
+        text = "Read from file. unwrap, expect, match",
         rtl  = False,
         size = 65,
         xy   = (20, 580),
