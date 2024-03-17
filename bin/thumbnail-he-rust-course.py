@@ -31,7 +31,7 @@ def main():
     draw = ImageDraw.Draw(img)
     add_text(
         draw = draw,
-        text = heb("קורס ראסט - פרק 12"),
+        text = heb("קורס ראסט - פרק 13"),
         #text = heb("למה להשתמש בראסט?"),
         rtl  = True,
         size = 65,
@@ -52,7 +52,8 @@ def main():
         #text = heb("פרמטרים על שורת הפקודות"),
         #text = heb("הסיבות הכלכליות"),
         #text = heb("קריאת תוכן של קובץ"),
-        text = heb("שימוש בפילטר"),
+        #text = heb("שימוש בפילטר"),
+        text = heb("יצירת מקרו מפונקציה"),
         rtl  = True,
         size = 65,
         xy   = (1250, 180),
@@ -60,7 +61,7 @@ def main():
 
     add_text(
         draw = draw,
-        text = "Rust Course - part 12",
+        text = "Rust Course - part 13",
         #text = "Why use Rust?",
         rtl  = False,
         size = 64,
@@ -81,7 +82,8 @@ def main():
         #text = "Get parameters on the command line",
         #text = "The economic reasons",
         #text = "Read from file. unwrap, expect, match",
-        text = "Using filter to avoid mutable variables",
+        #text = "Using filter to avoid mutable variables",
+        text = "Converting function to macro",
         rtl  = False,
         size = 65,
         xy   = (20, 580),
