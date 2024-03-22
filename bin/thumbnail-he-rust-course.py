@@ -31,7 +31,7 @@ def main():
     draw = ImageDraw.Draw(img)
     add_text(
         draw = draw,
-        text = heb("קורס ראסט - פרק 17"),
+        text = heb("קורס ראסט - פרק 21"),
         #text = heb("למה להשתמש בראסט?"),
         rtl  = True,
         size = 65,
@@ -58,7 +58,11 @@ def main():
         #text = heb("ביטים ומחרוזות"),
         #text = heb("ביטים וציורים"),
         #text = heb("מחרוזת, הלוואה, בעלות"),
-        text = heb("מחרוזות והקצאת ציכרון"),
+        #text = heb("מחרוזות והקצאת ציכרון"),
+        #text = heb("מחרוזות שחלק מהקוד"),
+        #text = heb("הזזת מקרוס לקובץ אחר"),
+        #text = heb("שימוש קיצוני בקליפי"),
+        text = heb("לספור מופעים של ספרות"),
         rtl  = True,
         size = 65,
         xy   = (1250, 180),
@@ -66,7 +70,7 @@ def main():
 
     add_text(
         draw = draw,
-        text = "Rust Course - part 17",
+        text = "Rust Course - part 21",
         #text = "Why use Rust?",
         rtl  = False,
         size = 64,
@@ -93,7 +97,11 @@ def main():
         #text = "ASCII, Unicode (UTF-16, UTF-8)",
         #text = "bytes and chars",
         #text = "String and &str, borrowing, to_owned",
-        text = "Strings and memory allocation",
+        #text = "Strings and memory allocation",
+        #text = "Hard-coded strings, split, and slices",
+        #text = "Move macros to separate file",
+        #text = "Extreme Clippy",
+        text = "Counting digits",
         rtl  = False,
         size = 65,
         xy   = (20, 580),
