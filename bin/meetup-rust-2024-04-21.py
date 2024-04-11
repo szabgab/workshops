@@ -51,7 +51,7 @@ def main():
 
     add_text(
         draw = draw,
-        text = "Using AstroVim",
+        text = "Using AstroNvim",
         rtl  = False,
         xy   = (380, 160),
         size = 60,
