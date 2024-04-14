@@ -45,7 +45,7 @@ def main():
         draw = draw,
         text = "Rust in Israel Meetup",
         rtl  = False,
-        xy   = (380, 30),
+        xy   = (300, 30),
         size = 60,
     )
 
@@ -53,7 +53,7 @@ def main():
         draw = draw,
         text = "Using AstroNvim",
         rtl  = False,
-        xy   = (380, 160),
+        xy   = (300, 160),
         size = 60,
     )
 
@@ -61,7 +61,7 @@ def main():
         draw = draw,
         text = "for Rust Development",
         rtl  = False,
-        xy   = (380, 290),
+        xy   = (300, 290),
         size = 60,
     )
 
@@ -93,6 +93,7 @@ def main():
 #        size = 30,
 #    )
 
+    embed_image(img=img, filename='israel-flag-small.png', size=(isize, isize), box=(width-isize-10, 10))
     #embed_image(img=img, filename='gabor2_612x612.jpg', size=(isize, isize), box=(width-isize-10, height-isize-10))
     #embed_image(img=img, filename='code_maven_440x440.png', size=(isize, isize), box=(width-isize-10, 20), mask=True)
     #embed_image(img=img, filename='python.png', size=(isize, isize), box=(10, height-isize-10), mask=True)

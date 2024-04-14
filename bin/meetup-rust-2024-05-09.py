@@ -51,19 +51,35 @@ def main():
 
     add_text(
         draw = draw,
-        text = "Presentations to be announced",
+        text = "Are We Embedded Yet?",
         rtl  = False,
         xy   = (280, 160),
         size = 60,
     )
 
-#    add_text(
-#        draw = draw,
-#        text = "Our journey to error handling in Rust",
-#        rtl  = False,
-#        xy   = (80, 290),
-#        size = 60,
-#    )
+    add_text(
+        draw = draw,
+        text = "Implementing tiny HTTP server on a",
+        rtl  = False,
+        xy   = (200, 250),
+        size = 55,
+    )
+    add_text(
+        draw = draw,
+        text = "microcontroller",
+        rtl  = False,
+        xy   = (200, 300),
+        size = 55,
+    )
+
+    add_text(
+        draw = draw,
+        text = "+ 1 presentation",
+        rtl  = False,
+        xy   = (20, 380),
+        size = 55,
+    )
+
 
 
     add_date(
@@ -93,6 +109,7 @@ def main():
 #        size = 30,
 #    )
 
+    embed_image(img=img, filename='israel-flag-small.png', size=(isize, isize), box=(width-isize-10, 10))
     #embed_image(img=img, filename='gabor2_612x612.jpg', size=(isize, isize), box=(width-isize-10, height-isize-10))
     #embed_image(img=img, filename='code_maven_440x440.png', size=(isize, isize), box=(width-isize-10, 20), mask=True)
     #embed_image(img=img, filename='python.png', size=(isize, isize), box=(10, height-isize-10), mask=True)
