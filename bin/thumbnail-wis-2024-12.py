@@ -38,7 +38,7 @@ def main():
 
     add_text(
         draw = draw,
-        text = "Weizmann Institute - 3-2 (part 8)",
+        text = "Weizmann Institute - 3-3 (part 9)",
         rtl  = False,
         size = 80,
         xy   = (50, 150),
@@ -47,7 +47,8 @@ def main():
 
     add_text(
         draw = draw,
-        text = "__pycache__, .gitignore",
+        #text = "__pycache__, .gitignore",
+        text = "count digits of a string",
         rtl  = False,
         size = 80,
         xy   = (50, 300),
@@ -63,19 +64,19 @@ def main():
 #        text = "Getting input from STDIN",
 #        text = "flow control in Python",
 #        text = "Git, code-formatting, random.py",
-        text = "rename git repo",
+        text = "Python lists",
         rtl  = False,
         size = 80,
         xy   = (50, 420),
     )
 
-    add_text(
-        draw = draw,
-        text = "split code into functions",
-        rtl  = False,
-        size = 80,
-        xy   = (50, 540),
-    )
+#    add_text(
+#        draw = draw,
+#        text = "split code into functions",
+#        rtl  = False,
+#        size = 80,
+#        xy   = (50, 540),
+#    )
 
 
     #isize = 350
