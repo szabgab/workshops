@@ -38,10 +38,19 @@ def main():
 
     add_text(
         draw = draw,
-        text = "Weizmann Institute - 2-3 (part 6)",
+        text = "Weizmann Institute - 3-2 (part 8)",
         rtl  = False,
         size = 80,
         xy   = (50, 150),
+    )
+
+
+    add_text(
+        draw = draw,
+        text = "__pycache__, .gitignore",
+        rtl  = False,
+        size = 80,
+        xy   = (50, 300),
     )
 
 
@@ -52,7 +61,9 @@ def main():
 #        text = "Installing git on Windows",
 #        text = "Installing VS Code and Python",
 #        text = "Getting input from STDIN",
-        text = "flow control in Python",
+#        text = "flow control in Python",
+#        text = "Git, code-formatting, random.py",
+        text = "rename git repo",
         rtl  = False,
         size = 80,
         xy   = (50, 420),
@@ -60,14 +71,14 @@ def main():
 
     add_text(
         draw = draw,
-        text = "if, while, and break",
+        text = "split code into functions",
         rtl  = False,
-        size = 95,
+        size = 80,
         xy   = (50, 540),
     )
 
 
-    isize = 350
+    #isize = 350
     #embed_image(img=img, filename='gabor2_612x612.jpg', size=(isize, isize), box=(width-isize-10, height-isize-10))
     #embed_image(img=img, filename='rust-logo-512x512.png', size=(isize, isize), box=(10, 10), mask=True)
     #embed_image(img=img, filename='code_maven_440x440.png', size=(isize, isize), box=(width-isize-10, 360), mask=True)
