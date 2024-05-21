@@ -41,6 +41,10 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 * [Creating web presence with GitHub pages](creating-web-presence-with-github-pages)
 * [How Open source projects are developed and how do they maintain quality?](open-source-quality-assurance)
 
+* [Rust Maven Workshop: GitHub pages for Rust developers](github-pages-for-rust-developers)
+* [Rust Maven Workshop: Your first contribution to an Open Source Rust project](your-first-contribution-to-an-open-source-rust-project)
+
+
 ## Host a workshop
 
 Would you like to [host](host) a Code-Maven workshop?
