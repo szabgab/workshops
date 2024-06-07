@@ -17,7 +17,7 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 
 * Check out the [Meetup page](https://www.meetup.com/code-mavens/) or see the [earlier public events](history)
 
-## Earlier workshop
+## Earlier workshops and video recordings
 
 * 2024.06.06 [Your first contribution to an Open Source Rust project](https://www.meetup.com/code-mavens/events/301156302/) - [video](https://www.youtube.com/watch?v=Vf5-DRykoMIa)
 
