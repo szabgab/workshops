@@ -6,7 +6,6 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 
 ## Schedule of the public events that are usually free to participate in
 
-* 2024.06.09 [GitHub pages for Rust developers](https://www.meetup.com/code-mavens/events/301215326/).
 * 2024.06.13 [Getting started with Docker for Perl developers](https://www.meetup.com/code-mavens/events/301268306/).
 * 2024.06.16 [Web development in Rust using Rocket](https://www.meetup.com/code-mavens/events/301294669/).
 * 2024.06.18 [Testing Python code](https://www.meetup.com/code-mavens/events/301363070/).
@@ -20,6 +19,7 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 ## Earlier workshops and video recordings
 
 * 2024.06.06 [Your first contribution to an Open Source Rust project](https://www.meetup.com/code-mavens/events/301156302/) - [video](https://www.youtube.com/watch?v=Vf5-DRykoMIa)
+* 2024.06.09 [GitHub pages for Rust developers](https://www.meetup.com/code-mavens/events/301215326/).
 
 ## Available Workshops
 
