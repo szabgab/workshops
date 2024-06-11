@@ -24,10 +24,10 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 
 ## Earlier workshops and video recordings
 
-| When       | Lang   | What |
-| ---------- | ------ | ---- |
-| 2024.06.06 | Rust   | [Your first contribution to an Open Source Rust project](https://www.meetup.com/code-mavens/events/301156302/) - [video](https://www.youtube.com/watch?v=Vf5-DRykoMIa)
-| 2024.06.09 | Rust   | [GitHub pages for Rust developers](https://www.meetup.com/code-mavens/events/301215326/) - [video](https://www.youtube.com/watch?v=n1IZ5bjPX90).
+| When       | Lang   | What | Video |
+| ---------- | ------ | ---- | ----- |
+| 2024.06.06 | Rust   | [Your first contribution to an Open Source Rust project](https://www.meetup.com/code-mavens/events/301156302/) | [video](https://www.youtube.com/watch?v=Vf5-DRykoMIa) |
+| 2024.06.09 | Rust   | [GitHub pages for Rust developers](https://www.meetup.com/code-mavens/events/301215326/) | [video](https://www.youtube.com/watch?v=n1IZ5bjPX90) |
 
 
 ## Available Workshops
