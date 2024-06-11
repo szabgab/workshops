@@ -6,28 +6,28 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 
 ## Schedule of the public events that are usually free to participate in
 
-| When       | Lang   | What |
-| ---------- | ------ | ---- |
-| 2024.06.13 | Perl   | [Getting started with Docker for Perl developers](https://www.meetup.com/code-mavens/events/301268306/). |
-| 2024.06.16 | Rust   | [Web development in Rust using Rocket](https://www.meetup.com/code-mavens/events/301294669/). |
-| 2024.06.18 | Python | [Testing Python code](https://www.meetup.com/code-mavens/events/301363070/). |
-| 2024.06.20 | Python | [Functional programming in Python](https://www.meetup.com/code-mavens/events/301395323/). |
-| 2024.06.25 | Rust   | [Using the Liquid template system in Rust](https://www.meetup.com/code-mavens/events/301487547/) |
-| 2024.06.27 | Rust   | [Accepting parameters on the command line using Rust Clap](https://www.meetup.com/code-mavens/events/301506015/) |
-|            | |
-| 2024.07.07 | Python | [Getting started with web development using Python Flask](https://www.meetup.com/code-mavens/events/301574483/) |
-| 2024.07.09 | Rust   | |
-| 2024.07.11 |        | |
-| 2024.07.14 | Perl   | [Continuous Integration (CI): GitHub Actions for Perl Projects](https://www.meetup.com/code-mavens/events/301413566/) |
+| When       | Language   | What |
+| ---------- | ---------- | ---- |
+| 2024.06.13 | Perl       | [Getting started with Docker for Perl developers](https://www.meetup.com/code-mavens/events/301268306/). |
+| 2024.06.16 | Rust       | [Web development in Rust using Rocket](https://www.meetup.com/code-mavens/events/301294669/). |
+| 2024.06.18 | Python     | [Testing Python code](https://www.meetup.com/code-mavens/events/301363070/). |
+| 2024.06.20 | Python     | [Functional programming in Python](https://www.meetup.com/code-mavens/events/301395323/). |
+| 2024.06.25 | Rust       | [Using the Liquid template system in Rust](https://www.meetup.com/code-mavens/events/301487547/) |
+| 2024.06.27 | Rust       | [Accepting parameters on the command line using Rust Clap](https://www.meetup.com/code-mavens/events/301506015/) |
+|            |            |
+| 2024.07.07 | Python     | [Getting started with web development using Python Flask](https://www.meetup.com/code-mavens/events/301574483/) |
+| 2024.07.09 | Rust       | |
+| 2024.07.11 |            | |
+| 2024.07.14 | Perl       | [Continuous Integration (CI): GitHub Actions for Perl Projects](https://www.meetup.com/code-mavens/events/301413566/) |
 
 * Check out the [Meetup page](https://www.meetup.com/code-mavens/) or see the [earlier public events](history)
 
 ## Earlier workshops and video recordings
 
-| When       | Lang   | What | Video |
-| ---------- | ------ | ---- | ----- |
-| 2024.06.06 | Rust   | [Your first contribution to an Open Source Rust project](https://www.meetup.com/code-mavens/events/301156302/) | [video](https://www.youtube.com/watch?v=Vf5-DRykoMIa) |
-| 2024.06.09 | Rust   | [GitHub pages for Rust developers](https://www.meetup.com/code-mavens/events/301215326/) | [video](https://www.youtube.com/watch?v=n1IZ5bjPX90) |
+| When       | Language   | What | Video |
+| ---------- | ---------- | ---- | ----- |
+| 2024.06.06 | Rust       | [Your first contribution to an Open Source Rust project](https://www.meetup.com/code-mavens/events/301156302/) | [video](https://www.youtube.com/watch?v=Vf5-DRykoMIa) |
+| 2024.06.09 | Rust       | [GitHub pages for Rust developers](https://www.meetup.com/code-mavens/events/301215326/) | [video](https://www.youtube.com/watch?v=n1IZ5bjPX90) |
 
 
 ## Available Workshops
