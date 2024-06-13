@@ -24,16 +24,20 @@
 * [Docker compose PostgreSQL server](https://code-maven.com/slides/docker/docker-compose-postgresql-server)
 
 
+* [Docker compose Perl and PostgreSQL]((https://github.com/szabgab/docker-compose-perl-postgresql)
+
+* PostgreSQL
+
+```
+docker compose up
+```
+
+```
+docker compose exec client bash
+
+export PGPASSWORD=password
+echo "SELECT CURRENT_TIME" | psql -h pg-db-server -U username mydb
+```
+
 
 * Perl and PostgreSQL
-
-```
-docker-compose
-```
-
-now
-
-```
-docker compose
-```
-
