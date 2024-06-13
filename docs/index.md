@@ -46,6 +46,10 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 * [Rust Maven Workshop: GitHub pages for Rust developers](github-pages-for-rust-developers)
 * [Rust Maven Workshop: Your first contribution to an Open Source Rust project](your-first-contribution-to-an-open-source-rust-project)
 
+### Perl
+
+* [Continuous Integration (CI): GitHub Actions for Perl Projects](github-actions-for-perl-projects)
+
 ### git
 
 * [Git for beginners](git-for-beginners-part-1)
@@ -56,6 +60,7 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 ### Docker
 
 * [Getting started with Docker](getting-started-with-docker)
+* [Getting started with Docker for Perl developers](getting-started-with-docker-for-perl-developers)
 
 ### GitHub
 
