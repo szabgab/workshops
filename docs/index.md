@@ -15,9 +15,11 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 | 2024.06.27 | Rust       | [Accepting parameters on the command line using Rust Clap](https://www.meetup.com/code-mavens/events/301506015/) |
 |            |            |
 | 2024.07.07 | Python     | [Getting started with web development using Python Flask](https://www.meetup.com/code-mavens/events/301574483/) |
-| 2024.07.09 | Rust       | |
-| 2024.07.11 |            | |
+| 2024.07.11 | Rust       | [Reading JSON files in Rust](https://www.meetup.com/code-mavens/events/301636580/) |
 | 2024.07.14 | Perl       | [Continuous Integration (CI): GitHub Actions for Perl Projects](https://www.meetup.com/code-mavens/events/301413566/) |
+| 2024.07.16 |            | |
+
+| 2024.08.15 | Perl       |  |
 
 * Check out the [Meetup page](https://www.meetup.com/code-mavens/) or see the [earlier public events](history)
 
