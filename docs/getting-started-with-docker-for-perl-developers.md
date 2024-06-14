@@ -26,6 +26,10 @@
 
 * [Docker compose Perl and PostgreSQL]((https://github.com/szabgab/docker-compose-perl-postgresql)
 
+
+docker exec -it crazy_ardinghelli bash
+
+
 * PostgreSQL
 
 ```

@@ -8,7 +8,6 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 
 | When       | Language   | What |
 | ---------- | ---------- | ---- |
-| 2024.06.13 | Perl       | [Getting started with Docker for Perl developers](https://www.meetup.com/code-mavens/events/301268306/). |
 | 2024.06.16 | Rust       | [Web development in Rust using Rocket](https://www.meetup.com/code-mavens/events/301294669/). |
 | 2024.06.18 | Python     | [Testing Python code](https://www.meetup.com/code-mavens/events/301363070/). |
 | 2024.06.20 | Python     | [Functional programming in Python](https://www.meetup.com/code-mavens/events/301395323/). |
@@ -26,8 +25,9 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 
 | When       | Language   | What | Video |
 | ---------- | ---------- | ---- | ----- |
-| 2024.06.06 | Rust       | [Your first contribution to an Open Source Rust project](https://www.meetup.com/code-mavens/events/301156302/) | [video](https://www.youtube.com/watch?v=Vf5-DRykoMIa) |
-| 2024.06.09 | Rust       | [GitHub pages for Rust developers](https://www.meetup.com/code-mavens/events/301215326/) | [video](https://www.youtube.com/watch?v=n1IZ5bjPX90) |
+| 2024.06.06 | Rust       | [Your first contribution to an Open Source Rust project](https://www.meetup.com/code-mavens/events/301156302/) | [video](https://youtu.be/Vf5-DRykoMIa) |
+| 2024.06.09 | Rust       | [GitHub pages for Rust developers](https://www.meetup.com/code-mavens/events/301215326/)                       | [video](https://youtu.be/n1IZ5bjPX90)  |
+| 2024.06.13 | Perl       | [Getting started with Docker for Perl developers](https://www.meetup.com/code-mavens/events/301268306/).       | [video](https://youtu.be/mh9kx-Swx74)  |
 
 
 ## Available Workshops
