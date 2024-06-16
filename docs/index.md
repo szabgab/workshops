@@ -38,6 +38,7 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 
 * [Mocking in Python as a testing tool](mocking-in-python-as-a-testing-tool)
 * [Python Pair Programming with TDD](python-pair-programming-with-tdd)
+* [Testing Python code usign Pytest](testing-python-code-using-pytest)
 * [Python testing workshop](python-testing)
 * [Python pair programming - iteration vs recursion](python-iteration-vs-recursion)
 * [Image manipulation with Python PIL - Pillow](image-manipulation-with-python-pil-pillow)

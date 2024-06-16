@@ -9,10 +9,10 @@ You will then have the opportunity to create your own web site and get help from
 
 The workshop will be via Zoom
 Language: English.
+Workshop lead: [Gabor Szabo](https://szabgab.com/)
 Requirements: Basic familiarity with writing Rust will be enough.
 Length: up to 3 hours. 
-
-This workshop is free of charge thanks to the people who support me via one of the following systems: Github sponsor, Patreon, or directly via PayPal.
+Cost: This workshop is free of charge thanks to the people who support me via one of the following systems: [Github sponsor](https://github.com/sponsors/szabgab/), [Patreon](https://www.patreon.com/szabgab), or directly via [PayPal](https://www.paypal.com/paypalme/szabgab).
 
 ## Notes
 
