@@ -41,6 +41,11 @@ But I did not know about it so I created
 cargo install rocket-starter
 ```
 
+```
+cargo install cargo-watch
+cargo watch -x run
+```
+
 
 
 
