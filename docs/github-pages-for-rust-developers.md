@@ -13,4 +13,6 @@ Length: up to 3 hours. 
 This workshop is free of charge thanks to the people who support me via one of the following systems: Github sponsor, Patreon, or directly via PayPal.
 
 
+Generice notes for the [GitHub Pages](/github-pages) workshop.
+
 
