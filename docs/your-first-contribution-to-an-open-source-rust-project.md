@@ -1,5 +1,7 @@
 # Rust Maven Workshop: Your first contribution to an Open Source Rust project
 
+## Announcement
+
 During this workshop you will learn about various side of contribution to an open source project. We will cover both the technical and the human aspects of contributing to an open source project. We will discuss both the technical and cultural differences between working in a company and contributing to an open source project.
 
 Contributing a substantial improvement to an established open source project would probably take a lot more time than we have in this workshop so we are going to make some small, but still useful contributions to several open source projects.
@@ -19,4 +21,8 @@ This workshop is free of charge thanks to the people who support me via one of t
 
 
 
+## Notes
 
+* [Rust Digger](https://rust-digger.code-maven.com/)
+    * [Has homepages but no repository](https://rust-digger.code-maven.com/has-homepage-but-no-repo)
+    * [No repository, no homepage](https://rust-digger.code-maven.com/no-homepage-no-repo)

@@ -28,6 +28,5 @@ cargo install rocket-starter
 
 
 
-
 * [rocket_dyn_templates](https://crates.io/crates/rocket_dyn_templates)
 * [tera](https://crates.io/crates/tera)

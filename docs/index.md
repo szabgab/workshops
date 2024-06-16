@@ -13,20 +13,20 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 | 2024.06.20 | Python     | [Functional programming in Python](https://www.meetup.com/code-mavens/events/301395323/). |
 | 2024.06.25 | Rust       | [Using the Liquid template system in Rust](https://www.meetup.com/code-mavens/events/301487547/) |
 | 2024.06.27 | Rust       | [Accepting parameters on the command line using Rust Clap](https://www.meetup.com/code-mavens/events/301506015/) |
-|            |            |
+|            |            | |
 | 2024.07.07 | Python     | [Getting started with web development using Python Flask](https://www.meetup.com/code-mavens/events/301574483/) |
 | 2024.07.11 | Rust       | [Reading JSON files in Rust](https://www.meetup.com/code-mavens/events/301636580/) |
 | 2024.07.14 | Perl       | [Continuous Integration (CI): GitHub Actions for Perl Projects](https://www.meetup.com/code-mavens/events/301413566/) |
 | 2024.07.16 |            | |
 
-| 2024.08.15 | Perl       |  |
+| 2024.08.15 | Perl       | |
 
 * Check out the [Meetup page](https://www.meetup.com/code-mavens/) or see the [earlier public events](history)
 
 ## Earlier workshops and video recordings
 
 | When       | Language   | Video | Notes | Title |
-| ---------- | ---------- | ---- | ----- |
+| ---------- | ---------- | ----  | ----- | ----- |
 | 2024.06.06 | Rust       | [video](https://youtu.be/Vf5-DRykoMIa) | [notes](your-first-contribution-to-an-open-source-rust-project) | [Your first contribution to an Open Source Rust project](https://www.meetup.com/code-mavens/events/301156302/) |
 | 2024.06.09 | Rust       | [video](https://youtu.be/n1IZ5bjPX90)  | [notes](github-pages-for-rust-developers)                       | [GitHub pages for Rust developers](https://www.meetup.com/code-mavens/events/301215326/)                       |
 | 2024.06.13 | Perl       | [video](https://youtu.be/mh9kx-Swx74)  | [notes](getting-started-with-docker-for-perl-developers)        | [Getting started with Docker for Perl developers](https://www.meetup.com/code-mavens/events/301268306/).       |

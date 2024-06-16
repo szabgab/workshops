@@ -1,5 +1,7 @@
 # Rust Maven Workshop: GitHub pages for Rust developers
 
+## Announcement
+
 In this workshop you will create a web site on GitHub while using Rust.
 During the workshop I will provide explanation on how to setup Github pages and how to use Rust for this.
 You will then have the opportunity to create your own web site and get help from me with any of the issues you encounter.
@@ -12,7 +14,10 @@ Length: up to 3 hours. 
 
 This workshop is free of charge thanks to the people who support me via one of the following systems: Github sponsor, Patreon, or directly via PayPal.
 
+## Notes
 
-Generice notes for the [GitHub Pages](/github-pages) workshop.
+* [GitHub Pages for Rust developers](https://rust.code-maven.com/github-pages-for-rust-developers) on the Rust Maven site.
+
+Generic notes for the [GitHub Pages](/github-pages) workshop.
 
 
