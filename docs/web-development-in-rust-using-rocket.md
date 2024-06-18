@@ -11,7 +11,7 @@ The workshop will be via Zoom (link will be announced close to the event)
 Language: English.
 Workshop lead: [Gabor Szabo](https://szabgab.com/)
 Requirements: Basic familiarity with writing Rust will be enough.
-Length: up to 3 hours.
+Length: up to 2 hours.
 
 Cost: This workshop is free of charge thanks to the people who support me via one of the following systems: [Github sponsor](https://github.com/sponsors/szabgab/), [Patreon](https://www.patreon.com/szabgab), or directly via [PayPal](https://www.paypal.com/paypalme/szabgab).
 
@@ -46,8 +46,20 @@ cargo install cargo-watch
 cargo watch -x run
 ```
 
-
-
-
 * [rocket_dyn_templates](https://crates.io/crates/rocket_dyn_templates)
 * [tera](https://crates.io/crates/tera)
+
+
+* [Rocket Discussion forum](https://github.com/rwf2/Rocket/discussions)
+
+In this meeting we covered
+* GET and a tiny bit POST requests.
+* Request routing.
+* Templates - Tera
+* 404 catcher.
+* A little bit getting parameters via GET and POST requests.
+* Testing the simple examples.
+* We used the rocket-starter with the following flags:  `--simple`, `--tera1`, `--tera2` `--tera-module`.
+* We mentioned that it is using Tokio and that we can use `async`, but we have not tried it.
+
+
