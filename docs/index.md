@@ -8,7 +8,6 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 
 | When       | Language   | What |
 | ---------- | ---------- | ---- |
-| 2024.06.18 | Python     | [Testing Python code](https://www.meetup.com/code-mavens/events/301363070/). |
 | 2024.06.20 | Python     | [Functional programming in Python](https://www.meetup.com/code-mavens/events/301395323/). |
 | 2024.06.25 | Rust       | [Using the Liquid template system in Rust](https://www.meetup.com/code-mavens/events/301487547/) |
 | 2024.06.27 | Rust       | [Accepting parameters on the command line using Rust Clap](https://www.meetup.com/code-mavens/events/301506015/) |
@@ -26,10 +25,11 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 
 | When       | Language   | Video | Notes | Title |
 | ---------- | ---------- | ----  | ----- | ----- |
-| 2024.06.06 | Rust       | [video](https://youtu.be/Vf5-DRykoMIa) | [notes](your-first-contribution-to-an-open-source-rust-project) | [Your first contribution to an Open Source Rust project](https://www.meetup.com/code-mavens/events/301156302/) |
-| 2024.06.09 | Rust       | [video](https://youtu.be/n1IZ5bjPX90)  | [notes](github-pages-for-rust-developers)                       | [GitHub pages for Rust developers](https://www.meetup.com/code-mavens/events/301215326/)                       |
-| 2024.06.13 | Perl       | [video](https://youtu.be/mh9kx-Swx74)  | [notes](getting-started-with-docker-for-perl-developers)        | [Getting started with Docker for Perl developers](https://www.meetup.com/code-mavens/events/301268306/).       |
-| 2024.06.16 | Rust       | [video](https://youtu.be/xaPZhZ-o2bI)  | [notes](web-development-in-rust-using-rocket)                   | [Web development in Rust using Rocket](https://www.meetup.com/code-mavens/events/301294669/).                  |
+| 2024.06.06 | Rust       | [video](https://youtu.be/Vf5-DRykoMIa) | [notes](your-first-contribution-to-an-open-source-rust-project) | [Your first contribution to an Open Source Rust project](https://www.meetup.com/code-mavens/events/301156302/). |
+| 2024.06.09 | Rust       | [video](https://youtu.be/n1IZ5bjPX90)  | [notes](github-pages-for-rust-developers)                       | [GitHub pages for Rust developers](https://www.meetup.com/code-mavens/events/301215326/).                       |
+| 2024.06.13 | Perl       | [video](https://youtu.be/mh9kx-Swx74)  | [notes](getting-started-with-docker-for-perl-developers)        | [Getting started with Docker for Perl developers](https://www.meetup.com/code-mavens/events/301268306/).        |
+| 2024.06.16 | Rust       | [video](https://youtu.be/xaPZhZ-o2bI)  | [notes](web-development-in-rust-using-rocket)                   | [Web development in Rust using Rocket](https://www.meetup.com/code-mavens/events/301294669/).                   |
+| 2024.06.18 | Python     | [video](https://youtu.be/I43eplQafcg)  | [notes](testing-python-code-using-pytest)                       | [Testing Python code using Pytest](https://www.meetup.com/code-mavens/events/301363070/).                       |
 
 
 ## Available Workshops
@@ -38,7 +38,7 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 
 * [Mocking in Python as a testing tool](mocking-in-python-as-a-testing-tool)
 * [Python Pair Programming with TDD](python-pair-programming-with-tdd)
-* [Testing Python code usign Pytest](testing-python-code-using-pytest)
+* [Testing Python code using Pytest](testing-python-code-using-pytest)
 * [Python testing workshop](python-testing)
 * [Python pair programming - iteration vs recursion](python-iteration-vs-recursion)
 * [Image manipulation with Python PIL - Pillow](image-manipulation-with-python-pil-pillow)
