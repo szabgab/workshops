@@ -1,4 +1,4 @@
-# Rust Maven Workshop: Your first contribution to an Open Source Rust project
+# Your first contribution to an Open Source Rust project
 
 ## Announcement
 
@@ -21,8 +21,3 @@ This workshop is free of charge thanks to the people who support me via one of t
 
 
 
-## Notes
-
-* [Rust Digger](https://rust-digger.code-maven.com/)
-    * [Has homepages but no repository](https://rust-digger.code-maven.com/has-homepage-but-no-repo)
-    * [No repository, no homepage](https://rust-digger.code-maven.com/no-homepage-no-repo)
