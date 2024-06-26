@@ -8,17 +8,18 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 
 | When       | Language   | What |
 | ---------- | ---------- | ---- |
-| 2024.06.25 | Rust       | [Using the Liquid template system in Rust](https://www.meetup.com/code-mavens/events/301487547/) |
 | 2024.06.27 | Rust       | [Accepting parameters on the command line using Rust Clap](https://www.meetup.com/code-mavens/events/301506015/) |
 |            |            | |
 | 2024.07.07 | Python     | [Getting started with web development using Python Flask](https://www.meetup.com/code-mavens/events/301574483/) |
-| 2024.07.09 | -          | [Getting started with Linux on Linode in the cloud for less than 1 cent](https://www.meetup.com/code-mavens/events/301812560/) |
+| 2024.07.09 |            | [Getting started with Linux on Linode in the cloud for less than 1 cent](https://www.meetup.com/code-mavens/events/301812560/) |
 | 2024.07.11 | Rust       | [Reading JSON files in Rust](https://www.meetup.com/code-mavens/events/301636580/) |
 | 2024.07.14 | Perl       | [Continuous Integration (CI): GitHub Actions for Perl Projects](https://www.meetup.com/code-mavens/events/301413566/) |
 | 2024.07.16 | Rust       | [Web development in Rust using Rocket - part 2](https://www.meetup.com/code-mavens/events/301736709/) |
 | 2024.07.18 | Python     | [Testing Python with Pytest: The magic of fixtures](https://www.meetup.com/code-mavens/events/301810834/) |
-
+<!--
+|            |            | |
 | 2024.08.15 | Perl       | |
+-->
 
 * Check out the [Meetup page](https://www.meetup.com/code-mavens/) or see the [earlier public events](history)
 
@@ -35,6 +36,7 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 | 2024.06.16 | Rust       | [Web development in Rust using Rocket](https://rust.code-maven.com/web-development-in-rust-using-rocket)                                     | [event](https://www.meetup.com/code-mavens/events/301294669/) |
 | 2024.06.18 | Python     | [Testing Python code using Pytest](https://python.code-maven.com/testing-python-code-with-pytest)                                            | [event](https://www.meetup.com/code-mavens/events/301363070/) |
 | 2024.06.20 | Python     | [Functional programming in Python](https://python.code-maven.com/functional-programming-in-python)                                           | [event](https://www.meetup.com/code-mavens/events/301395323/) |
+| 2024.06.25 | Rust       | [Using the Liquid template system in Rust](https://rust.code-maven.com/using-the-liquid-template-system-in-rust)                             | [event](https://www.meetup.com/code-mavens/events/301487547/) |
 
 
 ## Available Workshops
