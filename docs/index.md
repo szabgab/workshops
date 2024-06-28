@@ -81,6 +81,7 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 
 * [Linux as a virtual environment](linux-as-a-virtual-environment)
 * [Opening the Linux Shell](opening-the-linux-shell)
+* [Getting started with Linux on Linode in the cloud for less than 1 cent](getting-started-with-linux-on-linode-in-the-cloud)
 
 ### Other
 
