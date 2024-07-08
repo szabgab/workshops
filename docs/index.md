@@ -13,10 +13,10 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 | 2024.07.07 | Python     | [Getting started with web development using Python Flask](https://www.meetup.com/code-mavens/events/301574483/) |
 | 2024.07.09 |            | [Getting started with Linux on Linode in the cloud for less than 1 cent](https://www.meetup.com/code-mavens/events/301812560/) |
 | 2024.07.11 | Rust       | [Reading JSON files in Rust](https://www.meetup.com/code-mavens/events/301636580/) |
-| 2024.07.14 | Perl       | [Continuous Integration (CI): GitHub Actions for Perl Projects](https://www.meetup.com/code-mavens/events/301413566/) |
-| 2024.07.16 | Rust       | [Web development in Rust using Rocket - part 2](https://www.meetup.com/code-mavens/events/301736709/) |
-| 2024.07.18 | Python     | [Testing Python with Pytest: The magic of fixtures](https://www.meetup.com/code-mavens/events/301810834/) |
+| 2024.07.25 | Python     | [Testing Python with Pytest: The magic of fixtures](https://www.meetup.com/code-mavens/events/301810834/) |
 |            |            | |
+| 2024.08.04 | Perl       | [Continuous Integration (CI): GitHub Actions for Perl Projects](https://www.meetup.com/code-mavens/events/301413566/) |
+| 2024.08.06 | Rust       | [Web development in Rust using Rocket - part 2](https://www.meetup.com/code-mavens/events/301736709/) |
 | 2024.08.15 | Perl       | [GitHub Pages for Perl developers](https://www.meetup.com/code-mavens/events/301871765/) |
 
 * Check out the [Meetup page](https://www.meetup.com/code-mavens/) or see the [earlier public events](history)
