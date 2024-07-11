@@ -9,7 +9,6 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 | When       | Language   | What |
 | ---------- | ---------- | ---- |
 |            |            | |
-| 2024.07.11 | Rust       | [Reading JSON files in Rust](https://www.meetup.com/code-mavens/events/301636580/) |
 | 2024.07.25 | Python     | [Testing Python with Pytest: The magic of fixtures](https://www.meetup.com/code-mavens/events/301810834/) |
 | 2024.07.31 | Rust       | [Command Line Tools: Implementing wc in Rust](https://www.meetup.com/code-mavens/events/302151487/) |
 |            |            | |
@@ -36,6 +35,7 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 | 2024.06.27 | Rust       | [Accepting parameters on the command line using Rust Clap](https://rust.code-maven.com/accepting-parameters-on-the-command-line-using-rust-clap) | [event](https://www.meetup.com/code-mavens/events/301506015/) |
 | 2024.07.07 | Python     | [Getting started with web development using Python Flask](https://python.code-maven.com/getting-started-with-web-development-using-python-flask) | [event](https://www.meetup.com/code-mavens/events/301574483/) |
 | 2024.07.09 |            | [Getting started with Linux on Linode in the cloud for less than 1 cent](https://python.code-maven.com/getting-started-with-linux-on-linode)     | [event](https://www.meetup.com/code-mavens/events/301812560/) |
+| 2024.07.11 | Rust       | [Reading JSON files in Rust](https://rust.code-maven.com/reading-json-files-in-rust)                                                             | [event](https://www.meetup.com/code-mavens/events/301636580/) |
 
 
 ## Available Workshops
