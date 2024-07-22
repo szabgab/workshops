@@ -14,6 +14,7 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 |            |            | |
 | 2024.08.04 | Perl       | [Continuous Integration (CI): GitHub Actions for Perl Projects](https://www.meetup.com/code-mavens/events/301413566/) |
 | 2024.08.06 | Rust       | [Web development in Rust using Rocket - part 2](https://www.meetup.com/code-mavens/events/301736709/) |
+| 2024.08.08 | Rust       | [Rust Source Code Reading: The thousands crate](https://www.meetup.com/code-mavens/events/302391142/) |
 | 2024.08.15 | Perl       | [GitHub Pages for Perl developers](https://www.meetup.com/code-mavens/events/301871765/) |
 
 * Check out the [Meetup page](https://www.meetup.com/code-mavens/) or see the [earlier public events](history)
