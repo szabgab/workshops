@@ -9,13 +9,9 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 | When       | Language   | What |
 | ---------- | ---------- | ---- |
 |            |            | |
-| 2024.07.25 | Python     | [Testing Python with Pytest: The magic of fixtures](https://www.meetup.com/code-mavens/events/301810834/) |
-| 2024.07.31 | Rust       | [Command Line Tools: Implementing wc in Rust](https://www.meetup.com/code-mavens/events/302151487/) |
-|            |            | |
-| 2024.08.04 | Perl       | [Continuous Integration (CI): GitHub Actions for Perl Projects](https://www.meetup.com/code-mavens/events/301413566/) |
-| 2024.08.06 | Rust       | [Web development in Rust using Rocket - part 2](https://www.meetup.com/code-mavens/events/301736709/) |
-| 2024.08.08 | Rust       | [Rust Source Code Reading: The thousands crate](https://www.meetup.com/code-mavens/events/302391142/) |
 | 2024.08.15 | Perl       | [GitHub Pages for Perl developers](https://www.meetup.com/code-mavens/events/301871765/) |
+| 2024.08.28 | Rust       | [Command Line Tools: Implementing wc in Rust](https://www.meetup.com/code-mavens/events/302151487/) |
+| 2024.08.29 | Rust       | [Rust Source Code Reading: The thousands crate](https://www.meetup.com/code-mavens/events/302391142/) |
 
 * Check out the [Meetup page](https://www.meetup.com/code-mavens/) or see the [earlier public events](history)
 
@@ -37,6 +33,9 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 | 2024.07.07 | Python     | [Getting started with web development using Python Flask](https://python.code-maven.com/getting-started-with-web-development-using-python-flask) | [event](https://www.meetup.com/code-mavens/events/301574483/) |
 | 2024.07.09 |            | [Getting started with Linux on Linode in the cloud for less than 1 cent](https://python.code-maven.com/getting-started-with-linux-on-linode)     | [event](https://www.meetup.com/code-mavens/events/301812560/) |
 | 2024.07.11 | Rust       | [Reading JSON files in Rust](https://rust.code-maven.com/reading-json-files-in-rust)                                                             | [event](https://www.meetup.com/code-mavens/events/301636580/) |
+| 2024.07.25 | Python     | [Testing Python with Pytest: The magic of fixtures](https://python.code-maven.com/testing-python-with-pytest-the-magic-of-fixtures)              | [event](https://www.meetup.com/code-mavens/events/301810834/) |
+| 2024.08.04 | Perl       | Continuous Integration (CI): GitHub Actions for Perl Projects                                                                                    |  [event](https://www.meetup.com/code-mavens/events/301413566/) |
+| 2024.08.06 | Rust       | [Web development in Rust using Rocket - part 2](https://rust.code-maven.com/web-development-in-rust-using-rocket-building-a-job-board)           | [event](https://www.meetup.com/code-mavens/events/301736709/) |
 
 
 ## Available Workshops
