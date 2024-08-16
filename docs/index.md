@@ -16,14 +16,11 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 
 ## Earlier workshops and video recordings
 
-| When       | Language   | Video | Notes | Title |
-| ---------- | ---------- | ----  | ----- | ----- |
-| 2024.06.13 | Perl       | [video](https://youtu.be/mh9kx-Swx74)  | [notes](getting-started-with-docker-for-perl-developers)        | [Getting started with Docker for Perl developers](https://www.meetup.com/code-mavens/events/301268306/).        |
-
 | When       | Language   | Video recordings and notes                                                                                                                       |  event                                                        |
 | ---------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------- |
 | 2024.06.06 | Rust       | [Your first contribution to an Open Source Rust project](https://rust.code-maven.com/your-first-contribution-to-an-open-source-rust-project)     | [event](https://www.meetup.com/code-mavens/events/301156302/) |
 | 2024.06.09 | Rust       | [GitHub pages for Rust developers](https://rust.code-maven.com/github-pages-for-rust-developers)                                                 | [event](https://www.meetup.com/code-mavens/events/301215326/) |
+| 2024.06.13 | Perl       | [Getting started with Docker for Perl developers](https://perlmaven.com/getting-started-with-docker-for-perl-developers)                         | [event](https://www.meetup.com/code-mavens/events/301268306/).        |
 | 2024.06.16 | Rust       | [Web development in Rust using Rocket](https://rust.code-maven.com/web-development-in-rust-using-rocket)                                         | [event](https://www.meetup.com/code-mavens/events/301294669/) |
 | 2024.06.18 | Python     | [Testing Python code using Pytest](https://python.code-maven.com/testing-python-code-with-pytest)                                                | [event](https://www.meetup.com/code-mavens/events/301363070/) |
 | 2024.06.20 | Python     | [Functional programming in Python](https://python.code-maven.com/functional-programming-in-python)                                               | [event](https://www.meetup.com/code-mavens/events/301395323/) |
