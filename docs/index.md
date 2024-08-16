@@ -14,6 +14,8 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 
 * Check out the [Meetup page](https://www.meetup.com/code-mavens/) or see the [earlier public events](history)
 
+* Separate pages for [Rust](https://rust.code-maven.com/live), [Python](https://python.code-maven.com/live), and [Perl](https://perlmaven.com/live).
+
 ## Earlier workshops and video recordings
 
 | When       | Language   | Video recordings and notes                                                                                                                       |  event                                                        |
