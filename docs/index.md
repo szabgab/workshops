@@ -30,7 +30,7 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 | 2024.07.09 |            | [Getting started with Linux on Linode in the cloud for less than 1 cent](https://python.code-maven.com/getting-started-with-linux-on-linode)     | [event](https://www.meetup.com/code-mavens/events/301812560/) |
 | 2024.07.11 | Rust       | [Reading JSON files in Rust](https://rust.code-maven.com/reading-json-files-in-rust)                                                             | [event](https://www.meetup.com/code-mavens/events/301636580/) |
 | 2024.07.25 | Python     | [Testing Python with Pytest: The magic of fixtures](https://python.code-maven.com/testing-python-with-pytest-the-magic-of-fixtures)              | [event](https://www.meetup.com/code-mavens/events/301810834/) |
-| 2024.08.04 | Perl       | Continuous Integration (CI): GitHub Actions for Perl Projects                                                                                    | [event](https://www.meetup.com/code-mavens/events/301413566/) |
+| 2024.08.04 | Perl       | [Continuous Integration (CI): GitHub Actions for Perl Projects](https://perlmaven.com/github-actions-for-perl-projects)                          | [event](https://www.meetup.com/code-mavens/events/301413566/) |
 | 2024.08.06 | Rust       | [Web development in Rust using Rocket - part 2](https://rust.code-maven.com/web-development-in-rust-using-rocket-building-a-job-board)           | [event](https://www.meetup.com/code-mavens/events/301736709/) |
 | 2024.08.15 | Perl       | [GitHub Pages for Perl developers](https://perlmaven.com/github-pages-for-perl-developers)                                                       | [event](https://www.meetup.com/code-mavens/events/301871765/) |
 
