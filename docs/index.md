@@ -9,7 +9,6 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 | When       | Language   | What |
 | ---------- | ---------- | ---- |
 |            |            | |
-| 2024.08.28 | Rust       | [Command Line Tools: Implementing wc in Rust](https://www.meetup.com/code-mavens/events/302151487/) |
 | 2024.08.29 | Rust       | [Rust Source Code Reading: The thousands crate](https://www.meetup.com/code-mavens/events/302391142/) |
 
 * Check out the [Meetup page](https://www.meetup.com/code-mavens/) or see the [earlier public events](history)
@@ -35,6 +34,7 @@ Lead by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 | 2024.08.04 | Perl       | [Continuous Integration (CI): GitHub Actions for Perl Projects](https://perlmaven.com/github-actions-for-perl-projects)                          | [event](https://www.meetup.com/code-mavens/events/301413566/) |
 | 2024.08.06 | Rust       | [Web development in Rust using Rocket - part 2](https://rust.code-maven.com/web-development-in-rust-using-rocket-building-a-job-board)           | [event](https://www.meetup.com/code-mavens/events/301736709/) |
 | 2024.08.15 | Perl       | [GitHub Pages for Perl developers](https://perlmaven.com/github-pages-for-perl-developers)                                                       | [event](https://www.meetup.com/code-mavens/events/301871765/) |
+| 2024.08.28 | Rust       | [Command Line Tools: Implementing wc in Rust](https://rust.code-maven.com/implementing-wc-in-rust)  | [event](https://www.meetup.com/code-mavens/events/302151487/) |
 
 
 ## Available Workshops
